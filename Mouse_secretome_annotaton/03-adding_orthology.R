@@ -2,7 +2,9 @@
 
 ## ============================================================
 ## Add human orthology to existing per-gland mastersheets only
-## (preserves one-to-many mappings; fills missing as mouse-specific)
+## - One row per mouse gene (no row expansion)
+## - human_gene aggregates ALL orthologs per mouse gene (pipe-separated)
+## - ortholog_type becomes "mouse-specific" when no human match
 ## ============================================================
 
 suppressPackageStartupMessages({
@@ -29,9 +31,15 @@ out_files <- setNames(file.path(out_dir, paste0(glands, "_mastersheet_TPMs_annot
 orth_fp <- file.path(in_dir, "orthologs_with_classification.csv")
 
 ## ----------------
-## Load orthologs
+## Load & aggregate orthologs
 ## ----------------
-orth <- readr::read_csv(
+collapse_unique <- function(x) {
+  x <- unique(na.omit(x))
+  x <- x[nzchar(x)]
+  if (length(x) == 0) NA_character_ else paste(x, collapse = " | ")
+}
+
+orth_raw <- readr::read_csv(
   orth_fp,
   col_types = readr::cols(.default = readr::col_character())
 ) %>%
@@ -41,9 +49,18 @@ orth <- readr::read_csv(
     ortholog_type = str_trim(ortholog_type)
   )
 
-if (!all(c("mouse_gene", "human_gene", "ortholog_type") %in% names(orth))) {
+if (!all(c("mouse_gene", "human_gene", "ortholog_type") %in% names(orth_raw))) {
   stop("Ortholog file must contain columns: mouse_gene, human_gene, ortholog_type")
 }
+
+# Aggregate to one row per mouse gene with all human orthologs/types
+orth_agg <- orth_raw %>%
+  group_by(mouse_gene) %>%
+  summarise(
+    human_gene    = collapse_unique(human_gene),
+    ortholog_type = collapse_unique(ortholog_type),
+    .groups = "drop"
+  )
 
 ## ----------------
 ## Helpers
@@ -64,12 +81,12 @@ annotate_one <- function(g) {
     return(invisible(NULL))
   }
   
-  # Left-join expands rows for one-to-many mappings automatically
+  # Join to aggregated orthologs (no row expansion)
   df2 <- df %>%
-    left_join(orth, by = c("Geneid" = "mouse_gene")) %>%
-    # If no human match, mark as mouse-specific
+    left_join(orth_agg, by = c("Geneid" = "mouse_gene")) %>%
     mutate(
-      ortholog_type = if_else(is.na(human_gene), "mouse-specific", ortholog_type)
+      # mark mouse-specific where no human match
+      ortholog_type = if_else(is.na(human_gene) | human_gene == "", "mouse-specific", ortholog_type)
     ) %>%
     relocate(human_gene, ortholog_type, .after = Geneid)
   
@@ -87,7 +104,7 @@ missing  <- setdiff(glands, existing)
 
 if (length(missing) > 0) {
   message("⚠️ Missing mastersheets (will skip): ", paste(missing, collapse = ", "))
-  found <- list.files(in_dir, pattern = "_mastersheet_TPMs_annotated\\.csv$", full.names = TRUE)
+  found <- list.files(in_dir, pattern = "_mastersheet_TPMs_annotated_for_secretion\\.csv$", full.names = TRUE)
   if (length(found)) {
     message("📄 Found in directory:\n  - ", paste(found, collapse = "\n  - "))
   }
