@@ -1,0 +1,40 @@
+﻿Geneid,Entry,Reviewed,Entry Name,Protein names,Gene Names,Organism,Length,Annotation,Tissue specificity,Subcellular location [CC],Gene Ontology (GO),Function [CC],Catalytic activity,DNA binding,Gene Ontology (molecular function),Gene Ontology (biological process),Gene Ontology (cellular component),Gene Ontology IDs,.secreted_match_cols,secreted,Reference,Function
+Scgb1b26-ps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b13-ps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b23-ps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b4-ps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Scgb2b6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Cd24a,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Crisp3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Mucl1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Klk1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Klk10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Klk12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Klk13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Klk1b1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Klk1b11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Klk1b16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,doi: 10.1021/bi00395a026 / https://doi.org/10.3389/fimmu.2021.729040,immunity
+Klk1b21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,https://doi.org/10.3892/ijo.2022.5312,glycoprotein
+Klk1b22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,https://doi.org/10.1016/j.archoralbio.2020.104967,saliva_homeostasis
+Klk1b24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk1b26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk1b27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk1b3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk1b4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk1b5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk1b7-ps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk1b8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk1b9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Klk9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Prol1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Dcpp1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Dcpp2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
+Dcpp3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,manual_annotation,,
