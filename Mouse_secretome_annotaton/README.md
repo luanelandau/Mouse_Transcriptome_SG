@@ -13,6 +13,7 @@ Open mouse_proteome/function_add.csv. Add (or edit) the row for your Geneid with
 Re-run:
 Rscript secretome_annotation_dictionary.R
 Rscript annotate_each_gland_secreted_non_secreted_mouse.R
+Rscript adding_orthology_to_mouse_sheets_update.R
 
 **How to set secreted manually**
 Open mouse_proteome/mannual_curation.csv.
