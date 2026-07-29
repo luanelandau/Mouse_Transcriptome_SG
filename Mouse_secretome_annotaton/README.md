@@ -1,33 +1,77 @@
-**Mouse Secretome & Mastersheets**
+# Mouse Secretome Annotation
 
-TPMs in: gene_expression_matrix_C57_CD1_TPMs.csv
+This folder contains the scripts and supporting files used to classify mouse genes as secreted or non-secreted and to add secretome and orthology annotations to the tissue-specific expression mastersheets.
 
-**Build the dictionary**
-Rscript secretome_annotation_dictionary.R
+## Input
 
-**Build per-gland mastersheets (PAR, SM, SL, LIV, PANC)**
-Rscript annotate_each_gland_secreted_non_secreted_mouse.R
+TPM expression matrix:
 
-**How to update Function**
-Open mouse_proteome/function_add.csv. Add (or edit) the row for your Geneid with Function (and optional Reference).
-Re-run:
-Rscript secretome_annotation_dictionary.R
-Rscript annotate_each_gland_secreted_non_secreted_mouse.R
-Rscript adding_orthology_to_mouse_sheets_update.R
+```text
+gene_expression_matrix_C57_CD1_TPMs.csv
+```
 
-**How to set secreted manually**
-Open mouse_proteome/mannual_curation.csv.
-Add (or edit) the row for your Geneid with secreted = manual_annotation
-(optional: add Reference / Function).
-Re-run:
-Rscript secretome_annotation_dictionary.R
-Rscript annotate_each_gland_secreted_non_secreted_mouse.R
+## Workflow
 
-**What you get**
-Dictionary: mouse_proteome/Geneid_secretome_dictionary.csv (+ .rds)
-Mastersheets: {PAR,SM,SL,LIV,PANC}_mastersheet_TPMs_annotated.csv
-(includes secreted, Reference, Function, Mean_TPM, Mean_TPM_Male, Mean_TPM_Fem)
+Run the scripts in order from the main `Mouse_Transcriptome_SG` directory:
 
-**Notes**
-Sex means use column names with -Mal- / -Fem-.
-Known contaminated PAR columns are dropped automatically.
+```bash
+Rscript Mouse_secretome_annotaton/01_secretome_annotation_dictionary.R
+Rscript Mouse_secretome_annotaton/02-annotate_each_gland_secreted_non_secreted_mouse.R
+Rscript Mouse_secretome_annotaton/03-adding_orthology.R
+```
+
+### 1. Build the secretome dictionary
+
+`01_secretome_annotation_dictionary.R` creates the gene-level secretome annotation dictionary.
+
+Outputs:
+
+```text
+Geneid_secretome_dictionary.csv
+Geneid_secretome_dictionary.rds
+Geneid_secretome_dictionary_not_curated.csv
+Geneid_secretome_dictionary_not_curated.rds
+```
+
+### 2. Annotate tissue mastersheets
+
+`02-annotate_each_gland_secreted_non_secreted_mouse.R` adds secretome annotations to the PAR, SM, SL, LIV, and PANC expression mastersheets.
+
+The resulting tables include information such as:
+
+* `secreted`
+* `Reference`
+* `Function`
+* `Mean_TPM`
+* `Mean_TPM_Male`
+* `Mean_TPM_Fem`
+
+### 3. Add orthology annotations
+
+`03-adding_orthology.R` adds mouse–human orthology information to the annotated mastersheets.
+
+## Manual updates
+
+To add or edit a gene function, update:
+
+```text
+function_add.csv
+```
+
+To manually classify a gene as secreted or non-secreted, update:
+
+```text
+mannual_curation.csv
+```
+
+After editing either file, rerun the relevant scripts beginning with:
+
+```bash
+Rscript Mouse_secretome_annotaton/01_secretome_annotation_dictionary.R
+```
+
+## Notes
+
+Male and female expression means are identified from sample names containing `-Mal-` and `-Fem-`.
+
+Known contaminated parotid samples are removed automatically by the annotation scripts.
