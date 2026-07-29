@@ -16,12 +16,12 @@ suppressPackageStartupMessages({
 ## ----------------
 ## File paths
 ## ----------------
-tpm_fp  <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets/gene_expression_matrix_C57_CD1_TPMs.csv"
+tpm_fp  <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_expression/gene_expression_matrix_C57_CD1_TPMs.csv"
 
 # Use the new dictionary you generated (with manual annotations + functions)
-dict_fp <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets/mouse_proteome/Geneid_secretome_dictionary.csv"
+dict_fp <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_proteome/Geneid_secretome_dictionary.csv"
 
-out_dir <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets"
+out_dir <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_expression"
 
 ## ----------------
 ## Load data

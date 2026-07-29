@@ -16,17 +16,21 @@ suppressPackageStartupMessages({
 ## -------------
 ## File paths
 ## -------------
-counts_fp    <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets/gene_expression_matrix_C57_CD1_RAW_COUNTS.csv"
-secreted_fp  <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets/mouse_proteome/secreted_any.tsv"
+#raw counts for all samples
+counts_fp    <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_expression/gene_expression_matrix_C57_CD1_RAW_COUNTS.csv"
+
+#secreted_any is taken from secreted.tsv, which includes all annotations for all proteins from uniprot, but filtered for all secreted genes
+secreted_fp  <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_proteome/secreted_any.tsv"
 
 # Manual curation (secreted + refs/functions)
-manual_fp    <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets/mouse_proteome/mannual_curation.csv"
-
+#For manual curations and function add additions, I have added manually some genes that I found to be secreted, but are not annotated by as secreted in this dataset. 
+#I have included the annotation and the reference from where I took this into the sheet. 
+manual_fp    <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_proteome/mannual_curation.csv"
 # Function-only additions
-function_add_fp <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets/mouse_proteome/function_add.csv"
+function_add_fp <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_proteome/function_add.csv"
 
 # Output dictionary (CSV + RDS)
-out_dir      <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets/mouse_proteome"
+out_dir      <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_proteome"
 out_csv      <- file.path(out_dir, "Geneid_secretome_dictionary.csv")
 out_rds      <- file.path(out_dir, "Geneid_secretome_dictionary.rds")
 
@@ -51,13 +55,28 @@ if (!"Entry" %in% names(secretome)) {
 ## Create alias map: one row per gene alias per entry
 ## -------------------------------------------------
 alias_map <- secretome %>%
-  mutate(`Gene Names` = if_else(is.na(`Gene Names`), "", `Gene Names`)) %>%
-  mutate(alias_vec = str_split(`Gene Names`, "\\s+")) %>%
-  unnest(alias_vec, keep_empty = TRUE) %>%
-  rename(gene_alias = alias_vec) %>%
-  filter(!is.na(gene_alias), gene_alias != "") %>%
-  mutate(gene_alias_norm = toupper(gene_alias))
-
+  dplyr::mutate(
+    `Gene Names` = dplyr::if_else(
+      is.na(`Gene Names`),
+      "",
+      `Gene Names`
+    ),
+    alias_vec = stringr::str_split(`Gene Names`, "\\s+")
+  ) %>%
+  tidyr::unnest(
+    cols = alias_vec,
+    keep_empty = TRUE
+  ) %>%
+  dplyr::rename(
+    gene_alias = alias_vec
+  ) %>%
+  dplyr::filter(
+    !is.na(gene_alias),
+    gene_alias != ""
+  ) %>%
+  dplyr::mutate(
+    gene_alias_norm = toupper(gene_alias)
+  )
 ## -------------------------------------------------------------
 ## Collapse to per-alias summary (aggregating ALL secretome cols)
 ## -------------------------------------------------------------

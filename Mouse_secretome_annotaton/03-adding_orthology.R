@@ -17,7 +17,7 @@ suppressPackageStartupMessages({
 ## ----------------
 ## File paths
 ## ----------------
-in_dir  <- "/Users/llandau/Library/CloudStorage/Box-Box/SalivaryGlands_LL/miscelaneous_sheets"
+in_dir  <- "~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/miscelaneous_sheets/mouse_expression"
 out_dir <- in_dir
 
 # Target glands (we'll skip ones that don't exist)
