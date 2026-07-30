@@ -10,7 +10,7 @@ This folder contains scripts and output files used to compare the expression of 
 
 ## Scripts
 
-### `correlations_secreted_genes_with_CI_TPM>2_stack.R`
+### `correlations_secreted_genes_with_CI.R`
 
 This script builds the unified mouse–human expression tables for each tissue and calculates the mouse–human Spearman correlation.
 
@@ -19,7 +19,7 @@ For each tissue, it:
 1. Reads the human and mouse annotated expression mastersheets.
 2. Retains secreted one-to-one orthologs.
 3. Joins the human and mouse tables using the ortholog assignments.
-4. Filters genes according to `MIN_TPM` and `FILTER_MODE`.
+4. Filters genes according to `MIN_TPM` and `FILTER_MODE`. #I am not doing this 
 5. Calculates the Spearman correlation and a bootstrap 95% confidence interval.
 6. Creates a combined correlation figure with all five tissues using shared axis limits.
 
@@ -34,8 +34,6 @@ N_BOOTSTRAPS <- 5000
 - `MIN_TPM` sets the minimum mean TPM.
 - `FILTER_MODE = "both"` requires the gene to meet the TPM threshold in both species.
 - `FILTER_MODE = "either"` requires the gene to meet the threshold in at least one species.
-
-Although the script filename contains `TPM>2`, the current script uses `MIN_TPM <- 0`. Change this value to `2` when a TPM threshold of 2 is required.
 
 Main outputs include:
 

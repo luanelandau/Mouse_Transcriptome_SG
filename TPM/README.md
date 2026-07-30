@@ -1,5 +1,7 @@
 ## Calculate TPM and Generate Gene-Expression Mastersheets
 
+####Update with human script!!!
+
 This workflow uses two R scripts:
 
 1. `Calculate_TPM.R` calculates TPM values for each individual featureCounts file.
