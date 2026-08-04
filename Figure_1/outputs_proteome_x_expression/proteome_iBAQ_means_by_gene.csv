@@ -1,0 +1,2065 @@
+ProteinAccessions,gene,PG.ProteinDescriptions,PG.Organisms,iBAQ_mean_male,iBAQ_mean_female,iBAQ_mean_all_1_10
+A0A140LHV9,Smim27,Small integral membrane protein 27,Mus musculus,23652.18,33923.1004,28787.6402
+A1L317,Krt24,"Keratin, type I cytoskeletal 24",Mus musculus,80650.1796,57895.239,69272.7093
+A2A5R2,Arfgef2,Brefeldin A-inhibited guanine nucleotide-exchange protein 2,Mus musculus,170.225,56.333333333333336,121.41428571428571
+A2A8L5,Ptprf,Receptor-type tyrosine-protein phosphatase F,Mus musculus,2918.08,5323.4,4120.74
+A2ADY9,Ddi2,Protein DDI1 homolog 2,Mus musculus,2038.6,NA,2038.6
+A2AEP0,Obp1b,Odorant-binding protein 1b,Mus musculus,32017340.8,26716901.2,29367121
+A2AGH6,Med12,Mediator of RNA polymerase II transcription subunit 12,Mus musculus,371.2,385.46000000000004,378.33
+A2AGL3,Ryr3,Ryanodine receptor 3,Mus musculus,NA,36.6,36.6
+A2AQ07,Tubb1,Tubulin beta-1 chain,Mus musculus,9138.5,NA,9138.5
+A2AQP0,Myh7b,Myosin-7B,Mus musculus,437.5,462.29999999999995,449.9
+A2ASQ1,Agrn,Agrin,Mus musculus,246.92,355.3,301.11
+A2ASS6,Ttn,Titin,Mus musculus,195.86,112.28,154.07
+A2BGH0,Bpifb4,BPI fold-containing family B member 4,Mus musculus,34914.6586,150161.72175000003,86135.57555555557
+A3KMP2,Ttc38,Tetratricopeptide repeat protein 38,Mus musculus,1929.525,537.96,1156.4333333333334
+A6H8H2,Dennd4c,DENN domain-containing protein 4C,Mus musculus,1083.1,355.15999999999997,678.6888888888889
+A6X935,Itih4,"Inter alpha-trypsin inhibitor, heavy chain 4",Mus musculus,67798.6624,17461.1002,42629.881299999994
+B1AQ75,Krt36,"Keratin, type I cuticular Ha6",Mus musculus,17338.7994,37512.3598,27425.5796
+B2RQC6,Cad,Multifunctional protein CAD,Mus musculus,193.2,187.92,189.9
+B2RX12,Abcc3,ATP-binding cassette sub-family C member 3,Mus musculus,2681.16,14136.08,8408.62
+C0HKE1;C0HKE2;C0HKE3;C0HKE4;C0HKE5;C0HKE6;C0HKE7;C0HKE8;C0HKE9;Q8BFU2;Q8CGP5;Q8CGP6;Q8CGP7;Q8R1M2,H2ac4;H2ac6;H2ac7;H2ac8;H2ac11;H2ac13;Hist1h2an;Hist1h2ao;Hist1h2ap;H2ac25;Hist1h2af;H2ac12;H2ac15;H2aj,Histone H2A type 1-B;Histone H2A type 1-C;Histone H2A type 1-D;Histone H2A type 1-E;Histone H2A type 1-G;Histone H2A type 1-I;Histone H2A type 1-N;Histone H2A type 1-O;Histone H2A type 1-P;Histone H2A type 3;Histone H2A type 1-F;Histone H2A type 1-H;Histone H2A type 1-K;Histone H2A.J,Mus musculus,2863264.375,3168291.3,3015777.8375
+C0HKG5;C0HKG6,Rnaset2a;Rnaset2b,Ribonuclease T2-A;Ribonuclease T2-B,Mus musculus,113399.1412,194547.661,153973.4011
+D3YZF7,Vsig10l,V-set and immunoglobulin domain-containing protein 10-like,Mus musculus,150.26666666666665,88.5,114.97142857142858
+D3Z690,Izumo4,Izumo sperm-egg fusion protein 4,Mus musculus,3666.16,3530.76,3598.46
+D3Z6Q9,Bin2,Bridging integrator 2,Mus musculus,859.3,985.76,922.53
+E9PV24,Fga,Fibrinogen alpha chain,Mus musculus,104279.2816,51400.9388,77840.1102
+E9Q3E1,Aldh3b2,Aldehyde dehydrogenase family 3 member B2,Mus musculus,7807.82,8610.960000000001,8209.39
+E9Q414,Apob,Apolipoprotein B-100,Mus musculus,4203.25,NA,4203.25
+E9Q557,Dsp,Desmoplakin,Mus musculus,42305.918600000005,37842.8996,40074.409100000004
+E9Q912,Rap1gds1,Rap1 GTPase-GDP dissociation stimulator 1,Mus musculus,9111.5,382.05,2127.9399999999996
+G3X8U3,QNG1,Queuosine 5'-phosphate N-glycosylase/hydrolase,Mus musculus,1692.4250000000002,882.68,1242.5666666666666
+G3X982,Aox3,Aldehyde oxidase 3,Mus musculus,1076.5500000000002,NA,1076.5500000000002
+G3X9C2,Nccrp1,F-box only protein 50,Mus musculus,6996.7,10308.98,8652.84
+G3XA57;Q9D620,Rab11fip2;Rab11fip1,Rab11 family-interacting protein 2;Rab11 family-interacting protein 1,Mus musculus,148.03333333333333,381.82,294.15
+O08529,Capn2,Calpain-2 catalytic subunit,Mus musculus,1284.225,322.2,803.2125
+O08539,Bin1,Myc box-dependent-interacting protein 1,Mus musculus,221.1,NA,221.1
+O08547,Sec22b,Vesicle-trafficking protein SEC22b,Mus musculus,2806.75,1875.3333333333333,2247.9
+O08553,Dpysl2,Dihydropyrimidinase-related protein 2,Mus musculus,27115.1495,1179.8,21928.0796
+O08585,Clta,Clathrin light chain A,Mus musculus,3940.375,4549.25,4244.8125
+O08599,Stxbp1,Syntaxin-binding protein 1,Mus musculus,200.4,395,297.7
+O08632,Krtap19-5,Keratin-associated protein 19-5,Mus musculus,11692.1,59806.7515,30937.960599999995
+O08633,Krtap8-1,Keratin-associated protein 8-1,Mus musculus,13319.150000000001,53527.699,26721.999666666667
+O08663,Metap2,Methionine aminopeptidase 2,Mus musculus,483.32,440.5,464.2888888888889
+O08677,Kng1,Kininogen-1,Mus musculus,171490.1754,50134.0194,110812.0974
+O08688,Capn5,Calpain-5,Mus musculus,922.34,665.54,793.94
+O08692,Ngp,Neutrophilic granule protein,Mus musculus,1373078.4938,1803174.7,1588126.5969
+O08709,Prdx6,Peroxiredoxin-6,Mus musculus,416629.8656,225779.08120000002,321204.4734
+O08738,Casp6,Caspase-6,Mus musculus,801.7333333333333,442.45,658.0200000000001
+O08739,Ampd3,AMP deaminase 3,Mus musculus,88.4,0.1,44.25
+O08742,Gp5,Platelet glycoprotein V,Mus musculus,709.3,NA,709.3
+O08785,Clock,Circadian locomoter output cycles protein kaput,Mus musculus,4972.7,1590.34,3281.52
+O08795,Prkcsh,Glucosidase 2 subunit beta,Mus musculus,54061.4184,40524.9796,47293.199
+O08807,Prdx4,Peroxiredoxin-4,Mus musculus,10673.02,7149.7,8911.36
+O08808,Diaph1,Protein diaphanous homolog 1,Mus musculus,530.16,457.74,493.95
+O08832,Galnt4,Polypeptide N-acetylgalactosaminyltransferase 4,Mus musculus,7327.18,7896.0999999999995,7611.64
+O08912,Galnt1,Polypeptide N-acetylgalactosaminyltransferase 1,Mus musculus,9239.7,9904.44,9572.07
+O08992,Sdcbp,Syntenin-1,Mus musculus,46515.72,42674.2602,44594.9901
+O08997,Atox1,Copper transport protein ATOX1,Mus musculus,6792.075,8214.7,7076.6
+O09010,Lfng,"Beta-1,3-N-acetylglucosaminyltransferase lunatic fringe",Mus musculus,5974.72,6820.0999999999995,6397.41
+O09049,Reg3g,Regenerating islet-derived protein 3-gamma,Mus musculus,234405.3174,211292.65480000002,222848.9861
+O09061,Psmb1,Proteasome subunit beta type-1,Mus musculus,37836.94,45303.8592,41570.399600000004
+O09114,Ptgds,Prostaglandin-H2 D-isomerase,Mus musculus,7675.219999999999,4324.45,6185.988888888889
+O09116,Sprr3,Small proline-rich protein 3,Mus musculus,6856.22,4704.24,5780.23
+O09118,Ntn1,Netrin-1,Mus musculus,2191.32,648.84,1420.0800000000002
+O09131,Gsto1,Glutathione S-transferase omega-1,Mus musculus,321412.3436,326390.8128,323901.5782
+O09159,Man2b1,Lysosomal alpha-mannosidase,Mus musculus,133931.9798,103293.7992,118612.8895
+O09164,Sod3,Extracellular superoxide dismutase [Cu-Zn],Mus musculus,3908.2333333333336,762.6,2110.7285714285717
+O09172,Gclm,Glutamate--cysteine ligase regulatory subunit,Mus musculus,6947.866666666667,316.76666666666665,3632.316666666667
+O35188,Cx3cl1,Fractalkine,Mus musculus,751.16,1308.4,1029.78
+O35215,Ddt,D-dopachrome decarboxylase,Mus musculus,6031.5998,3906.94,4969.2699
+O35226,Psmd4,26S proteasome non-ATPase regulatory subunit 4,Mus musculus,27834.633333333335,11430.533666666666,19632.5835
+O35286,Dhx15,ATP-dependent RNA helicase DHX15,Mus musculus,406.6666666666667,664.05,509.62
+O35292,Rnase2b,Ribonuclease 2B,Mus musculus,43546.5408,47528.1808,45537.3608
+O35295,Purb,Transcriptional regulator protein Pur-beta,Mus musculus,1214.6000000000001,NA,1214.6000000000001
+O35310,Hs3st1,Heparan sulfate glucosamine 3-O-sulfotransferase 1,Mus musculus,5458.4,11212.9,8335.65
+O35350,Capn1,Calpain-1 catalytic subunit,Mus musculus,13831.4402,15064.18,14447.810099999999
+O35381,Anp32a,Acidic leucine-rich nuclear phosphoprotein 32 family member A,Mus musculus,2462.5,2159.95,2289.614285714286
+O35400,Sult2b1,Sulfotransferase 2B1,Mus musculus,149.5,570.6666666666666,465.375
+O35405,Pld3,5'-3' exonuclease PLD3,Mus musculus,10432.96,14759.7398,12596.3499
+O35448,Ppt2,Lysosomal thioesterase PPT2,Mus musculus,19547.5202,19319.4198,19433.47
+O35451,Atf6b,Cyclic AMP-dependent transcription factor ATF-6 beta,Mus musculus,848.02,1586.78,1217.4
+O35593,Psmd14,26S proteasome non-ATPase regulatory subunit 14,Mus musculus,2753.175,1719.1,2546.3599999999997
+O35598,Adam10,Disintegrin and metalloproteinase domain-containing protein 10,Mus musculus,3441.34,2390.84,2916.09
+O35639,Anxa3,Annexin A3,Mus musculus,19396.56,15859.9196,17628.2398
+O35640,Anxa8,Annexin A8,Mus musculus,2911.2,2389.5,2679.3333333333335
+O35643,Ap1b1,AP-1 complex subunit beta-1,Mus musculus,1223.65,640.075,931.8625000000001
+O35657,Neu1,Sialidase-1,Mus musculus,12664.02,8331.56,10497.79
+O35664,Ifnar2,Interferon alpha/beta receptor 2,Mus musculus,20170.9196,23174.3598,21672.6397
+O35678,Mgll,Monoglyceride lipase,Mus musculus,2831.8999999999996,305.4,1989.7333333333331
+O35737,Hnrnph1,Heterogeneous nuclear ribonucleoprotein H,Mus musculus,1250.6,888.4,1069.5
+O35744,Chil3,Chitinase-like protein 3,Mus musculus,690920.5064,1487937.225,1089428.8657
+O35864,Cops5,COP9 signalosome complex subunit 5,Mus musculus,646.5999999999999,340,515.1999999999999
+O35887,Calu,Calumenin,Mus musculus,32171.9,23955.3998,28063.6499
+O35902,Dsg3,Desmoglein-3,Mus musculus,1050.86,3274.18,2162.52
+O35930,Gp1ba,Platelet glycoprotein Ib alpha chain,Mus musculus,3634.1,NA,3634.1
+O35988,Sdc4,Syndecan-4,Mus musculus,104585.1794,129996.18119999999,117290.68029999999
+O54734,Ddost,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit,Mus musculus,4026.633333333333,3668.366666666667,3847.5
+O54743,Foxf2,Forkhead box protein F2,Mus musculus,146168.6,107331.018,126749.809
+O54782,Man2b2,Epididymis-specific alpha-mannosidase,Mus musculus,3100.06,3088.74,3094.4
+O54824,Il16,Pro-interleukin-16,Mus musculus,9.25,240.96666666666667,148.28
+O54833,Csnk2a2,Casein kinase II subunit alpha',Mus musculus,503.83333333333337,172.13333333333333,337.98333333333335
+O54879,Hmgb3,High mobility group protein B3,Mus musculus,2072.56,2850.08,2461.32
+O54931,Pakap,PALM2-AKAP2 fusion protein,Mus musculus,708.9,443.26,576.08
+O54974,Lgals7,Galectin-7,Mus musculus,6532.05,4275.78,5278.566666666667
+O54984,Get3,ATPase GET3,Mus musculus,2894.52,1784.94,2339.73
+O54990,Prom1,Prominin-1,Mus musculus,43565.5592,54700.779200000004,49133.169200000004
+O55022,Pgrmc1,Membrane-associated progesterone receptor component 1,Mus musculus,1849.38,1620.98,1735.18
+O55023,Impa1,Inositol monophosphatase 1,Mus musculus,5730.26,5420.5999999999995,5575.43
+O55029,Copb2,Coatomer subunit beta',Mus musculus,1542.28,1033.44,1287.8600000000001
+O55042,Snca,Alpha-synuclein,Mus musculus,37872.602,NA,37872.602
+O55057,Pde6d,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta",Mus musculus,1452.7333333333333,NA,1452.7333333333333
+O55106;P58404;Q9ERG2,Strn;Strn4;Strn3,Striatin;Striatin-4;Striatin-3,Mus musculus,154,246,215.33333333333331
+O55111,Dsg2,Desmoglein-2,Mus musculus,2863.18,2925.7000000000003,2894.44
+O55131,Septin7,Septin-7,Mus musculus,4066.9599999999996,1399.8,2733.38
+O55135,Eif6,Eukaryotic translation initiation factor 6,Mus musculus,3744.766666666667,1346.3000000000002,2785.38
+O55137;Q9QYR9,Acot1;Acot2,"Acyl-coenzyme A thioesterase 1;Acyl-coenzyme A thioesterase 2, mitochondrial",Mus musculus,3731.4800000000005,2349.75,3117.3777777777777
+O55143,Atp2a2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,Mus musculus,364.5333333333333,466.05,405.14
+O55222,Ilk,Integrin-linked protein kinase,Mus musculus,1925.8333333333335,1052.5,1426.7857142857144
+O55226,Chad,Chondroadherin,Mus musculus,137366.5202,189777.9376,163572.22890000002
+O55234,Psmb5,Proteasome subunit beta type-5,Mus musculus,11602.119999999999,4342.96,7972.54
+O70133,Dhx9,ATP-dependent RNA helicase A,Mus musculus,427.725,726.2,487.42
+O70138,Mmp8,Neutrophil collagenase,Mus musculus,9664.84,17360.8796,13512.8598
+O70145,Ncf2,Neutrophil cytosol factor 2,Mus musculus,7243.38,10332.8,8788.09
+O70152,Dpm1,Dolichol-phosphate mannosyltransferase subunit 1,Mus musculus,1021,1274.16,1147.58
+O70165,Fcn1,Ficolin-1,Mus musculus,612.1,NA,612.1
+O70172,Pip4k2a,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,Mus musculus,1179.1,NA,1179.1
+O70194,Eif3d,Eukaryotic translation initiation factor 3 subunit D,Mus musculus,542.1,NA,542.1
+O70250,Pgam2,Phosphoglycerate mutase 2,Mus musculus,24166.08,3070,13618.04
+O70251,Eef1b,Elongation factor 1-beta,Mus musculus,14875.4002,22264.7404,18570.0703
+O70252,Hmox2,Heme oxygenase 2,Mus musculus,1186.1499999999999,499.4,957.2333333333333
+O70362,Gpld1,Phosphatidylinositol-glycan-specific phospholipase D,Mus musculus,32739.900599999997,14442.66,23591.2803
+O70400,Pdlim1,PDZ and LIM domain protein 1,Mus musculus,2285.65,646.575,1192.9333333333334
+O70435,Psma3,Proteasome subunit alpha type-3,Mus musculus,9857.48,9917.76,9887.62
+O70439,Stx7,Syntaxin-7,Mus musculus,10216.8,7520.74,8868.77
+O70456,Sfn,14-3-3 protein sigma,Mus musculus,34195.1588,30788.7394,32491.9491
+O70493,Snx12,Sorting nexin-12,Mus musculus,2857.85,1986.675,2422.2625
+O70514,Fgfbp1,Fibroblast growth factor-binding protein 1,Mus musculus,18958.7396,15622.220000000001,17290.4798
+O70570,Pigr,Polymeric immunoglobulin receptor,Mus musculus,704510.4376000001,944665.9126,824588.1751
+O70576,Stag3,Cohesin subunit SA-3,Mus musculus,114.35,322.975,253.43333333333334
+O70582,Alox12b,"Arachidonate 12-lipoxygenase, 12R-type",Mus musculus,4007.16,3972.58,3989.87
+O88200,Clec11a,C-type lectin domain family 11 member A,Mus musculus,1394.3,NA,1394.3
+O88307,Sorl1,Sortilin-related receptor,Mus musculus,4314.04,6301.48,5307.76
+O88310,Itln1,Intelectin-1a,Mus musculus,798.6,995.7,897.15
+O88312,Agr2,Anterior gradient protein 2 homolog,Mus musculus,63108.279800000004,24816.3,43962.289899999996
+O88322,Nid2,Nidogen-2,Mus musculus,443.65999999999997,245.74,344.7
+O88342,Wdr1,WD repeat-containing protein 1,Mus musculus,20787.86,19669.1402,20228.5001
+O88452,Stc2,Stanniocalcin-2,Mus musculus,17383.84,8492.4,13432.08888888889
+O88456,Capns1,Calpain small subunit 1,Mus musculus,8817.54,9882.52,9350.03
+O88487,Dync1i2,Cytoplasmic dynein 1 intermediate chain 2,Mus musculus,605.7,NA,605.7
+O88531,Ppt1,Palmitoyl-protein thioesterase 1,Mus musculus,49090.5602,52231.6002,50661.0802
+O88543,Cops3,COP9 signalosome complex subunit 3,Mus musculus,694,149.7,585.14
+O88544,Cops4,COP9 signalosome complex subunit 4,Mus musculus,1198.6000000000001,272.7,735.6500000000001
+O88569,Hnrnpa2b1,Heterogeneous nuclear ribonucleoproteins A2/B1,Mus musculus,14812.4396,16947.02,15879.729800000001
+O88587,Comt,Catechol O-methyltransferase,Mus musculus,3241.4,2323.5,2782.45
+O88593,Pglyrp1,Peptidoglycan recognition protein 1,Mus musculus,121725.5796,228154.6782,174940.1289
+O88653,Lamtor3,Ragulator complex protein LAMTOR3,Mus musculus,2442,4069.3,2848.8250000000003
+O88668,Creg1,Protein CREG1,Mus musculus,437043.4906,460323.4812,448683.4859
+O88685,Psmc3,26S proteasome regulatory subunit 6A,Mus musculus,3210.4399999999996,898.125,2182.7444444444445
+O88783,F5,Coagulation factor V,Mus musculus,5003.34,4247.38,4625.36
+O88839,Adam15,Disintegrin and metalloproteinase domain-containing protein 15,Mus musculus,949.4,1099.62,1024.51
+O88844,Idh1,Isocitrate dehydrogenase [NADP] cytoplasmic,Mus musculus,33145.0602,22868.9394,28006.9998
+O88851,Rbbp9,Putative hydrolase RBBP9,Mus musculus,4349.7,1842.5,3096.1
+O88947,F10,Coagulation factor X,Mus musculus,19188.25,1272.5,13216.333333333334
+O88958,Gnpda1,Glucosamine-6-phosphate isomerase 1,Mus musculus,2612.62,1491.58,2052.1
+O88968,Tcn2,Transcobalamin-2,Mus musculus,10858036.9,13479994.8,12169015.85
+O88990,Actn3,Alpha-actinin-3,Mus musculus,766.1999999999999,2616.75,1823.657142857143
+O89001,Cpd,Carboxypeptidase D,Mus musculus,23251.0202,27882.019800000002,25566.52
+O89017,Lgmn,Legumain,Mus musculus,3845.94,5532.98,4689.46
+O89020,Afm,Afamin,Mus musculus,29274.701199999996,9346.680199999999,19310.6907
+O89023,Tpp1,Tripeptidyl-peptidase 1,Mus musculus,69517.8804,74126.7592,71822.3198
+O89051,Itm2b,Integral membrane protein 2B,Mus musculus,7285.219999999999,5955,6694.011111111111
+O89053,Coro1a,Coronin-1A,Mus musculus,54016.2206,67413.739,60714.9798
+O89079,Cope,Coatomer subunit epsilon,Mus musculus,1294.72,2265.76,1780.24
+O89086,Rbm3,RNA-binding protein 3,Mus musculus,19917.100400000003,5566.02,12741.5602
+O89109,Kcnn4,Intermediate conductance calcium-activated potassium channel protein 4,Mus musculus,9602,4175.9,6888.95
+P00329,Adh1,Alcohol dehydrogenase 1,Mus musculus,40695.9594,21737.0998,31216.529599999998
+P00405,Mtco2,Cytochrome c oxidase subunit 2,Mus musculus,4994.38,5731.0999999999995,5362.74
+P00493,Hprt1,Hypoxanthine-guanine phosphoribosyltransferase,Mus musculus,24749.5398,20687.4602,22718.5
+P00683,Rnase1,Ribonuclease pancreatic,Mus musculus,46010.0606,34644.86,40327.4603
+P00687,Amy1,Alpha-amylase 1,Mus musculus,833292742.4,716468838.4,774880790.4
+P00688,Amy2a5,Pancreatic alpha-amylase 2a5,Mus musculus,222289.7624,146949.9782,184619.8703
+P00755,Klk1b1,Kallikrein 1-related peptidase b1,Mus musculus,2707621.9874,697229.25,1702425.6187000002
+P00756,Klk1b3,Kallikrein 1-related peptidase b3,Mus musculus,1126183.2376,200581.4618,663382.3496999999
+P00757,Klk1b4,Kallikrein 1-related peptidase-like b4,Mus musculus,2087491.5626,690514.1372,1389002.8499
+P00796;P06281,Ren2;Ren1,Renin-2;Renin-1,Mus musculus,7450.77475,11811.033333333333,9319.457
+P00920,Ca2,Carbonic anhydrase 2,Mus musculus,182232.425,1064.2333333333333,104588.91428571429
+P01027,C3,Complement C3,Mus musculus,294424.7304,88067.2398,191245.98510000002
+P01029,C4b,Complement C4-B,Mus musculus,34610.8194,6419.68,20515.2497
+P01132,Egf,Pro-epidermal growth factor,Mus musculus,345384.4374,188246.4564,266815.4469
+P01139,Ngf,Beta-nerve growth factor,Mus musculus,175218.0948,10475.425,101999.13044444445
+P01592,Jchain,Immunoglobulin J chain,Mus musculus,543700.9842,309071.0232,426386.0037
+P01630,NA,Ig kappa chain V-II region 7S34.1,Mus musculus,2819.0333333333333,2734.7,2797.95
+P01631,NA,Ig kappa chain V-II region 26-10,Mus musculus,86111.54160000001,58781.17675,73964.71277777778
+P01633,Igkv6-17,Immunoglobulin kappa chain variable 6-17,Mus musculus,21331.96,42864.62,32098.29
+P01635,Igkv12-41,Immunoglobulin kappa chain variable 12-41 (Fragment),Mus musculus,6088.366666666667,9233.833333333332,7661.1
+P01636,NA,Ig kappa chain V-V region MOPC 149,Mus musculus,1534.9,11658.9,6596.9
+P01638,NA,Ig kappa chain V-V region L6 (Fragment),Mus musculus,21274.649749999997,101703.328,61488.988874999995
+P01639,Igkv9-120,Immunoglobulin kappa chain variable 9-120,Mus musculus,32540.499499999998,17711.9,29574.7796
+P01642,Igkv5-48,Immunoglobulin kappa variable 5-48 (Fragment),Mus musculus,7627.700249999999,67895.147,27716.849166666667
+P01644;P01645;P01646,NA,Ig kappa chain V-V region HP R16.7;Ig kappa chain V-V region HP 93G7;Ig kappa chain V-V region HP 123E6,Mus musculus,25106.3602,5529.725,16405.633444444444
+P01648,NA,Ig kappa chain V-V region HP 91A3,Mus musculus,35192.7245,2421.8,28638.5396
+P01654;P01655,NA,Ig kappa chain V-III region PC 2880/PC 1229;Ig kappa chain V-III region PC 7132,Mus musculus,14110.8996,19589.967,16165.549875
+P01674,NA,Ig kappa chain V-III region PC 2154,Mus musculus,6286.1,34974.951,25412.000666666667
+P01675;P01676;P01677;P01678;P01679,NA,Ig kappa chain V-VI region XRPC 44;Ig kappa chain V-VI region XRPC 24;Ig kappa chain V-VI region TEPC 601/TEPC 191;Ig kappa chain V-VI region SAPC 10;Ig kappa chain V-VI region J539,Mus musculus,13756.6,NA,13756.6
+P01723;P01726;P01727;P01728;P01729,NA,Ig lambda-1 chain V region;Ig lambda-1 chain V region H2020;Ig lambda-1 chain V region S43;Ig lambda-2 chain V region;Ig lambda-2 chain V region MOPC 315,Mus musculus,3281.9200000000005,685.0999999999999,2539.9714285714285
+P01750,NA,Ig heavy chain V region 102,Mus musculus,4497.2,13789.5,7594.633333333333
+P01753;P01754;P06328,;Ighv1-62-3;Ighv1-72,Ig heavy chain V region 186-1;Ig heavy chain V region 1-62-3;Ig heavy chain V region 1-72,Mus musculus,72844.6976,5534.933333333333,47603.53600000001
+P01758,Igh-VJ558,Ig heavy chain V region 108A,Mus musculus,33632.151,NA,33632.151
+P01786,NA,Ig heavy chain V region MOPC 47A,Mus musculus,24549.2755,9836.26,16375.378
+P01796;P01797;P01798;P01799;P01800;P01801;P01802,NA,Ig heavy chain V-III region A4;Ig heavy chain V-III region U61;Ig heavy chain V-III region E109;Ig heavy chain V-III region ABE-47N;Ig heavy chain V-III region T957;Ig heavy chain V-III region J606;Ig heavy chain V-III region W3082,Mus musculus,8743.7,3800.666666666667,6625.257142857143
+P01806;P01807;P01808,NA,Ig heavy chain V region 441;Ig heavy chain V region X44;Ig heavy chain V region T601,Mus musculus,29276.15025,11585.28,19447.889
+P01837,Igkc,Immunoglobulin kappa constant,Mus musculus,150031.739,69499.4598,109765.5994
+P01843,NA,Ig lambda-1 chain C region,Mus musculus,40124.5202,2243.6666666666665,25919.200125
+P01844,Iglc2,Ig lambda-2 chain C region,Mus musculus,4877.9,1249.5500000000002,2459
+P01845,Iglc3,Ig lambda-3 chain C region,Mus musculus,1623.7,NA,1623.7
+P01863;P01865,Ighg;Ighg2a,"Ig gamma-2A chain C region, A allele;Immunoglobulin heavy constant gamma 2A",Mus musculus,78293.797,NA,78293.797
+P01864,NA,Ig gamma-2A chain C region secreted form,Mus musculus,84152.2792,24879.9604,54516.1198
+P01867,Ighg2b,Immunoglobulin heavy constant gamma 2B,Mus musculus,33055.23880000001,7973.639999999999,20514.4394
+P01868;P01869,Ighg1,"Ig gamma-1 chain C region secreted form;Ig gamma-1 chain C region, membrane-bound form",Mus musculus,30620.839399999997,7878.8,20513.266333333337
+P01872,Ighm,Immunoglobulin heavy constant mu,Mus musculus,57135.7735,3875.44,27546.699333333338
+P01878,NA,Ig alpha chain C region,Mus musculus,648154.6502,336817.0218,492485.836
+P01887,B2m,Beta-2-microglobulin,Mus musculus,2165292.125,1713057.6876,1939174.9063
+P01897,H2-L,"H-2 class I histocompatibility antigen, L-D alpha chain",Mus musculus,2305.7799999999997,2529.66,2417.72
+P01898,H2-Q10,"H-2 class I histocompatibility antigen, Q10 alpha chain",Mus musculus,72788.5176,5445.5,39117.0088
+P01899,H2-D1,"H-2 class I histocompatibility antigen, D-B alpha chain",Mus musculus,85591.1012,46555.521,66073.31109999999
+P01901,H2-K1,"H-2 class I histocompatibility antigen, K-B alpha chain",Mus musculus,917.8666666666667,1500,1250.5142857142857
+P01902,H2-K1,"H-2 class I histocompatibility antigen, K-D alpha chain",Mus musculus,303.25,799.5,468.6666666666667
+P01942,Hba,Hemoglobin subunit alpha,Mus musculus,45552447.2738,846579.0394,23199513.1566
+P02088,Hbb-b1,Hemoglobin subunit beta-1,Mus musculus,31147134.178799998,560206.795,15853670.4869
+P02089,Hbb-b2,Hemoglobin subunit beta-2,Mus musculus,4226391.4598,64325.851500000004,2376584.522777778
+P02301;P68433;P84228;P84244,H3-5;H3c1;H3c2;H3-3a,Histone H3.3C;Histone H3.1;Histone H3.2;Histone H3.3,Mus musculus,717316.5812,1139742.5126,928529.5469
+P02468,Lamc1,Laminin subunit gamma-1,Mus musculus,4675.92,4201.360000000001,4438.64
+P02535,Krt10,"Keratin, type I cytoskeletal 10",Mus musculus,1015403.6626,837687.4002,926545.5314
+P02815,Mucl2,Mucin-like protein 2,Mus musculus,257430821.6,438296692.4,347863757
+P02816,Pip,Prolactin-inducible protein homolog,Mus musculus,177101676.8,137050049.6,157075863.2
+P03953,Cfd,Complement factor D,Mus musculus,14347.4198,10755.24,12551.329899999999
+P03958,Ada,Adenosine deaminase,Mus musculus,1143525.6938,937460.5874,1040493.1406
+P03976,NA,Ig kappa chain V-II region 17S29.1,Mus musculus,5476.85,2271.75,3874.3
+P03987,NA,Ig gamma-3 chain C region,Mus musculus,74089.7804,25459.8998,49774.8401
+P04071,Klk1b16,Kallikrein 1-related peptidase b16,Mus musculus,8808402.4,3042437.8564,5925420.1282
+P04104,Krt1,"Keratin, type II cytoskeletal 1",Mus musculus,673467.5502,601087.9564,637277.7533
+P04117,Fabp4,"Fatty acid-binding protein, adipocyte",Mus musculus,4100.2,NA,4100.2
+P04186,Cfb,Complement factor B,Mus musculus,45868.28,10466.72,28167.5
+P04223,H2-K1,"H-2 class I histocompatibility antigen, K-K alpha chain",Mus musculus,4189.4,3333.24,3713.7555555555555
+P04247,Mb,Myoglobin,Mus musculus,47456.85,1280.6,16672.68333333333
+P04443;P04444,Hbb-bh0;Hbb-bh1,Hemoglobin subunit beta-H0;Hemoglobin subunit beta-H1,Mus musculus,34218.5,NA,34218.5
+P04627;P28028;Q99N57,Araf;Braf;Raf1,Serine/threonine-protein kinase A-Raf;Serine/threonine-protein kinase B-raf;RAF proto-oncogene serine/threonine-protein kinase,Mus musculus,215.25,212,213.44444444444446
+P04919,Slc4a1,Band 3 anion transport protein,Mus musculus,86357.4,209.5,43283.45
+P04925,Prnp,Major prion protein,Mus musculus,2278.48,3424.7799999999997,2851.63
+P04939,Mup3,Major urinary protein 3,Mus musculus,47628.3,22916.2204,35272.2602
+P04940;P04941;P04943;P04944,NA,Ig kappa chain V-VI region NQ2-17.4.1;Ig kappa chain V-VI region NQ2-48.2.2;Ig kappa chain V-VI region NQ6-8.3.1;Ig kappa chain V-VI region NQ5-78.2.6,Mus musculus,9472.549500000001,1776.1,5624.32475
+P05063,Aldoc,Fructose-bisphosphate aldolase C,Mus musculus,4245.3,104.675,1484.8833333333334
+P05064,Aldoa,Fructose-bisphosphate aldolase A,Mus musculus,92603.24160000001,66524.03820000001,79563.63990000001
+P05132,Prkaca,cAMP-dependent protein kinase catalytic subunit alpha,Mus musculus,1551.7800000000002,747.9,1322.1
+P05201,Got1,"Aspartate aminotransferase, cytoplasmic",Mus musculus,24943.139400000004,7518.04,16230.5897
+P05202,Got2,"Aspartate aminotransferase, mitochondrial",Mus musculus,6322.96,6033.36,6178.16
+P05208,Cela2a,Chymotrypsin-like elastase family member 2A,Mus musculus,2319.3,NA,2319.3
+P05213,Tuba1b,Tubulin alpha-1B chain,Mus musculus,188775.49839999998,100202.6984,144489.09840000002
+P05214,Tuba3a,Tubulin alpha-3 chain,Mus musculus,6310.033333333333,1139.1,3724.5666666666666
+P05480;P39688;Q04736,Src;Fyn;Yes1,Proto-oncogene tyrosine-protein kinase Src;Tyrosine-protein kinase Fyn;Tyrosine-protein kinase Yes,Mus musculus,733.08,1212.04,972.56
+P05555,Itgam,Integrin alpha-M,Mus musculus,5174.72,8078.179999999999,6626.45
+P05784,Krt18,"Keratin, type I cytoskeletal 18",Mus musculus,16005.699499999999,5644.9400000000005,10249.722
+P05977,Myl1,"Myosin light chain 1/3, skeletal muscle isoform",Mus musculus,25121.879800000002,22107.86,23614.8699
+P06151,Ldha,L-lactate dehydrogenase A chain,Mus musculus,570230.2924,371376.8468,470803.5696
+P06330,NA,Ig heavy chain V region AC38 205.12,Mus musculus,214494.8766,18016.3798,116255.6282
+P06683,C9,Complement component C9,Mus musculus,16558.7796,1371.1,12219.44257142857
+P06684,C5,Complement C5,Mus musculus,21899.925,1406.1333333333332,13116.871428571429
+P06728,Apoa4,Apolipoprotein A-IV,Mus musculus,560273.1,135475.5812,347874.3406
+P06745,Gpi,Glucose-6-phosphate isomerase,Mus musculus,101057.2202,113437.18119999999,107247.2007
+P06797,Ctsl,Procathepsin L,Mus musculus,407018.83739999996,374403.8436,390711.3405
+P06800,Ptprc,Receptor-type tyrosine-protein phosphatase C,Mus musculus,835.08,2214.38,1524.73
+P06801,Me1,NADP-dependent malic enzyme,Mus musculus,23065.079999999998,19245.4198,21155.2499
+P06909,Cfh,Complement factor H,Mus musculus,16125.739400000002,1271,8698.369700000001
+P07091,S100a4,Protein S100-A4,Mus musculus,3967.3,NA,3967.3
+P07141,Csf1,Macrophage colony-stimulating factor 1,Mus musculus,5498.6,6703.799999999999,6101.2
+P07214,Sparc,SPARC,Mus musculus,4084.3,NA,4084.3
+P07309,Ttr,Transthyretin,Mus musculus,4250352.2874,935691.3376,2593021.8125
+P07310,Ckm,Creatine kinase M-type,Mus musculus,172623.1196,87817.2412,130220.1804
+P07356,Anxa2,Annexin A2,Mus musculus,66386.2602,69616.9984,68001.6293
+P07361,Orm2,Alpha-1-acid glycoprotein 2,Mus musculus,4968.6,973.1666666666666,2571.3399999999997
+P07628,Klk1b8,Kallikrein 1-related peptidase b8,Mus musculus,1228779.7376,241273.1592,735026.4484
+P07724,Alb,Albumin,Mus musculus,20043665.1,6903735.6,13473700.35
+P07743,Bpifa2,BPI fold-containing family A member 2,Mus musculus,539962604.8,517271187.2,528616896
+P07744,Krt4,"Keratin, type II cytoskeletal 4",Mus musculus,3078176.2876,3636646.45,3357411.3688
+P07759,Serpina3k,Serine protease inhibitor A3K,Mus musculus,1173384.203,208918.0796,691151.1412999999
+P07901,Hsp90aa1,Heat shock protein HSP 90-alpha,Mus musculus,12787.16,12277.960000000001,12532.560000000001
+P08003,Pdia4,Protein disulfide-isomerase A4,Mus musculus,5130.72,2711.14,3920.93
+P08030,Aprt,Adenine phosphoribosyltransferase,Mus musculus,16871.2598,25094.2402,20982.75
+P08032,Spta1,"Spectrin alpha chain, erythrocytic 1",Mus musculus,32597.199,NA,32597.199
+P08071,Ltf,Lactotransferrin,Mus musculus,949239.3126,946929.5374,948084.425
+P08074,Cbr2,Carbonyl reductase [NADPH] 2,Mus musculus,18230.8594,8481.6998,13356.279600000002
+P08103,Hck,Tyrosine-protein kinase HCK,Mus musculus,534.2,1169.325,816.4777777777778
+P08113,Hsp90b1,Endoplasmin,Mus musculus,59481.1788,55041.2796,57261.2292
+P08207,S100a10,Protein S100-A10,Mus musculus,9191.060000000001,12536.680199999999,10863.8701
+P08226,Apoe,Apolipoprotein E,Mus musculus,225373.23699999996,42700.5612,134036.8991
+P08228,Sod1,Superoxide dismutase [Cu-Zn],Mus musculus,139244.7412,63937.3804,101591.06079999999
+P08249,Mdh2,"Malate dehydrogenase, mitochondrial",Mus musculus,16195.84,16728.22,16462.03
+P08556;Q61411,Nras;Hras,GTPase NRas;GTPase HRas,Mus musculus,3019.6,NA,3019.6
+P08607,C4bpa,C4b-binding protein,Mus musculus,11442,NA,11442
+P08730,Krt13,"Keratin, type I cytoskeletal 13",Mus musculus,5457937.65,4681542.85,5069740.25
+P08752,Gnai2,Guanine nucleotide-binding protein G(i) subunit alpha-2,Mus musculus,8349.74,9407.4998,8878.6199
+P08905,Lyz2,Lysozyme C-2,Mus musculus,644029.3312,1034720.4312,839374.8812
+P09036,Spink1,Serine protease inhibitor Kazal-type 1,Mus musculus,9631.060000000001,9388.880000000001,9509.970000000001
+P09055,Itgb1,Integrin beta-1,Mus musculus,579.7,NA,579.7
+P09103,P4hb,Protein disulfide-isomerase,Mus musculus,248779.97819999998,308619.6654,278699.8218
+P09405,Ncl,Nucleolin,Mus musculus,1881.88,625.56,1253.72
+P09411,Pgk1,Phosphoglycerate kinase 1,Mus musculus,38821.8806,34348.2,36585.0403
+P09470,Ace,Angiotensin-converting enzyme,Mus musculus,6156.78,4039.84,5098.3099999999995
+P09528,Fth1,Ferritin heavy chain,Mus musculus,45087.54,30724.8996,37906.2198
+P09542,Myl3,Myosin light chain 3,Mus musculus,2048,2977.68,2512.84
+P09581,Csf1r,Macrophage colony-stimulating factor 1 receptor,Mus musculus,1263.75,81.7,672.725
+P09602,Hmgn2,Non-histone chromosomal protein HMG-17,Mus musculus,1221.3,1095.25,1120.46
+P09671,Sod2,"Superoxide dismutase [Mn], mitochondrial",Mus musculus,6570.74,4921.033333333333,5952.1
+P09803,Cdh1,Cadherin-1,Mus musculus,129125.3406,165354.14359999998,147239.7421
+P09813,Apoa2,Apolipoprotein A-II,Mus musculus,122111.92349999999,6610.5599999999995,57944.499333333326
+P0C0S6;Q3THW5,H2az1;H2az2,Histone H2A.Z;Histone H2A.V,Mus musculus,13615.9,15978.500333333333,14501.875125
+P0CG49;P0CG50;P62983;P62984,Ubb;Ubc;Rps27a;Uba52,Polyubiquitin-B;Polyubiquitin-C;Ubiquitin-ribosomal protein eS31 fusion protein;Ubiquitin-ribosomal protein eL40 fusion protein,Mus musculus,162368.8782,153373.2392,157871.0587
+P0DP26;P0DP27;P0DP28,Calm1;Calm2;Calm3,Calmodulin-1;Calmodulin-2;Calmodulin-3,Mus musculus,220620.4422,175164.1,197892.2711
+P10107,Anxa1,Annexin A1,Mus musculus,353400.5376,413947.2188,383673.8782
+P10126,Eef1a1,Elongation factor 1-alpha 1,Mus musculus,256959.8346,231674.3436,244317.08909999998
+P10404,NA,MLV-related proviral Env polyprotein,Mus musculus,7123.26,6425.6,6774.43
+P10518,Alad,Delta-aminolevulinic acid dehydratase,Mus musculus,18219.5,9192.9202,13706.2101
+P10605,Ctsb,Cathepsin B,Mus musculus,229986.35940000002,261792.503,245889.4312
+P10630,Eif4a2,Eukaryotic initiation factor 4A-II,Mus musculus,343.7,NA,343.7
+P10637,Mapt,Microtubule-associated protein tau,Mus musculus,1819.7,18.3,919
+P10639,Txn,Thioredoxin,Mus musculus,245073.6188,240923.54059999998,242998.5797
+P10648,Gsta2,Glutathione S-transferase A2,Mus musculus,25826.84,18124.2198,21975.5299
+P10649,Gstm1,Glutathione S-transferase Mu 1,Mus musculus,201193.9578,171843.2406,186518.5992
+P10711,Tcea1,Transcription elongation factor A protein 1,Mus musculus,14764.82525,778.7333333333333,8770.785857142857
+P10810,Cd14,Monocyte differentiation antigen CD14,Mus musculus,12423.4,11541.34,11982.369999999999
+P10852,Slc3a2,Amino acid transporter heavy chain SLC3A2,Mus musculus,78413.4602,74478.9,76446.1801
+P10853;P10854;Q64475;Q64478;Q64525;Q6ZWY9;Q8CGP1;Q8CGP2,H2bc7;H2bc14;H2bc3;H2bc9;H2bc18;H2bc4;H2bc12;Hist1h2bp,Histone H2B type 1-F/J/L;Histone H2B type 1-M;Histone H2B type 1-B;Histone H2B type 1-H;Histone H2B type 2-B;Histone H2B type 1-C/E/G;Histone H2B type 1-K;Histone H2B type 1-P,Mus musculus,3397400.425,5999924.2,4698662.3125
+P11031,Sub1,Activated RNA polymerase II transcriptional coactivator p15,Mus musculus,9020.2,8904.15,8953.885714285714
+P11087,Col1a1,Collagen alpha-1(I) chain,Mus musculus,261.2,155.7,215.9857142857143
+P11088,Flg,Filaggrin (Fragment),Mus musculus,25688.2004,17920.3404,21804.2704
+P11247,Mpo,Myeloperoxidase,Mus musculus,44746.960399999996,116120.101,80433.5307
+P11276,Fn1,Fibronectin,Mus musculus,25356.5606,5469.16,15412.8603
+P11352,Gpx1,Glutathione peroxidase 1,Mus musculus,62382.9592,41073.9598,51728.4595
+P11404,Fabp3,"Fatty acid-binding protein, heart",Mus musculus,20648.4505,1090.275,10869.362749999998
+P11499,Hsp90ab1,Heat shock protein HSP 90-beta,Mus musculus,51067.32,40095.6602,45581.4901
+P11588,Mup1,Major urinary protein 1,Mus musculus,3837036.15,499829.325,2168432.7375
+P11589,Mup2,Major urinary protein 2,Mus musculus,16988.06,8448.66,12718.36
+P11590,Mup4,Major urinary protein 4,Mus musculus,18419070.4,8178465.5,13298767.95
+P11591,Mup5,Major urinary protein 5,Mus musculus,5670901,1043405.8874,3357153.4436999997
+P11672,Lcn2,Neutrophil gelatinase-associated lipocalin,Mus musculus,72783.3796,113674.7392,93229.0594
+P11679,Krt8,"Keratin, type II cytoskeletal 8",Mus musculus,14409.4602,2867.675,9279.777888888888
+P11835,Itgb2,Integrin beta-2,Mus musculus,10397.1,15910.179999999998,13153.64
+P11859,Agt,Angiotensinogen,Mus musculus,3776272.35,9416405.2,6596338.775
+P11983,Tcp1,T-complex protein 1 subunit alpha,Mus musculus,1929.7199999999998,1360.48,1645.1
+P12023,App,Amyloid-beta precursor protein,Mus musculus,7189.72,2449.54,4819.63
+P12246,Apcs,Serum amyloid P-component,Mus musculus,13733.6,1109.25,3634.12
+P12265,Gusb,Beta-glucuronidase,Mus musculus,3194.14,2955.56,3074.85
+P12367,Prkar2a,cAMP-dependent protein kinase type II-alpha regulatory subunit,Mus musculus,775.1,642.3199999999999,708.71
+P12382,Pfkl,"ATP-dependent 6-phosphofructokinase, liver type",Mus musculus,2923.4,482.42499999999995,1528.557142857143
+P12388,Serpinb2,"Plasminogen activator inhibitor 2, macrophage",Mus musculus,1765.82,2152.05,1937.4777777777779
+P12787,Cox5a,"Cytochrome c oxidase subunit 5A, mitochondrial",Mus musculus,12080.6602,12709.1402,12394.9002
+P12791,Cyp2b10,Cytochrome P450 2B10,Mus musculus,421.75,NA,421.75
+P12804,Fgl2,Fibroleukin,Mus musculus,6630.84,6645.860000000001,6638.35
+P12815,Pdcd6,Programmed cell death protein 6,Mus musculus,7653.9000000000005,7158.92,7406.41
+P12970,Rpl7a,Large ribosomal subunit protein eL8,Mus musculus,768.56,2542.125,1556.8111111111111
+P13020,Gsn,Gelsolin,Mus musculus,133319.101,74133.2408,103726.1709
+P13412,Tnni2,"Troponin I, fast skeletal muscle",Mus musculus,23823.9,NA,23823.9
+P13542,Myh8,Myosin-8,Mus musculus,1348.9,1690.2,1462.6666666666667
+P13595,Ncam1,Neural cell adhesion molecule 1,Mus musculus,420.3,NA,420.3
+P13634,Ca1,Carbonic anhydrase 1,Mus musculus,159218.82933333333,1912.6,96296.3376
+P13707,Gpd1,"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",Mus musculus,3643.6,1270,2456.8
+P14069,S100a6,Protein S100-A6,Mus musculus,41763.3602,23976.519800000002,32869.94
+P14094,Atp1b1,Sodium/potassium-transporting ATPase subunit beta-1,Mus musculus,30911.2802,31989.6,31450.4401
+P14106,C1qb,Complement C1q subcomponent subunit B,Mus musculus,11244.6,NA,11244.6
+P14115,Rpl27a,Large ribosomal subunit protein uL15,Mus musculus,8103.9400000000005,8674.325,8357.444444444445
+P14131,Rps16,Small ribosomal subunit protein uS9,Mus musculus,8915.6998,9847.18,9381.4399
+P14148,Rpl7,Large ribosomal subunit protein uL30,Mus musculus,6797.775,4901.639999999999,5744.366666666667
+P14152,Mdh1,"Malate dehydrogenase, cytoplasmic",Mus musculus,93072.9602,46230.1602,69651.5602
+P14206,Rpsa,Small ribosomal subunit protein uS2,Mus musculus,23550.5394,16598.0596,20074.2995
+P14211,Calr,Calreticulin,Mus musculus,91781.1406,110095.3612,100938.2509
+P14234,Fgr,Tyrosine-protein kinase Fgr,Mus musculus,5782.8602,2509.06,4145.9601
+P14430,H2-Q8,"H-2 class I histocompatibility antigen, Q8 alpha chain",Mus musculus,1053.9,1042.45,1046.2666666666667
+P14602,Hspb1,Heat shock protein beta-1,Mus musculus,22206.4398,20958.42,21582.4299
+P14685,Psmd3,26S proteasome non-ATPase regulatory subunit 3,Mus musculus,3233.54,1457.02,2345.28
+P14733,Lmnb1,Lamin-B1,Mus musculus,2212.18,4546.54,3379.36
+P14824,Anxa6,Annexin A6,Mus musculus,2869.96,1504.82,2187.39
+P14847,Crp,C-reactive protein,Mus musculus,9244.025,962.3,5103.1625
+P14869,Rplp0,Large ribosomal subunit protein uL10,Mus musculus,1381.8,1621,1531.3
+P14873,Map1b,Microtubule-associated protein 1B,Mus musculus,2474.5,34.95,848.1333333333333
+P14901,Hmox1,Heme oxygenase 1,Mus musculus,2458.2333333333336,2100.8,2234.8375
+P15105,Glul,Glutamine synthetase,Mus musculus,1772.15,2099.4,1935.775
+P15327,Bpgm,Bisphosphoglycerate mutase,Mus musculus,98822.703,NA,98822.703
+P15379,Cd44,CD44 antigen,Mus musculus,2233.42,5320.82,3777.12
+P15501,Sbp,Prostatic spermine-binding protein,Mus musculus,290874.5038,275261.7046,283068.1042
+P15508,Sptb,"Spectrin beta chain, erythrocytic",Mus musculus,30244.5,NA,30244.5
+P15532,Nme1,Nucleoside diphosphate kinase A,Mus musculus,147822.75939999998,111700.8814,129761.8204
+P15535,B4galt1,"Beta-1,4-galactosyltransferase 1",Mus musculus,87724.0796,81314.79920000001,84519.4394
+P15626,Gstm2,Glutathione S-transferase Mu 2,Mus musculus,68598.8212,53135,60866.9106
+P15864,H1-2,Histone H1.2,Mus musculus,326002.7158,529999.8874,428001.3016
+P15945,Klk1b5,Kallikrein 1-related peptidase b5,Mus musculus,571297.35,599966.2502,585631.8001
+P15946,Klk1b11,Kallikrein 1-related peptidase b11,Mus musculus,2754539.5,2223934.975,2489237.2375
+P15947,Klk1,Kallikrein-1,Mus musculus,28151166,70181245.6,49166205.8
+P15948,Klk1b22,Kallikrein 1-related peptidase b22,Mus musculus,3285925.15,1798523.0844,2542224.1172
+P15949,Klk1b9,Kallikrein 1-related peptidase b9,Mus musculus,993742.0686,147330.1424,570536.1055
+P16015,Ca3,Carbonic anhydrase 3,Mus musculus,20326.8995,1373.3,7691.166499999999
+P16110,Lgals3,Galectin-3,Mus musculus,48564.1,63824.5398,56194.3199
+P16125,Ldhb,L-lactate dehydrogenase B chain,Mus musculus,106835.6812,50334.9614,78585.3213
+P16294,F9,Coagulation factor IX,Mus musculus,3872.1,NA,3872.1
+P16301,Lcat,Phosphatidylcholine-sterol acyltransferase,Mus musculus,17305.8995,663,11758.266333333333
+P16546,Sptan1,"Spectrin alpha chain, non-erythrocytic 1",Mus musculus,1464.1,1196.34,1330.22
+P16675,Ctsa,Lysosomal protective protein,Mus musculus,80426.0194,102759.8406,91592.93
+P16858,Gapdh,Glyceraldehyde-3-phosphate dehydrogenase,Mus musculus,381055.5752,382218.2438,381636.9095
+P16882,Ghr,Growth hormone receptor,Mus musculus,9072.96,10935.44,10004.2
+P17047,Lamp2,Lysosome-associated membrane glycoprotein 2,Mus musculus,2375.64,1154.4,1765.02
+P17156,Hspa2,Heat shock-related 70 kDa protein 2,Mus musculus,60309.0196,44062.6806,52185.850099999996
+P17182,Eno1,Alpha-enolase,Mus musculus,156276.9998,195874.4624,176075.7311
+P17225,Ptbp1,Polypyrimidine tract-binding protein 1,Mus musculus,876.8,208.8,654.1333333333333
+P17427,Ap2a2,AP-2 complex subunit alpha-2,Mus musculus,453.68,309.4,381.54
+P17439,Gba1,Lysosomal acid glucosylceramidase,Mus musculus,63563.361,99070.1798,81316.7704
+P17563,Selenbp1,Methanethiol oxidase,Mus musculus,231041.17740000002,122365.3812,176703.2793
+P17710,Hk1,Hexokinase-1,Mus musculus,1217.08,1155.58,1186.33
+P17742,Ppia,Peptidyl-prolyl cis-trans isomerase A,Mus musculus,308175.9782,277129.3218,292652.65
+P17751,Tpi1,Triosephosphate isomerase,Mus musculus,79617.7392,73309.8406,76463.7899
+P17879;Q61696,Hspa1b;Hspa1a,Heat shock 70 kDa protein 1B;Heat shock 70 kDa protein 1A,Mus musculus,8527.2,8527.36,8527.28
+P17892,Pnliprp2,Pancreatic lipase-related protein 2,Mus musculus,3035.46,588.4,1947.8777777777777
+P17897,Lyz1,Lysozyme C-1,Mus musculus,8436.36,50225.1408,29330.750399999997
+P18242,Ctsd,Cathepsin D,Mus musculus,2241599.825,1679567.85,1960583.8375
+P18337,Sell,L-selectin,Mus musculus,2403.7,NA,2403.7
+P18524,NA,Ig heavy chain V region RF,Mus musculus,17219.2245,32503.29875,24861.261625000003
+P18525,NA,Ig heavy chain V region 5-84,Mus musculus,5539.65,8188.5,7431.685714285714
+P18528,NA,Ig heavy chain V region 6.96,Mus musculus,7329.1398,10270.2996,8799.7197
+P18572,Bsg,Basigin,Mus musculus,3383.9,NA,3383.9
+P18654,Rps6ka3,Ribosomal protein S6 kinase alpha-3,Mus musculus,543.3333333333334,282.18,380.1125
+P18760,Cfl1,Cofilin-1,Mus musculus,82208.5806,99363.058,90785.8193
+P18761,Ca6,Carbonic anhydrase 6,Mus musculus,118546165.6,155284472,136915318.8
+P19001,Krt19,"Keratin, type I cytoskeletal 19",Mus musculus,12772.72,9583.4,11178.06
+P19096,Fasn,Fatty acid synthase,Mus musculus,766.825,492.03999999999996,614.1666666666666
+P19157,Gstp1,Glutathione S-transferase P 1,Mus musculus,62677.9208,33144.82,47911.3704
+P19221,F2,Prothrombin,Mus musculus,27468.7,5741.775,17812.28888888889
+P19253,Rpl13a,Large ribosomal subunit protein uL13,Mus musculus,NA,430.95,430.95
+P19467,Muc13,Mucin-13,Mus musculus,1497.4,5259.9,3109.9
+P19783,Cox4i1,"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial",Mus musculus,4754.55,8011.84,7081.185714285714
+P19973,Lsp1,Lymphocyte-specific protein 1,Mus musculus,8523.46,5633.68,7078.57
+P20029,Hspa5,Endoplasmic reticulum chaperone BiP,Mus musculus,223408.2248,219378.203,221393.2139
+P20060,Hexb,Beta-hexosaminidase subunit beta,Mus musculus,215504.3782,427930.3624,321717.3703
+P20065,Tmsb4x,Thymosin beta-4,Mus musculus,63572.1388,47066.3792,55319.259
+P20152,Vim,Vimentin,Mus musculus,52714.6806,51851.2796,52282.9801
+P20801,Tnnc2,"Troponin C, skeletal muscle",Mus musculus,696.325,18888.801,4334.8202
+P20852,Cyp2a5,Cytochrome P450 2A5,Mus musculus,2797.9,1027.7666666666667,2039.2714285714287
+P20918,Plg,Plasminogen,Mus musculus,53530.240000000005,16235.32,34882.78
+P21107,Tpm3,Tropomyosin alpha-3 chain,Mus musculus,159858.18099999998,240574.5988,200216.3899
+P21126,Ubl4a,Ubiquitin-like protein 4A,Mus musculus,878.6,NA,878.6
+P21180,C2,Complement C2,Mus musculus,2644.2,250.13333333333333,1447.1666666666667
+P21279,Gnaq,Guanine nucleotide-binding protein G(q) subunit alpha,Mus musculus,1228.52,1120.325,1180.4333333333334
+P21300;P45377,Akr1b7;Akr1b8,Aldo-keto reductase family 1 member B7;Aldose reductase-related protein 2,Mus musculus,569.35,1168.6,868.975
+P21460,Cst3,Cystatin-C,Mus musculus,4742953.7,3655278.75,4199116.225
+P21550,Eno3,Beta-enolase,Mus musculus,16729.36733333333,6309.45,12561.400399999999
+P21614,Gc,Vitamin D-binding protein,Mus musculus,133760.8848,30072.019800000002,81916.4523
+P21619,Lmnb2,Lamin-B2,Mus musculus,336.08,253.70000000000002,299.46666666666664
+P21956,Mfge8,Lactadherin,Mus musculus,58396.0198,54903.9808,56650.0003
+P21981,Tgm2,Protein-glutamine gamma-glutamyltransferase 2,Mus musculus,5949.725,512.375,3231.05
+P22599,Serpina1b,Alpha-1-antitrypsin 1-2,Mus musculus,558000.472,84406.1602,321203.31610000005
+P22892,Ap1g1,AP-1 complex subunit gamma-1,Mus musculus,406.75,1222.3,989.2857142857142
+P22907,Hmbs,Porphobilinogen deaminase,Mus musculus,425.3,NA,425.3
+P23188,Furin,Furin,Mus musculus,342565.9782,322360.5624,332463.2703
+P23198,Cbx3,Chromobox protein homolog 3,Mus musculus,2949.5,2777.38,2806.0666666666666
+P23336,Ggta1,"N-acetyllactosaminide alpha-1,3-galactosyltransferase",Mus musculus,986.65,866.05,946.45
+P23492,Pnp,Purine nucleoside phosphorylase,Mus musculus,34294.0608,22243.5402,28268.8005
+P23506,Pcmt1,Protein-L-isoaspartate(D-aspartate) O-methyltransferase,Mus musculus,9852.625,2459.54,5745.355555555556
+P23591,Gfus,GDP-L-fucose synthase,Mus musculus,3386.36,7337.5,5142.422222222222
+P23780,Glb1,Beta-galactosidase,Mus musculus,19439.78,21752.1198,20595.9499
+P23927,Cryab,Alpha-crystallin B chain,Mus musculus,17057.7998,12984.95,15247.644333333334
+P23953,Ces1c,Carboxylesterase 1C,Mus musculus,913452.2,260832.5158,587142.3579
+P24270,Cat,Catalase,Mus musculus,11573.580399999999,5216.8,8395.1902
+P24369,Ppib,Peptidyl-prolyl cis-trans isomerase B,Mus musculus,405630.5216,431947.5812,418789.0514
+P24452,Capg,Macrophage-capping protein,Mus musculus,45196.4398,44626.0408,44911.2403
+P24472,Gsta4,Glutathione S-transferase A4,Mus musculus,86126.0782,62677.0982,74401.5882
+P24527,Lta4h,Leukotriene A-4 hydrolase,Mus musculus,52369.3602,80660.3196,66514.8399
+P24549,Aldh1a1,Aldehyde dehydrogenase 1A1,Mus musculus,56241.0798,13157.64,34699.3599
+P24638,Acp2,Lysosomal acid phosphatase,Mus musculus,2543.88,5263.9601999999995,3903.9201000000003
+P25085,Il1rn,Interleukin-1 receptor antagonist protein,Mus musculus,6767.860000000001,5462.08,6114.97
+P25444,Rps2,Small ribosomal subunit protein uS5,Mus musculus,1198.3799999999999,1701.56,1449.97
+P25785,Timp2,Metalloproteinase inhibitor 2,Mus musculus,59110.8194,71541.1796,65325.9995
+P26039,Tln1,Talin-1,Mus musculus,8724.2802,8983.82,8854.0501
+P26040,Ezr,Ezrin,Mus musculus,43355.3194,43737.0806,43546.2
+P26041,Msn,Moesin,Mus musculus,65097.9592,62972.7194,64035.3393
+P26043,Rdx,Radixin,Mus musculus,1597.18,1524.8333333333333,1570.05
+P26231,Ctnna1,Catenin alpha-1,Mus musculus,840.6666666666666,488.4666666666667,664.5666666666666
+P26262,Klkb1,Plasma kallikrein,Mus musculus,12547.233,548.6,5048.087375
+P26339,Chga,Chromogranin-A,Mus musculus,503.675,686.075,594.875
+P26350,Ptma,Prothymosin alpha,Mus musculus,2098.2,NA,2098.2
+P26450,Pik3r1,Phosphatidylinositol 3-kinase regulatory subunit alpha,Mus musculus,194.66,635.3,268.1
+P26516,Psmd7,26S proteasome non-ATPase regulatory subunit 7,Mus musculus,2525.4,2066.82,2296.11
+P26618,Pdgfra,Platelet-derived growth factor receptor alpha,Mus musculus,87.9,NA,87.9
+P26638,Sars1,"Serine--tRNA ligase, cytoplasmic",Mus musculus,4796.16,6337.04,5566.6
+P26883,Fkbp1a,Peptidyl-prolyl cis-trans isomerase FKBP1A,Mus musculus,13030.000399999999,4294.38,8662.190200000001
+P26928,Mst1,Hepatocyte growth factor-like protein,Mus musculus,1862.75,126.4,1283.9666666666667
+P27005,S100a8,Protein S100-A8,Mus musculus,618622.6187999999,245785.6408,432204.1298
+P27046,Man2a1,Alpha-mannosidase 2,Mus musculus,12635.96,9895.12,11265.54
+P27048;P63163,Snrpb;Snrpn,Small nuclear ribonucleoprotein-associated protein B;Small nuclear ribonucleoprotein-associated protein N,Mus musculus,10002.06,9641.74,9821.9
+P27090,Tgfb2,Transforming growth factor beta-2 proprotein,Mus musculus,106971.7194,102480.0796,104725.8995
+P27546,Map4,Microtubule-associated protein 4,Mus musculus,975.075,1407.625,1191.35
+P27601,Gna13,Guanine nucleotide-binding protein subunit alpha-13,Mus musculus,284.8,294.2,287.93333333333334
+P27773,Pdia3,Protein disulfide-isomerase A3,Mus musculus,295351.794,199204.31879999998,247278.0564
+P27808,Mgat1,"Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",Mus musculus,9600.960000000001,5623.68,7612.32
+P27931,Il1r2,Interleukin-1 receptor type 2,Mus musculus,462.8666666666667,107.5,259.8
+P28063,Psmb8,Proteasome subunit beta type-8,Mus musculus,4302.8,3370.575,3836.6875
+P28271,Aco1,Cytoplasmic aconitate hydratase,Mus musculus,1178.0800000000002,345.4,808
+P28293,Ctsg,Cathepsin G,Mus musculus,13435.679999999998,32941.78,23188.73
+P28301,Lox,Protein-lysine 6-oxidase,Mus musculus,3420.08,4260.82,3840.4500000000003
+P28352,Apex1,DNA repair nuclease/redox regulator APEX1,Mus musculus,579.7,153.8,260.27500000000003
+P28474,Adh5,Alcohol dehydrogenase class-3,Mus musculus,3113.4,1010.475,2061.9375
+P28650,Adss1,Adenylosuccinate synthetase isozyme 1,Mus musculus,2251.925,1910.52,2062.2555555555555
+P28656,Nap1l1,Nucleosome assembly protein 1-like 1,Mus musculus,6840.1,5314.9,5992.766666666666
+P28658,Atxn10,Ataxin-10,Mus musculus,NA,1729.2,1729.2
+P28665,Mug1,Murinoglobulin-1,Mus musculus,306300.25500000006,24189.12,165244.6875
+P28666,Mug2,Murinoglobulin-2,Mus musculus,220.93333333333334,132.1,176.51666666666665
+P28798,Grn,Progranulin,Mus musculus,91375.69840000001,107586.7204,99481.2094
+P28843,Dpp4,Dipeptidyl peptidase 4,Mus musculus,23996.5196,16926.92,20461.7198
+P29341,Pabpc1,Polyadenylate-binding protein 1,Mus musculus,1929.0999999999997,1215.22,1572.16
+P29351,Ptpn6,Tyrosine-protein phosphatase non-receptor type 6,Mus musculus,1562.02,4742.66,3152.34
+P29391,Ftl1,Ferritin light chain 1,Mus musculus,37732.3006,8089.44,22910.870300000002
+P29416,Hexa,Beta-hexosaminidase subunit alpha,Mus musculus,69717.9796,94280.31880000001,81999.1492
+P29452,Casp1,Caspase-1,Mus musculus,751.0333333333333,756.5749999999999,754.1999999999999
+P29595,Nedd8,NEDD8,Mus musculus,28536.5,NA,28536.5
+P29621,Serpina3c,Serine protease inhibitor A3C,Mus musculus,4910.4,NA,4910.4
+P29699,Ahsg,Alpha-2-HS-glycoprotein,Mus musculus,162670.96240000002,26586.1806,94628.5715
+P29758,Oat,"Ornithine aminotransferase, mitochondrial",Mus musculus,786.55,NA,786.55
+P29788,Vtn,Vitronectin,Mus musculus,34171.04,7290.34,20730.69
+P30115,Gsta3,Glutathione S-transferase A3,Mus musculus,19568.8596,5542.22,12555.5398
+P30275,Ckmt1,"Creatine kinase U-type, mitochondrial",Mus musculus,14424.2604,9944.92,12184.5902
+P30412,Ppic,Peptidyl-prolyl cis-trans isomerase C,Mus musculus,13741.3796,17113.7202,15427.5499
+P30416,Fkbp4,Peptidyl-prolyl cis-trans isomerase FKBP4,Mus musculus,1038.35,202.7,481.24999999999994
+P30681,Hmgb2,High mobility group protein B2,Mus musculus,61796.780399999996,94573.3608,78185.0706
+P31001,Des,Desmin,Mus musculus,2213.8,2824.82,2519.31
+P31532,Saa4,Serum amyloid A-4 protein,Mus musculus,28970.6505,NA,28970.6505
+P31725,S100a9,Protein S100-A9,Mus musculus,5892123.975,7186914.2,6539519.0875
+P31786,Dbi,Acyl-CoA-binding protein,Mus musculus,36565.74,31742.141,34153.9405
+P31809,Ceacam1,Carcinoembryonic antigen-related cell adhesion molecule 1,Mus musculus,4848.9400000000005,4962.22,4905.58
+P32037,Slc2a3,"Solute carrier family 2, facilitated glucose transporter member 3",Mus musculus,3396.0800000000004,3084.9,3257.777777777778
+P32067,Ssb,Lupus La protein homolog,Mus musculus,1118.075,480.7333333333333,844.9285714285714
+P32261,Serpinc1,Antithrombin-III,Mus musculus,98428.8188,26887.2006,62658.0097
+P32848,Pvalb,Parvalbumin alpha,Mus musculus,57713.699,NA,57713.699
+P32921,Wars1,"Tryptophan--tRNA ligase, cytoplasmic",Mus musculus,2047.25,758.24,1331.1333333333334
+P33267,Cyp2f2,Cytochrome P450 2F2,Mus musculus,12707.9,8031.5,10369.7
+P33434,Mmp2,72 kDa type IV collagenase,Mus musculus,5523.1,153.75,1943.5333333333333
+P33587,Proc,Vitamin K-dependent protein C,Mus musculus,4497.4,1749.8599999999997,2534.8714285714286
+P33622,Apoc3,Apolipoprotein C-III,Mus musculus,15268.2,NA,15268.2
+P34022,Ranbp1,Ran-specific GTPase-activating protein,Mus musculus,2698,1242.1000000000001,1970.05
+P34884,Mif,Macrophage migration inhibitory factor,Mus musculus,8112.499750000001,4623.72,6174.288777777778
+P34928,Apoc1,Apolipoprotein C-I,Mus musculus,334487.8,24388.075,127754.65
+P35123;Q8R5H1;Q99K46,Usp4;Usp15;Usp11,Ubiquitin carboxyl-terminal hydrolase 4;Ubiquitin carboxyl-terminal hydrolase 15;Ubiquitin carboxyl-terminal hydrolase 11,Mus musculus,439.75,258.825,349.2875
+P35175,Stfa1,Stefin-1,Mus musculus,13667.0798,14544.699999999999,14105.8899
+P35235,Ptpn11,Tyrosine-protein phosphatase non-receptor type 11,Mus musculus,590.8,173.55,382.175
+P35242,Sftpa1,Pulmonary surfactant-associated protein A,Mus musculus,12598.5,4096.575000000001,5796.96
+P35276,Rab3d,Ras-related protein Rab-3D,Mus musculus,1521.58,2197.76,1859.67
+P35278,Rab5c,Ras-related protein Rab-5C,Mus musculus,25114.5804,15971.9,20543.2402
+P35279,Rab6a,Ras-related protein Rab-6A,Mus musculus,2823.6200000000003,2994.65,2899.633333333333
+P35282,Rab21,Ras-related protein Rab-21,Mus musculus,1161.56,2322.2999999999997,1741.93
+P35285;Q921E2,Rab22a;Rab31,Ras-related protein Rab-22A;Ras-related protein Rab-31,Mus musculus,816.95,897.7,861.8111111111111
+P35441,Thbs1,Thrombospondin-1,Mus musculus,38839.1004,16777.2,27808.1502
+P35456,Plaur,Urokinase plasminogen activator surface receptor,Mus musculus,1772.22,2878.48,2325.35
+P35459,Ly6d,Lymphocyte antigen 6D,Mus musculus,14947.14,17344.459600000002,16145.7998
+P35486,Pdha1,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",Mus musculus,492.03333333333336,614.75,562.1571428571428
+P35492,Hal,Histidine ammonia-lyase,Mus musculus,3016.66,2073,2544.83
+P35505,Fah,Fumarylacetoacetase,Mus musculus,456.7666666666667,221.46666666666667,339.1166666666667
+P35546,Ret,Proto-oncogene tyrosine-protein kinase receptor Ret,Mus musculus,2067.86,1672,1891.9222222222222
+P35564,Canx,Calnexin,Mus musculus,64.9,410.925,341.72
+P35700,Prdx1,Peroxiredoxin-1,Mus musculus,213188.6626,111888.9812,162538.82189999998
+P35822,Ptprk,Receptor-type tyrosine-protein phosphatase kappa,Mus musculus,295.775,693.84,516.9222222222222
+P35846,Folr1,Folate receptor alpha,Mus musculus,25377.1802,28588.9608,26983.070499999998
+P35979,Rpl12,Large ribosomal subunit protein uL11,Mus musculus,13644.0998,13003.380000000001,13323.7399
+P35980,Rpl18,Large ribosomal subunit protein eL18,Mus musculus,9910.875250000001,8921,9360.944555555556
+P36368,Egfbp2,Epidermal growth factor-binding protein type B,Mus musculus,305571.3232,87253.1822,196412.2527
+P36369,Klk1b26,Kallikrein 1-related peptidase b26,Mus musculus,5592306.625,2304185.2248,3948245.9249
+P36552,Cpox,"Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial",Mus musculus,762.05,527.9,684
+P37040,Por,NADPH--cytochrome P450 reductase,Mus musculus,2333.9,1827.1,2044.3
+P37804,Tagln,Transgelin,Mus musculus,5018.75,NA,5018.75
+P39039,Mbl1,Mannose-binding protein A,Mus musculus,9987.65,NA,9987.65
+P39054,Dnm2,Dynamin-2,Mus musculus,3571.0600000000004,2646.42,3108.7400000000002
+P39061,Col18a1,Collagen alpha-1(XVIII) chain,Mus musculus,1234.44,1188,1211.22
+P39098,Man1a2,"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IB",Mus musculus,773.56,1040.6,907.08
+P39654,Alox15,Polyunsaturated fatty acid lipoxygenase ALOX15,Mus musculus,NA,275.9,275.9
+P39655,Alox12,Polyunsaturated fatty acid lipoxygenase ALOX12,Mus musculus,1484.275,276.79999999999995,1081.7833333333333
+P39749,Fen1,Flap endonuclease 1,Mus musculus,1077.04,1176.3999999999999,1126.72
+P40124,Cap1,Adenylyl cyclase-associated protein 1,Mus musculus,33359.119,39741.58,36550.3495
+P40142,Tkt,Transketolase,Mus musculus,122670.7608,147573.1218,135121.9413
+P40237,Cd82,CD82 antigen,Mus musculus,4211.62,1316.06,2763.84
+P40336,Vps26a,Vacuolar protein sorting-associated protein 26A,Mus musculus,5530.45,1503.425,3516.9375
+P40936,Inmt,Indolethylamine N-methyltransferase,Mus musculus,14743.2,NA,14743.2
+P41160,Lep,Leptin,Mus musculus,3315.9,NA,3315.9
+P41216,Acsl1,Long-chain-fatty-acid--CoA ligase 1,Mus musculus,1516.22,848.14,1182.18
+P41245,Mmp9,Matrix metalloproteinase-9,Mus musculus,47686.6,89476.7188,68581.6594
+P41317,Mbl2,Mannose-binding protein C,Mus musculus,10898.6198,1797.475,6853.6665555555555
+P41731,Cd63,CD63 antigen,Mus musculus,8581.52,6842.76,7712.139999999999
+P42208,Septin2,Septin-2,Mus musculus,2951.45,408.175,1255.9333333333334
+P42669,Pura,Transcriptional activator protein Pur-alpha,Mus musculus,10229,NA,10229
+P42703,Lifr,Leukemia inhibitory factor receptor,Mus musculus,16236.44,13625.1,14930.77
+P42932,Cct8,T-complex protein 1 subunit theta,Mus musculus,2322.98,1989.76,2156.37
+P43025,Clec3b,Tetranectin,Mus musculus,1189.5,NA,1189.5
+P43027,Gdf5,Growth/differentiation factor 5,Mus musculus,45686.62,57417.1,51551.86
+P43274,H1-4,Histone H1.4,Mus musculus,158894.3406,225160.4406,192027.3906
+P43275,H1-1,Histone H1.1,Mus musculus,7466.3,12850.6602,10158.4801
+P43276,H1-5,Histone H1.5,Mus musculus,9265.92,14833.8402,12049.8801
+P43277,H1-3,Histone H1.3,Mus musculus,182197.24219999998,265915.6594,224056.4508
+P45376,Akr1b1,Aldo-keto reductase family 1 member B1,Mus musculus,14528.7796,7547.2,11037.989800000001
+P45700,Man1a1,"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IA",Mus musculus,367789.62179999996,341484.603,354637.1124
+P45878,Fkbp2,Peptidyl-prolyl cis-trans isomerase FKBP2,Mus musculus,65658.6008,5780.72,35719.6604
+P45952,Acadm,"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",Mus musculus,2404.92,3843.7,3124.31
+P46412,Gpx3,Glutathione peroxidase 3,Mus musculus,62801.8814,15413.0398,39107.460600000006
+P46460,Nsf,Vesicle-fusing ATPase,Mus musculus,750.1999999999999,137.975,400.35714285714283
+P46467,Vps4b,Vacuolar protein sorting-associated protein 4B,Mus musculus,3378.32,2735.12,3056.72
+P46471,Psmc2,26S proteasome regulatory subunit 7,Mus musculus,3717.3999999999996,545.95,2131.675
+P46638,Rab11b,Ras-related protein Rab-11B,Mus musculus,18953.4598,15748.8596,17351.1597
+P46664,Adss2,Adenylosuccinate synthetase isozyme 2,Mus musculus,1759.3249999999998,2338.76,2081.233333333333
+P46935,Nedd4,E3 ubiquitin-protein ligase NEDD4,Mus musculus,1899.2,541.4,1084.52
+P46978,Stt3a,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A,Mus musculus,551.6333333333333,749.3666666666667,650.5
+P47212,Gal,Galanin peptides,Mus musculus,2122.6666666666665,3812.1333333333337,2967.4
+P47738,Aldh2,"Aldehyde dehydrogenase, mitochondrial",Mus musculus,16295.4002,18376.1402,17335.7702
+P47739,Aldh3a1,"Aldehyde dehydrogenase, dimeric NADP-preferring",Mus musculus,474580.6938,418673.9156,446627.3047
+P47753,Capza1,F-actin-capping protein subunit alpha-1,Mus musculus,32396.9396,46877.4796,39637.2096
+P47754,Capza2,F-actin-capping protein subunit alpha-2,Mus musculus,42648.3596,50298.4602,46473.4099
+P47757,Capzb,F-actin-capping protein subunit beta,Mus musculus,15277.3998,9737.26,12507.3299
+P47791,Gsr,"Glutathione reductase, mitochondrial",Mus musculus,10936.5802,16536.239999999998,13736.4101
+P47856,Gfpt1,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1,Mus musculus,10302.34,24694.079999999998,17498.21
+P47857,Pfkm,"ATP-dependent 6-phosphofructokinase, muscle type",Mus musculus,837.8399999999999,676.8,811
+P47911,Rpl6,Large ribosomal subunit protein eL6,Mus musculus,3886.8,4248.7,4047.6444444444446
+P47955,Rplp1,Large ribosomal subunit protein P1,Mus musculus,82780.06079999999,38837.6604,60808.8606
+P47963,Rpl13,Large ribosomal subunit protein eL13,Mus musculus,4855.3,2649.625,3594.9142857142856
+P47968,Rpia,Ribose-5-phosphate isomerase,Mus musculus,4938.7,741.58,1441.1
+P48025,Syk,Tyrosine-protein kinase SYK,Mus musculus,885.0999999999999,858.9749999999999,872.0375
+P48036,Anxa5,Annexin A5,Mus musculus,49561.8408,37477.5796,43519.7102
+P48193,Epb41,Protein 4.1,Mus musculus,8225,NA,8225
+P48441,Idua,Alpha-L-iduronidase,Mus musculus,10931.12,9228.98,10080.050000000001
+P48678,Lmna,Prelamin-A/C,Mus musculus,15126.74,12073.480000000001,13600.11
+P48722,Hspa4l,Heat shock 70 kDa protein 4L,Mus musculus,1498.6666666666667,325.025,828.0142857142857
+P48758,Cbr1,Carbonyl reductase [NADPH] 1,Mus musculus,6592.459999999999,3670.9,5131.68
+P48774,Gstm5,Glutathione S-transferase Mu 5,Mus musculus,2281.3,1401.575,1890.3111111111114
+P48997,Ivl,Involucrin,Mus musculus,99,1106.5,770.6666666666666
+P49182,Serpind1,Heparin cofactor 2,Mus musculus,27828.759400000003,3095.12,15461.9397
+P49183,Dnase1,Deoxyribonuclease-1,Mus musculus,441622230.4,393650336,417636283.2
+P49222,Epb42,Protein 4.2,Mus musculus,5090.8,NA,5090.8
+P49312,Hnrnpa1,Heterogeneous nuclear ribonucleoprotein A1,Mus musculus,2191.08,2437.94,2314.51
+P49442,Inpp1,Inositol polyphosphate 1-phosphatase,Mus musculus,2235.5,3074.1499999999996,2794.6
+P49443,Ppm1a,Protein phosphatase 1A,Mus musculus,1167.2,492.53999999999996,685.3
+P49710,Hcls1,Hematopoietic lineage cell-specific protein,Mus musculus,198.525,3057.1800000000003,1786.6666666666665
+P49722,Psma2,Proteasome subunit alpha type-2,Mus musculus,7720.280199999999,2532.025,5414.389
+P49813,Tmod1,Tropomodulin-1,Mus musculus,3358.62,862.24,2110.43
+P49891,Sult1e1,Sulfotransferase 1E1,Mus musculus,4676.9,4879.86,4778.38
+P49935,Ctsh,Pro-cathepsin H,Mus musculus,336487.0158,297934.27520000003,317210.6455
+P50114,S100b,Protein S100-B,Mus musculus,4495.4,NA,4495.4
+P50247,Ahcy,Adenosylhomocysteinase,Mus musculus,7187.5998,3881.6,5534.5999
+P50396,Gdi1,Rab GDP dissociation inhibitor alpha,Mus musculus,5940.3002,3728.88,4834.5901
+P50404,Sftpd,Pulmonary surfactant-associated protein D,Mus musculus,5231.78,5130.96,5181.37
+P50405,Sftpb,Pulmonary surfactant-associated protein B,Mus musculus,23005.367333333335,13514.6396,17073.6625
+P50429,Arsb,Arylsulfatase B,Mus musculus,10902.52,9314.88,10108.7
+P50431,Shmt1,"Serine hydroxymethyltransferase, cytosolic",Mus musculus,371.32,590.48,480.9
+P50446,Krt6a,"Keratin, type II cytoskeletal 6A",Mus musculus,4234935.25,3462223.2,3848579.225
+P50516,Atp6v1a,V-type proton ATPase catalytic subunit A,Mus musculus,11080.0602,9763.9,10421.9801
+P50518,Atp6v1e1,V-type proton ATPase subunit E 1,Mus musculus,7230.6497500000005,6977.139999999999,7089.811
+P50543,S100a11,Protein S100-A11,Mus musculus,36410.28,44182.7602,40296.5201
+P50580,Pa2g4,Proliferation-associated protein 2G4,Mus musculus,3747.7599999999998,3920.46,3834.1099999999997
+P50608,Fmod,Fibromodulin,Mus musculus,2462.62,1778.12,2120.37
+P51150,Rab7a,Ras-related protein Rab-7a,Mus musculus,39736.1598,34574.9602,37155.56
+P51174,Acadl,"Long-chain specific acyl-CoA dehydrogenase, mitochondrial",Mus musculus,4300.04,2525.4000000000005,3511.311111111111
+P51432,Plcb3,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3",Mus musculus,1059.24,372.9,716.0699999999999
+P51437,Camp,Cathelicidin antimicrobial peptide,Mus musculus,387682.8344,606950.0684,497316.4514
+P51569,Gla,Alpha-galactosidase A,Mus musculus,4428.92,6084.24,5256.58
+P51655,Gpc4,Glypican-4,Mus musculus,47741.5598,44857.4,46299.4799
+P51667,Myl2,"Myosin regulatory light chain 2, ventricular/cardiac muscle isoform",Mus musculus,3826.64,5210.3,4518.47
+P51855,Gss,Glutathione synthetase,Mus musculus,3177.28,1387.96,2282.62
+P51859,Hdgf,Hepatoma-derived growth factor,Mus musculus,1328.05,928.7666666666668,1156.9285714285716
+P51863,Atp6v0d1,V-type proton ATPase subunit d 1,Mus musculus,1606.42,2168.64,1887.53
+P51881,Slc25a5,ADP/ATP translocase 2,Mus musculus,16850.1998,16988.6998,16919.4498
+P51885,Lum,Lumican,Mus musculus,38132.665666666675,2944.2333333333336,20538.4495
+P51910,Apod,Apolipoprotein D,Mus musculus,55088.47820000001,1806.3799999999999,28447.4291
+P52196,Tst,Thiosulfate sulfurtransferase,Mus musculus,4423.975,924.425,2674.2
+P52430,Pon1,Serum paraoxonase/arylesterase 1,Mus musculus,35775.72119999999,7787.34,21781.5306
+P52480,Pkm,Pyruvate kinase PKM,Mus musculus,258866.506,223022.6218,240944.5639
+P52760,Rida,2-iminobutanoate/2-iminopropanoate deaminase,Mus musculus,8483.92525,5370.799999999999,6927.362625
+P52793,Efna1,Ephrin-A1,Mus musculus,1469.22,3529,2499.11
+P53026,Rpl10a,Large ribosomal subunit protein uL1,Mus musculus,2649.75,2600.06,2622.1444444444446
+P53657,Pklr,Pyruvate kinase PKLR,Mus musculus,6801.9,NA,6801.9
+P53810,Pitpna,Phosphatidylinositol transfer protein alpha isoform,Mus musculus,1322.3600000000001,1147.18,1234.77
+P53986,Slc16a1,Monocarboxylate transporter 1,Mus musculus,1174.3,NA,1174.3
+P53994,Rab2a,Ras-related protein Rab-2A,Mus musculus,11542.02,12690.1,12116.06
+P54071,Idh2,"Isocitrate dehydrogenase [NADP], mitochondrial",Mus musculus,1734.775,1438.7666666666667,1607.9142857142858
+P54116,Stom,Stomatin,Mus musculus,8538.2,1586.4,5062.3
+P54227;P55821,Stmn1;Stmn2,Stathmin;Stathmin-2,Mus musculus,4767.1,3181.3500000000004,3709.9333333333334
+P54615,Bglap3,Osteocalcin-related protein,Mus musculus,165544.7188,606456.0102,386000.3644999999
+P54751,St3gal1,"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1",Mus musculus,9951.98,28605.319600000003,19278.6498
+P54818,Galc,Galactocerebrosidase,Mus musculus,11867.520199999999,5679.3,8773.4101
+P54822,Adsl,Adenylosuccinate lyase,Mus musculus,6525.820000000001,2202.06,4363.94
+P54823,Ddx6,Probable ATP-dependent RNA helicase DDX6,Mus musculus,400.3,544.98,520.8666666666667
+P55065,Pltp,Phospholipid transfer protein,Mus musculus,11606.979800000001,1606.94,6606.9599
+P55249,Alox12e,"Polyunsaturated fatty acid (12S)/(13S)-lipoxygenase, epidermal-type",Mus musculus,146720.3982,94362.0202,120541.2092
+P55258,Rab8a,Ras-related protein Rab-8A,Mus musculus,1716.2,2335.28,2060.133333333333
+P55292,Dsc2,Desmocollin-2,Mus musculus,25958.799600000002,34889.8204,30424.31
+P55302,Lrpap1,Alpha-2-macroglobulin receptor-associated protein,Mus musculus,842.1,674.4000000000001,794.1857142857143
+P55849,Dsc1,Desmocollin-1,Mus musculus,3659.34,1732.44,2695.8900000000003
+P56135,Atp5mf,"ATP synthase subunit f, mitochondrial",Mus musculus,5358.05,6094.966666666666,5673.871428571429
+P56376,Acyp1,Acylphosphatase-1,Mus musculus,3939.92,3204.06,3571.99
+P56395,Cyb5a,Cytochrome b5,Mus musculus,25154.775,6213.075,15683.925
+P56399,Usp5,Ubiquitin carboxyl-terminal hydrolase 5,Mus musculus,2826.88,2024.38,2425.63
+P56400,Gp1bb,Platelet glycoprotein Ib beta chain,Mus musculus,3288.6,NA,3288.6
+P56480,Atp5f1b,"ATP synthase subunit beta, mitochondrial",Mus musculus,40008.3608,43165.2,41586.7804
+P56542,Dnase2,Deoxyribonuclease-2-alpha,Mus musculus,27763.3602,38250.4806,33006.9204
+P56565,S100a1,Protein S100-A1,Mus musculus,2220.52,0.6,1850.5333333333333
+P56567,Csta,Cystatin-A,Mus musculus,80712.7806,100591.2602,90652.02040000001
+P56812,Pdcd5,Programmed cell death protein 5,Mus musculus,1851.1,NA,1851.1
+P56959,Fus,RNA-binding protein FUS,Mus musculus,921.08,1400.96,1161.02
+P57096,Psca,Prostate stem cell antigen,Mus musculus,9487.5,16432.140199999998,12959.820099999999
+P57716,Ncstn,Nicastrin,Mus musculus,909.025,644.1666666666667,795.5142857142857
+P57746,Atp6v1d,V-type proton ATPase subunit D,Mus musculus,1219.75,650.4666666666667,878.1800000000001
+P57759,Erp29,Endoplasmic reticulum resident protein 29,Mus musculus,14113.1598,8138.82,11125.9899
+P57776,Eef1d,Elongation factor 1-delta,Mus musculus,9433.34,4266.24,6849.79
+P57780,Actn4,Alpha-actinin-4,Mus musculus,16191.8398,16706.14,16448.9899
+P58021,Tm9sf2,Transmembrane 9 superfamily member 2,Mus musculus,426.66666666666663,1207.7,914.8125
+P58044,Idi1,Isopentenyl-diphosphate Delta-isomerase 1,Mus musculus,4422.8,3403.04,3912.92
+P58058,Nadk,NAD kinase,Mus musculus,829.6666666666666,973.24,919.4
+P58158,B3gat3,Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3,Mus musculus,2203.08,3577.02,2890.05
+P58242,Smpdl3b,Acid sphingomyelinase-like phosphodiesterase 3b,Mus musculus,28710.58,32412.48,30561.53
+P58252,Eef2,Elongation factor 2,Mus musculus,65159.4194,60738.5398,62948.9796
+P58389,Ptpa,Serine/threonine-protein phosphatase 2A activator,Mus musculus,14661,1149.45,5653.3
+P58771,Tpm1,Tropomyosin alpha-1 chain,Mus musculus,12603.367,11739.5245,12109.742714285714
+P58774,Tpm2,Tropomyosin beta chain,Mus musculus,7377.266666666666,4748.3,6720.025
+P59325,Eif5,Eukaryotic translation initiation factor 5,Mus musculus,23771.3592,23088.1994,23429.779300000002
+P59729,Rin3,Ras and Rab interactor 3,Mus musculus,NA,232.3,232.3
+P59999,Arpc4,Actin-related protein 2/3 complex subunit 4,Mus musculus,127377.661,147946.9406,137662.3008
+P60122,Ruvbl1,RuvB-like 1,Mus musculus,809.64,868.76,839.2
+P60229,Eif3e,Eukaryotic translation initiation factor 3 subunit E,Mus musculus,1996.3,1536.48,1766.3899999999999
+P60335,Pcbp1,Poly(rC)-binding protein 1,Mus musculus,2386.3,570.3666666666667,1024.3500000000001
+P60710;P63260,Actb;Actg1,"Actin, cytoplasmic 1;Actin, cytoplasmic 2",Mus musculus,1414065.075,1942668.975,1678367.025
+P60766,Cdc42,Cell division control protein 42 homolog,Mus musculus,5781.14,5048.28,5414.71
+P60843,Eif4a1,Eukaryotic initiation factor 4A-I,Mus musculus,39788.4406,46381.501,43084.970799999996
+P61021,Rab5b,Ras-related protein Rab-5B,Mus musculus,2542.7,717.4,1630.05
+P61027,Rab10,Ras-related protein Rab-10,Mus musculus,28499.5596,21800.0798,25149.8197
+P61087,Ube2k,Ubiquitin-conjugating enzyme E2 K,Mus musculus,2383.2999999999997,1697,1954.3625
+P61089,Ube2n,Ubiquitin-conjugating enzyme E2 N,Mus musculus,36509.4006,31045.8402,33777.6204
+P61161,Actr2,Actin-related protein 2,Mus musculus,70742.0008,94666.0188,82704.0098
+P61202,Cops2,COP9 signalosome complex subunit 2,Mus musculus,613.8,45.2,329.5
+P61205;P84078,Arf3;Arf1,ADP-ribosylation factor 3;ADP-ribosylation factor 1,Mus musculus,81278.5406,48710.7406,64994.6406
+P61211,Arl1,ADP-ribosylation factor-like protein 1,Mus musculus,2716.56,2780.54,2748.55
+P61255,Rpl26,Large ribosomal subunit protein uL24,Mus musculus,7183.46,6076.0599999999995,6629.76
+P61290,Psme3,Proteasome activator complex subunit 3,Mus musculus,3766.4,NA,3766.4
+P61358,Rpl27,Large ribosomal subunit protein eL27,Mus musculus,16425.2005,14162.933333333332,15455.657428571429
+P61750,Arf4,ADP-ribosylation factor 4,Mus musculus,4092.16,3815.625,3969.2555555555555
+P61804,Dad1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1,Mus musculus,2216.8333333333335,2989.5666666666666,2603.2
+P61809,Cdk5r1,Cyclin-dependent kinase 5 activator 1,Mus musculus,216591.07820000002,126680.859,171635.9686
+P61924,Copz1,Coatomer subunit zeta-1,Mus musculus,2631.46,2286.6,2478.188888888889
+P61939,Serpina7,Thyroxine-binding globulin,Mus musculus,1278.3,NA,1278.3
+P61957;Q9Z172,Sumo2;Sumo3,Small ubiquitin-related modifier 2;Small ubiquitin-related modifier 3,Mus musculus,14381.9,8641.560000000001,11511.73
+P61961,Ufm1,Ubiquitin-fold modifier 1,Mus musculus,62063.7788,72948.7202,67506.2495
+P61967,Ap1s1,AP-1 complex subunit sigma-1A,Mus musculus,4439.4800000000005,4657.9,4548.6900000000005
+P61971,Nutf2,Nuclear transport factor 2,Mus musculus,5239.96,2335.4500000000003,3949.0666666666666
+P61979,Hnrnpk,Heterogeneous nuclear ribonucleoprotein K,Mus musculus,8738.2798,7945,8341.6399
+P61982,Ywhag,14-3-3 protein gamma,Mus musculus,111314.1798,149190.20299999998,130252.1914
+P62082,Rps7,Small ribosomal subunit protein eS7,Mus musculus,4677.65,4286.066666666667,4509.828571428571
+P62137,Ppp1ca,Serine/threonine-protein phosphatase PP1-alpha catalytic subunit,Mus musculus,4269.8,3247.7200000000003,3758.7599999999998
+P62196,Psmc5,26S proteasome regulatory subunit 8,Mus musculus,2610.7599999999998,1054.52,1832.64
+P62242,Rps8,Small ribosomal subunit protein eS8,Mus musculus,12954.6598,9194.24,11074.4499
+P62245,Rps15a,Small ribosomal subunit protein uS8,Mus musculus,13980.88,19817.82,16899.35
+P62257,Ube2h,Ubiquitin-conjugating enzyme E2 H,Mus musculus,1029.9,NA,1029.9
+P62259,Ywhae,14-3-3 protein epsilon,Mus musculus,31224.359400000005,18565.7002,24895.0298
+P62264,Rps14,Small ribosomal subunit protein uS11,Mus musculus,10770.4,13256.9,11875.511111111111
+P62267,Rps23,Small ribosomal subunit protein uS12,Mus musculus,4325.566666666667,2435.9333333333334,3380.75
+P62270,Rps18,Small ribosomal subunit protein uS13,Mus musculus,14023.5998,9640.6,11832.0999
+P62281,Rps11,Small ribosomal subunit protein uS17,Mus musculus,718.5,343.9,468.76666666666665
+P62301,Rps13,Small ribosomal subunit protein uS15,Mus musculus,18314.5798,20036.0602,19175.32
+P62305,Snrpe,Small nuclear ribonucleoprotein E,Mus musculus,6183.78,9927.0798,8055.4299
+P62307,Snrpf,Small nuclear ribonucleoprotein F,Mus musculus,1188.6,603.25,798.3666666666667
+P62309,Snrpg,Small nuclear ribonucleoprotein G,Mus musculus,2703.85,9616.475,6160.1625
+P62311,Lsm3,U6 snRNA-associated Sm-like protein LSm3,Mus musculus,4338.4000000000005,4444.666666666667,4391.533333333334
+P62313,Lsm6,U6 snRNA-associated Sm-like protein LSm6,Mus musculus,1745.275,2531.2200000000003,2181.911111111111
+P62315,Snrpd1,Small nuclear ribonucleoprotein Sm D1,Mus musculus,27542.479599999995,5492.32,16517.3998
+P62320,Snrpd3,Small nuclear ribonucleoprotein Sm D3,Mus musculus,5338.66,8971.7198,7155.1899
+P62334,Psmc6,26S proteasome regulatory subunit 10B,Mus musculus,2684.65,678.175,1347
+P62627,Dynlrb1,Dynein light chain roadblock-type 1,Mus musculus,3717.5999999999995,1319.225,2118.6833333333334
+P62631,Eef1a2,Elongation factor 1-alpha 2,Mus musculus,23016.699,142.95,7767.533
+P62702,Rps4x,Small ribosomal subunit protein eS4,Mus musculus,4114.66,2506.55,3399.944444444445
+P62715;P63330,Ppp2cb;Ppp2ca,Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform;Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,Mus musculus,1959.3,1715.5,1837.3999999999999
+P62743,Ap2s1,AP-2 complex subunit sigma,Mus musculus,3675.22,3110.825,3424.3777777777777
+P62748,Hpcal1,Hippocalcin-like protein 1,Mus musculus,1691.22,2197.6499999999996,1916.3
+P62751,Rpl23a,Large ribosomal subunit protein uL23,Mus musculus,3981.766666666667,1774.375,2720.4
+P62754,Rps6,Small ribosomal subunit protein eS6,Mus musculus,6965.26,8665.2,7815.23
+P62774,Mtpn,Myotrophin,Mus musculus,13438.08,6849.14,10143.61
+P62806,H4c1,Histone H4,Mus musculus,2870243.475,4498887.275,3684565.375
+P62810,Wfdc18,WAP four-disulfide core domain protein 18,Mus musculus,53440.5602,71927.3586,62683.9594
+P62814,Atp6v1b2,"V-type proton ATPase subunit B, brain isoform",Mus musculus,6723.58,7216.5,6970.04
+P62827,Ran,GTP-binding nuclear protein Ran,Mus musculus,59171.9594,35243.7004,47207.8299
+P62843,Rps15,Small ribosomal subunit protein uS19,Mus musculus,1423.3500000000001,NA,1423.3500000000001
+P62849,Rps24,Small ribosomal subunit protein eS24,Mus musculus,NA,NA,NA
+P62852,Rps25,Small ribosomal subunit protein eS25,Mus musculus,23088.9198,28368.57425,25435.43288888889
+P62858,Rps28,Small ribosomal subunit protein eS28,Mus musculus,26517.6398,23218.48,24868.0599
+P62869,Elob,Elongin-B,Mus musculus,5978.200000000001,4505.4,4926.2
+P62874,Gnb1,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1,Mus musculus,2092.32,960.9200000000001,1526.62
+P62878,Rbx1,E3 ubiquitin-protein ligase RBX1,Mus musculus,10591.5,4992.333333333333,6392.125
+P62892,Rpl39,Large ribosomal subunit protein eL39,Mus musculus,7248,7274.424999999999,7261.2125
+P62897,Cycs,"Cytochrome c, somatic",Mus musculus,52008.3398,55899.2398,53953.7898
+P62908,Rps3,Small ribosomal subunit protein uS3,Mus musculus,30720.5202,26647.0004,28683.760299999998
+P62960,Ybx1,Y-box-binding protein 1,Mus musculus,2418.88,1972.9,2195.89
+P62962,Pfn1,Profilin-1,Mus musculus,448356.6,546650.5812,497503.5906
+P62965,Crabp1,Cellular retinoic acid-binding protein 1,Mus musculus,1260.4,NA,1260.4
+P63001,Rac1,Ras-related C3 botulinum toxin substrate 1,Mus musculus,61315.65900000001,36547.94,48931.7995
+P63005,Pafah1b1,Platelet-activating factor acetylhydrolase IB subunit beta,Mus musculus,18617.6198,9950.2,14283.9099
+P63017,Hspa8,Heat shock cognate 71 kDa protein,Mus musculus,80618.6814,56837.4998,68728.0906
+P63028,Tpt1,Translationally-controlled tumor protein,Mus musculus,17686.12525,12561.4198,14839.066666666668
+P63038,Hspd1,"60 kDa heat shock protein, mitochondrial",Mus musculus,2397.2200000000003,2601.86,2499.54
+P63073,Eif4e,Eukaryotic translation initiation factor 4E,Mus musculus,441.9,NA,441.9
+P63085,Mapk1,Mitogen-activated protein kinase 1,Mus musculus,2122.98,1662.02,1892.5
+P63094;Q6R0H7,Gnas,Guanine nucleotide-binding protein G(s) subunit alpha isoforms short;Guanine nucleotide-binding protein G(s) subunit alpha isoforms XLas,Mus musculus,1357.64,825.22,1091.43
+P63101,Ywhaz,14-3-3 protein zeta/delta,Mus musculus,105824.8812,114250.8796,110037.8804
+P63147,Ube2b,Ubiquitin-conjugating enzyme E2 B,Mus musculus,1765.5,NA,1765.5
+P63158,Hmgb1,High mobility group protein B1,Mus musculus,2578.7799999999997,902.45,1833.7444444444445
+P63242;Q8BGY2,Eif5a;Eif5a2,Eukaryotic translation initiation factor 5A-1;Eukaryotic translation initiation factor 5A-2,Mus musculus,26921.759400000003,18682.8602,22802.3098
+P63280,Ube2i,SUMO-conjugating enzyme UBC9,Mus musculus,227.3,1525.04,1308.75
+P63323,Rps12,Small ribosomal subunit protein eS12,Mus musculus,2472.75,2973.48,2750.9333333333334
+P63325,Rps10,Small ribosomal subunit protein eS10,Mus musculus,13930.1204,8769.82,11349.9702
+P63328,Ppp3ca,Protein phosphatase 3 catalytic subunit alpha,Mus musculus,14626.98,263537.52999999997,139082.255
+P67778,Phb1,Prohibitin 1,Mus musculus,1409.02,1667.78,1538.3999999999999
+P67984,Rpl22,Large ribosomal subunit protein eL22,Mus musculus,18848.0798,21189.2598,20018.6698
+P68033,Actc1,"Actin, alpha cardiac muscle 1",Mus musculus,3877674.05,5003649.55,4440661.8
+P68037,Ube2l3,Ubiquitin-conjugating enzyme E2 L3,Mus musculus,15442.460000000001,19979.333333333332,17143.7875
+P68040,Rack1,Small ribosomal subunit protein RACK1,Mus musculus,8051.0199999999995,7428.4800000000005,7739.75
+P68134,Acta1,"Actin, alpha skeletal muscle",Mus musculus,9340.6,3182.6,6261.6
+P68254,Ywhaq,14-3-3 protein theta,Mus musculus,3016.54,2767.2799999999997,2891.91
+P68368,Tuba4a,Tubulin alpha-4A chain,Mus musculus,29887.5802,39954.219,34920.8996
+P68372,Tubb4b,Tubulin beta-4B chain,Mus musculus,197643.7376,116868.9388,157256.3382
+P68510,Ywhah,14-3-3 protein eta,Mus musculus,10400.000199999999,7948.72,9174.3601
+P70124,Serpinb5,Serpin B5,Mus musculus,11942.82,11517.159800000001,11729.9899
+P70158,Smpdl3a,Cyclic GMP-AMP phosphodiesterase SMPDL3A,Mus musculus,130931.1578,294106.5466,212518.8522
+P70168,Kpnb1,Importin subunit beta-1,Mus musculus,3593.08,2520.5,3056.79
+P70195,Psmb7,Proteasome subunit beta type-7,Mus musculus,4311,NA,4311
+P70248,Myo1f,Unconventional myosin-If,Mus musculus,541.42,1378.6000000000001,960.01
+P70269,Ctse,Cathepsin E,Mus musculus,2573.5,NA,2573.5
+P70274,Selenop,Selenoprotein P,Mus musculus,11603.48,4859.36,8231.42
+P70277,St6galnac2,"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2",Mus musculus,272265.0406,25055.4196,148660.2301
+P70290,Mpp1,55 kDa erythrocyte membrane protein,Mus musculus,9744.95,NA,9744.95
+P70296,Pebp1,Phosphatidylethanolamine-binding protein 1,Mus musculus,61764.6194,20460.1806,41112.4
+P70302,Stim1,Stromal interaction molecule 1,Mus musculus,127.36000000000001,187.33333333333334,149.85
+P70315,Was,Actin nucleation-promoting factor WAS,Mus musculus,1537.06,1713.32,1625.19
+P70335,Rock1,Rho-associated protein kinase 1,Mus musculus,164.64000000000001,175.95,169.66666666666666
+P70349,Hint1,Adenosine 5'-monophosphoramidase HINT1,Mus musculus,34068.199400000005,21154.499799999998,27611.3496
+P70362,Ufd1,Ubiquitin recognition factor in ER-associated degradation protein 1,Mus musculus,3138.88,2831.68,2985.2799999999997
+P70372,Elavl1,ELAV-like protein 1,Mus musculus,2604.1,1557.62,2080.86
+P70389,Igfals,Insulin-like growth factor-binding protein complex acid labile subunit,Mus musculus,25612.3406,7944.8,16778.5703
+P70404,Idh3g,"Isocitrate dehydrogenase [NAD] subunit gamma 1, mitochondrial",Mus musculus,78.1,64,71.05
+P70419,Galnt3,Polypeptide N-acetylgalactosaminyltransferase 3,Mus musculus,2749.26,2142.58,2445.92
+P70441,Nherf1,Na(+)/H(+) exchange regulatory cofactor NHE-RF1,Mus musculus,17752.4002,17969.0602,17860.7302
+P70444,Bid,BH3-interacting domain death agonist,Mus musculus,NA,496.3,496.3
+P70460,Vasp,Vasodilator-stimulated phosphoprotein,Mus musculus,4139.16,6477.38,5308.27
+P70665,Siae,Sialate O-acetylesterase,Mus musculus,2080.94,2191.84,2136.39
+P70670;Q60817,Naca,"Nascent polypeptide-associated complex subunit alpha, muscle-specific form;Nascent polypeptide-associated complex subunit alpha",Mus musculus,4497.85,3375.62,3696.2571428571428
+P70695,Fbp2,"Fructose-1,6-bisphosphatase isozyme 2",Mus musculus,928.9,NA,928.9
+P70697,Urod,Uroporphyrinogen decarboxylase,Mus musculus,1547.7,NA,1547.7
+P70699,Gaa,Lysosomal alpha-glucosidase,Mus musculus,2877.32,3206.96,3042.14
+P80313,Cct7,T-complex protein 1 subunit eta,Mus musculus,3600.98,3879.86,3740.42
+P80314,Cct2,T-complex protein 1 subunit beta,Mus musculus,1159.16,1381.88,1270.52
+P80315,Cct4,T-complex protein 1 subunit delta,Mus musculus,4471.68,4829.92,4650.8
+P80316,Cct5,T-complex protein 1 subunit epsilon,Mus musculus,1004.0250000000001,483.375,743.7
+P80317,Cct6a,T-complex protein 1 subunit zeta,Mus musculus,3912.3599999999997,2414.7,3163.5299999999997
+P80318,Cct3,T-complex protein 1 subunit gamma,Mus musculus,2138.92,1879.44,2009.18
+P80560,Ptprn2,Receptor-type tyrosine-protein phosphatase N2,Mus musculus,1282.4,2695.56,1988.98
+P81117,Nucb2,Nucleobindin-2,Mus musculus,4104574.65,2930352.6,3517463.625
+P82198,Tgfbi,Transforming growth factor-beta-induced protein ig-h3,Mus musculus,1831.6,59.5,945.55
+P84075;Q91X97,Hpca;Ncald,Neuron-specific calcium-binding protein hippocalcin;Neurocalcin-delta,Mus musculus,1327.3,946.1,1136.7
+P84084,Arf5,ADP-ribosylation factor 5,Mus musculus,2961.375,3309.4333333333334,3110.5428571428574
+P84089,Erh,Enhancer of rudimentary homolog,Mus musculus,5195.9800000000005,5295.16,5245.57
+P84091,Ap2m1,AP-2 complex subunit mu,Mus musculus,2833.32,1304.06,2068.69
+P84096,Rhog,Rho-related GTP-binding protein RhoG,Mus musculus,3134.46,3393.675,3249.6666666666665
+P84099,Rpl19,Large ribosomal subunit protein eL19,Mus musculus,807.25,1251.4,955.3000000000001
+P84104,Srsf3,Serine/arginine-rich splicing factor 3,Mus musculus,12059.28,8302.02,10180.65
+P97290,Serping1,Plasma protease C1 inhibitor,Mus musculus,70875.76239999999,10755.06,40815.411199999995
+P97298,Serpinf1,Pigment epithelium-derived factor,Mus musculus,22623.260599999998,8191.52,15407.3903
+P97315,Csrp1,Cysteine and glycine-rich protein 1,Mus musculus,1656.9666666666667,393.5,934.9857142857143
+P97347,Rptn,Repetin,Mus musculus,43860.5806,44921.140999999996,44390.860799999995
+P97350,Pkp1,Plakophilin-1,Mus musculus,7405.16,9672.58,8538.87
+P97351,Rps3a,Small ribosomal subunit protein eS1,Mus musculus,4463.5199999999995,3289.5,3876.51
+P97352,S100a13,Protein S100-A13,Mus musculus,2243.9,1380.5,1997.2142857142858
+P97361,Bpifa1,BPI fold-containing family A member 1,Mus musculus,2169668.85,2613584.1406,2391626.4953
+P97369,Ncf4,Neutrophil cytosol factor 4,Mus musculus,8823.96,15503.6796,12163.8198
+P97371,Psme1,Proteasome activator complex subunit 1,Mus musculus,23145.9996,18183.2198,20664.6097
+P97372,Psme2,Proteasome activator complex subunit 2,Mus musculus,3695.6600000000003,2319.7799999999997,3007.7200000000003
+P97384,Anxa11,Annexin A11,Mus musculus,11594.2602,13700.74,12647.500100000001
+P97429,Anxa4,Annexin A4,Mus musculus,2185.56,1267.84,1726.7
+P97430,Slpi,Antileukoproteinase,Mus musculus,46993.9592,50654.220199999996,48824.0897
+P97447,Fhl1,Four and a half LIM domains protein 1,Mus musculus,9996.4,NA,9996.4
+P97449,Anpep,Aminopeptidase N,Mus musculus,22761.3598,23944.74,23353.049899999998
+P97450,Atp5pf,"ATP synthase-coupling factor 6, mitochondrial",Mus musculus,1337.6,1422.7,1371.6399999999999
+P97457,Myl11,Myosin regulatory light chain 11,Mus musculus,3378.8,11661.6,6139.733333333334
+P97467,Pam,Peptidyl-glycine alpha-amidating monooxygenase,Mus musculus,180177.2984,257977.0218,219077.1601
+P97494,Gclc,Glutamate--cysteine ligase catalytic subunit,Mus musculus,8759.6995,683.8,6067.733
+P97797,Sirpa,Tyrosine-protein phosphatase non-receptor type substrate 1,Mus musculus,938.15,1702.35,1192.8833333333332
+P97802,Ang3,Angiogenin-3,Mus musculus,13071.1,10957.533333333335,11485.925000000001
+P97805,Fam3d,Protein FAM3D,Mus musculus,440439.2408,539687.5248,490063.3828
+P97821,Ctsc,Dipeptidyl peptidase 1,Mus musculus,56985.5002,57108.6992,57047.0997
+P97823,Lypla1,Acyl-protein thioesterase 1,Mus musculus,682.2,756.2,719.2
+P97861;Q9ERE2,Krt86;Krt81,"Keratin, type II cuticular Hb6;Keratin, type II cuticular Hb1",Mus musculus,39024.5392,23912.3604,31468.4498
+P98064,Masp1,Mannan-binding lectin serine protease 1,Mus musculus,6164.8,2383.4333333333334,3328.775
+P98086,C1qa,Complement C1q subcomponent subunit A,Mus musculus,4002.7,NA,4002.7
+P99024,Tubb5,Tubulin beta-5 chain,Mus musculus,10307.92,11786.54,11047.23
+P99026,Psmb4,Proteasome subunit beta type-4,Mus musculus,3481.425,8399.15,5940.2875
+P99027,Rplp2,Large ribosomal subunit protein P2,Mus musculus,54099.5204,33575.5798,43837.5501
+P99029,Prdx5,"Peroxiredoxin-5, mitochondrial",Mus musculus,208216.4,344266.5248,276241.4624
+Q00493,Cpe,Carboxypeptidase E,Mus musculus,129633.9202,192075.4406,160854.6804
+Q00519,Xdh,Xanthine dehydrogenase/oxidase,Mus musculus,3791.52,4836.78,4314.15
+Q00560,Il6st,Interleukin-6 receptor subunit beta,Mus musculus,1350.7,2487.84,1919.27
+Q00612,G6pdx,Glucose-6-phosphate 1-dehydrogenase X,Mus musculus,48078.6194,69219.3018,58648.9606
+Q00623,Apoa1,Apolipoprotein A-I,Mus musculus,5102229.5812,655448.1002,2878838.8407
+Q00724,Rbp4,Retinol-binding protein 4,Mus musculus,18965.1996,2927.72,10946.4598
+Q00731,Vegfa,"Vascular endothelial growth factor A, long form",Mus musculus,9278.1,9178.56,9228.33
+Q00896,Serpina1c,Alpha-1-antitrypsin 1-3,Mus musculus,2741531.225,324822.3188,1533176.7719
+Q00897,Serpina1d,Alpha-1-antitrypsin 1-4,Mus musculus,344626.225,91314.1002,217970.1626
+Q00898,Serpina1e,Alpha-1-antitrypsin 1-5,Mus musculus,112750.98100000001,6217.275,65402.66722222222
+Q00PI9,Hnrnpul2,Heterogeneous nuclear ribonucleoprotein U-like protein 2,Mus musculus,711.8599999999999,871.3399999999999,791.5999999999999
+Q01149,Col1a2,Collagen alpha-2(I) chain,Mus musculus,1520.5,228.8,1036.1125
+Q01279,Egfr,Epidermal growth factor receptor,Mus musculus,26000.8796,14414.779999999999,20207.8298
+Q01339,Apoh,Beta-2-glycoprotein 1,Mus musculus,26201.160399999997,3315.52,14758.3402
+Q01721,Gas1,Growth arrest-specific protein 1,Mus musculus,1070.975,403.82,700.3333333333334
+Q01730,Rsu1,Ras suppressor protein 1,Mus musculus,8083.4402,6574.72,7329.0801
+Q01768,Nme2,Nucleoside diphosphate kinase B,Mus musculus,14056.98,17085.7,15571.339999999998
+Q01853,Vcp,Transitional endoplasmic reticulum ATPase,Mus musculus,56239.92,33569.7402,44904.8301
+Q02013,Aqp1,Aquaporin-1,Mus musculus,4024.3,NA,4024.3
+Q02053,Uba1,Ubiquitin-like modifier-activating enzyme 1,Mus musculus,10221.78,7594.22,8908
+Q02105,C1qc,Complement C1q subcomponent subunit C,Mus musculus,12236.1,802.2,6519.15
+Q02248,Ctnnb1,Catenin beta-1,Mus musculus,520.4,412.875,458.95714285714286
+Q02257,Jup,Junction plakoglobin,Mus musculus,88801.84,68007.3202,78404.5801
+Q02357,Ank1,Ankyrin-1,Mus musculus,11740.867,NA,11740.867
+Q02566,Myh6,Myosin-6,Mus musculus,65.83333333333333,60.94,62.775
+Q02819,Nucb1,Nucleobindin-1,Mus musculus,1071056.7376,1040332.2876,1055694.5126
+Q03265,Atp5f1a,"ATP synthase subunit alpha, mitochondrial",Mus musculus,33024.08,38265.1598,35644.6199
+Q03311,Bche,Cholinesterase,Mus musculus,2237.66,2776.5,2507.08
+Q03401,Crisp1,Cysteine-rich secretory protein 1,Mus musculus,24917385,20550196.4,22733790.7
+Q03402,Crisp3,Cysteine-rich secretory protein 3,Mus musculus,401785.1376,463675.2186,432730.1781
+Q03404,Tff2,Trefoil factor 2,Mus musculus,19627.90025,41884.6994,31992.788666666667
+Q03734,Serpina3m,Serine protease inhibitor A3M,Mus musculus,1502551.3,254957.63460000002,878754.4673
+Q03958,Pfdn6,Prefoldin subunit 6,Mus musculus,3893.1400000000003,2162.44,3027.79
+Q04447,Ckb,Creatine kinase B-type,Mus musculus,63254.599,866.5,38299.3594
+Q04519,Smpd1,Sphingomyelin phosphodiesterase,Mus musculus,14042.3402,21756.8406,17899.5904
+Q05020,Apoc2,Apolipoprotein C-II,Mus musculus,37185.549,2450.3,25607.132666666665
+Q05117,Acp5,Tartrate-resistant acid phosphatase type 5,Mus musculus,133348.9014,195617.5014,164483.20140000002
+Q05144,Rac2,Ras-related C3 botulinum toxin substrate 2,Mus musculus,4572.84,7568.7802,6070.8101
+Q05186,Rcn1,Reticulocalbin-1,Mus musculus,63803.3596,35021.2398,49412.2997
+Q05816,Fabp5,Fatty acid-binding protein 5,Mus musculus,782748.8688,749171.1812,765960.025
+Q05BC3,Eml1,Echinoderm microtubule-associated protein-like 1,Mus musculus,1223.8,NA,1223.8
+Q06138,Cab39,Calcium-binding protein 39,Mus musculus,1505.04,1244.56,1374.8
+Q06185,Atp5me,"ATP synthase subunit e, mitochondrial",Mus musculus,5726.766666666666,3918.86,4596.825
+Q06318,Scgb1a1,Uteroglobin,Mus musculus,2229472.2164,3568491.4874,2898981.8519
+Q06335,Aplp2,Amyloid beta precursor like protein 2,Mus musculus,342.34000000000003,283.22499999999997,316.06666666666666
+Q06770,Serpina6,Corticosteroid-binding globulin,Mus musculus,36376.66766666667,8910.34,19210.212875
+Q06890,Clu,Clusterin,Mus musculus,229348.2422,124984.4992,177166.3707
+Q07076,Anxa7,Annexin A7,Mus musculus,3630.1,2119.6,2874.85
+Q07113,Igf2r,Cation-independent mannose-6-phosphate receptor,Mus musculus,2324.56,1959.3400000000001,2141.95
+Q07235,Serpine2,Glia-derived nexin,Mus musculus,59864.68,34446.4596,47155.5698
+Q07456,Ambp,Protein AMBP,Mus musculus,22185.0396,3997.22,13091.1298
+Q07797,Lgals3bp,Galectin-3-binding protein,Mus musculus,65252.720799999996,130911.45939999999,98082.0901
+Q07813,Bax,Apoptosis regulator BAX,Mus musculus,5939.4,3937.625,4938.5125
+Q07968,F13b,Coagulation factor XIII B chain,Mus musculus,3212.8,NA,3212.8
+Q08093,Cnn2,Calponin-2,Mus musculus,3437.5,3268.1,3352.7999999999997
+Q08189,Tgm3,Protein-glutamine gamma-glutamyltransferase E,Mus musculus,126250.0624,121271.2,123760.6312
+Q08331,Calb2,Calretinin,Mus musculus,78026.8985,3813.166666666667,33498.6594
+Q08642,Padi2,Protein-arginine deiminase type-2,Mus musculus,2430.25,1483.5,1956.875
+Q08652,Rbp2,Retinol-binding protein 2,Mus musculus,1871.48,1918.925,1892.5666666666666
+Q08761,Pros1,Vitamin K-dependent protein S,Mus musculus,654.0600000000001,459.4,581.0625
+Q08857,Cd36,Platelet glycoprotein 4,Mus musculus,1893.0333333333333,745.45,1434
+Q08879,Fbln1,Fibulin-1,Mus musculus,1322.5,NA,1322.5
+Q08890,Ids,Iduronate 2-sulfatase,Mus musculus,2486.94,5673.3,4080.12
+Q09014,Ncf1,Neutrophil cytosol factor 1,Mus musculus,3043.42,8763.42,5903.42
+Q09199,B4galnt2,"Beta-1,4 N-acetylgalactosaminyltransferase 2",Mus musculus,31509.1202,11965.1202,21737.1202
+Q09200,B4galnt1,"Beta-1,4 N-acetylgalactosaminyltransferase 1",Mus musculus,14536.1998,12404.32,13470.259900000001
+Q09324,Gcnt1,"Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase",Mus musculus,66174.1588,64069.0186,65121.5887
+Q09PK2,Asprv1,Retroviral-like aspartic protease 1,Mus musculus,2245.2749999999996,5649.38,4136.444444444444
+Q0VBK2,Krt80,"Keratin, type II cytoskeletal 80",Mus musculus,8292.52,12768.02,10530.27
+Q11011,Npepps,Puromycin-sensitive aminopeptidase,Mus musculus,3600.46,3662.18,3631.32
+Q11136,Pepd,Xaa-Pro dipeptidase,Mus musculus,3563.16,2713.1,3138.13
+Q19LI2,A1bg,Alpha-1B-glycoprotein,Mus musculus,NA,63733,63733
+Q1XH17,Trim72,Tripartite motif-containing protein 72,Mus musculus,1597.6,NA,1597.6
+Q2VIS4,Flg2,Filaggrin-2,Mus musculus,1513.1,1026.78,1269.94
+Q3B7Z2,Osbp,Oxysterol-binding protein 1,Mus musculus,1177.0333333333333,381.925,722.6857142857143
+Q3MI99,Ccbe1,Collagen and calcium-binding EGF domain-containing protein 1,Mus musculus,2639.52,1685.925,2215.7
+Q3TA59,Jmjd8,JmjC domain-containing protein 8,Mus musculus,51214.979,34167.1,42691.0395
+Q3TCH7,Cul4a,Cullin-4A,Mus musculus,278.4,NA,278.4
+Q3TCN2,Plbd2,Putative phospholipase B-like 2,Mus musculus,5556.46,5074.22,5315.34
+Q3THE2,Myl12b,Myosin regulatory light chain 12B,Mus musculus,50144.6204,58547.8396,54346.229999999996
+Q3THS6,Mat2a,S-adenosylmethionine synthase isoform type-2,Mus musculus,1340.8,NA,1340.8
+Q3TJM4,Cenpt,Centromere protein T,Mus musculus,14412.2796,4879.54,9645.9098
+Q3TMH2,Scrn3,Secernin-3,Mus musculus,2770.7,NA,2770.7
+Q3TMX7,Qsox2,Sulfhydryl oxidase 2,Mus musculus,5374.66,5530.86,5452.76
+Q3TRM8,Hk3,Hexokinase-3,Mus musculus,3722.5,7449.9,5586.2
+Q3TTY5,Krt2,"Keratin, type II cytoskeletal 2 epidermal",Mus musculus,243758.7782,339890.5406,291824.6594
+Q3TUA9,Pomk,Protein O-mannose kinase,Mus musculus,262.3333333333333,231.8,254.7
+Q3TW96,Uap1l1,UDP-N-acetylhexosamine pyrophosphorylase-like protein 1,Mus musculus,2471.94,4282.78,3377.3599999999997
+Q3TYQ9,Aox4,Aldehyde oxidase 4,Mus musculus,15490.6202,9555.08,12522.8501
+Q3U0B3,Dhrs11,Dehydrogenase/reductase SDR family member 11,Mus musculus,40893.7208,34113.433,38351.112875
+Q3U0P5,Entpd6,Ectonucleoside triphosphate diphosphohydrolase 6,Mus musculus,1543.02,2016.24,1779.63
+Q3U0V1,Khsrp,Far upstream element-binding protein 2,Mus musculus,1418.06,1188.36,1303.21
+Q3U1J4,Ddb1,DNA damage-binding protein 1,Mus musculus,412.125,286.83333333333337,358.42857142857144
+Q3U2V3,Nudt18,8-oxo-dGDP phosphatase NUDT18,Mus musculus,1660.8,2648.5,2154.65
+Q3U4G3,Xxylt1,Xyloside xylosyltransferase 1,Mus musculus,3517.38,1718.5,2617.94
+Q3U7R1,Esyt1,Extended synaptotagmin-1,Mus musculus,388.7,431.40000000000003,413.1
+Q3U9G9,Lbr,Delta(14)-sterol reductase LBR,Mus musculus,3424.98,6028.76,4726.87
+Q3UBX0,Tmem109,Voltage-gated monoatomic cation channel TMEM109,Mus musculus,10944.12,4655.82,7799.97
+Q3UDR8,Yipf3,Protein YIPF3,Mus musculus,36321.2602,30104.019800000002,33212.64
+Q3UGC7;Q66JS6,Eif3j1;Eif3j2,Eukaryotic translation initiation factor 3 subunit J-A;Eukaryotic translation initiation factor 3 subunit J-B,Mus musculus,1400.1,58.4,952.8666666666667
+Q3UGR5,Hdhd2,Haloacid dehalogenase-like hydrolase domain-containing protein 2,Mus musculus,5642.8,4785.2,5214
+Q3UHH8,Gxylt1,Glucoside xylosyltransferase 1,Mus musculus,1584.1399999999999,4174.68,2879.41
+Q3UHN9,Ndst1,Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1,Mus musculus,2345.9,3857.72,3101.81
+Q3UHU5,Mtcl1,Microtubule cross-linking factor 1,Mus musculus,1525.42,2050.9,1788.16
+Q3UI43,Babam1,BRISC and BRCA1-A complex member 1,Mus musculus,218.7,227.15,222.92499999999998
+Q3UJB0,Sf3b2,Splicing factor 3B subunit 2,Mus musculus,101.55,190.7,165.22857142857143
+Q3ULJ0,Gpd1l,Glycerol-3-phosphate dehydrogenase 1-like protein,Mus musculus,8271.7998,5884.32,7078.0599
+Q3UM45,Ppp1r7,Protein phosphatase 1 regulatory subunit 7,Mus musculus,2213.76,1071.425,1706.0555555555557
+Q3UMW8,Cln5,Bis(monoacylglycero)phosphate synthase CLN5,Mus musculus,20981.8198,30821.0806,25901.4502
+Q3UND0,Skap2,Src kinase-associated phosphoprotein 2,Mus musculus,1249.72,1123.54,1186.6299999999999
+Q3UP87,Elane,Neutrophil elastase,Mus musculus,16230.4802,50788.4204,33509.4503
+Q3UPL0,Sec31a,Protein transport protein Sec31A,Mus musculus,97.975,56.43333333333334,80.17142857142858
+Q3UQ28,Pxdn,Peroxidasin homolog,Mus musculus,32576.919,47272.1006,39924.5098
+Q3UQ41,Tmprss11a,Transmembrane protease serine 11A,Mus musculus,21335.239999999998,21546.5,21440.87
+Q3UU35,A2ml1,Alpha-2-macroglobulin-like protein 1,Mus musculus,14042321.4,15638651.4,14840486.4
+Q3UUY6,Prom2,Prominin-2,Mus musculus,9651.44,4952.58,7302.01
+Q3UV17,Krt76,"Keratin, type II cytoskeletal 2 oral",Mus musculus,505123.2906,274642.59400000004,389882.9423
+Q3UW53,Niban1,Protein Niban 1,Mus musculus,387.05,465.825,426.4375
+Q3UX43,Ankrd13c,Ankyrin repeat domain-containing protein 13C,Mus musculus,246.39999999999998,14,168.93333333333334
+Q3UZ09,C1rl,Complement C1r subcomponent-like protein,Mus musculus,22421.480199999998,23021.1802,22721.3302
+Q3UZZ4,Olfm4,Olfactomedin-4,Mus musculus,24685.52,29431.5398,27058.5299
+Q3UZZ6,Sult1d1,Sulfotransferase 1 family member D1,Mus musculus,1509.7,NA,1509.7
+Q3V080,Znf583,Zinc finger protein 583,Mus musculus,7451.8,38799.3794,23125.5897
+Q3V188,Endou,Uridylate-specific endoribonuclease,Mus musculus,10373.56,5744.1,8058.83
+Q3V1H3,Hephl1,Ferroxidase HEPHL1,Mus musculus,NA,1163.5,1163.5
+Q4KML4,Abracl,Costars family protein ABRACL,Mus musculus,44477.079,32093.1602,38285.1196
+Q4VAB4,Cnpy1,Protein canopy homolog 1,Mus musculus,3631.9,NA,3631.9
+Q571E4,Galns,N-acetylgalactosamine-6-sulfatase,Mus musculus,28559.84,35626.4398,32093.1399
+Q571I9,Aldh16a1,Aldehyde dehydrogenase family 16 member A1,Mus musculus,952.5666666666667,546.7,698.9
+Q58A65;Q9ESN9,Spag9;Mapk8ip3,C-Jun-amino-terminal kinase-interacting protein 4;C-Jun-amino-terminal kinase-interacting protein 3,Mus musculus,403,NA,403
+Q5BKQ4,Pnliprp1,Inactive pancreatic lipase-related protein 1,Mus musculus,53423.9602,76246.6584,64835.3093
+Q5DID3,Umodl1,Uromodulin-like 1,Mus musculus,471.1333333333333,54.733333333333334,262.93333333333334
+Q5FW60,Mup20,Major urinary protein 20,Mus musculus,109328.58099999999,18757.6998,64043.1404
+Q5FWK3,Arhgap1,Rho GTPase-activating protein 1,Mus musculus,2091.88,1452,1771.94
+Q5MJS3,Fam20c,Extracellular serine/threonine protein kinase FAM20C,Mus musculus,13833.299799999999,9543.68,11688.4899
+Q5NC32,Slc16a11,Monocarboxylate transporter 11,Mus musculus,896.3,NA,896.3
+Q5SQX6,Cyfip2,Cytoplasmic FMR1-interacting protein 2,Mus musculus,3458.08,1588.22,2523.15
+Q5SUR0,Pfas,Phosphoribosylformylglycinamidine synthase,Mus musculus,1718.7333333333333,543.0749999999999,1046.9285714285716
+Q5SW46,Lpo,Lactoperoxidase,Mus musculus,14318728.4,13254625.6,13786677
+Q5SX39,Myh4,Myosin-4,Mus musculus,3881.1400000000003,8841.15025,6085.589
+Q5SX40,Myh1,Myosin-1,Mus musculus,10888.7598,22864.52,16876.6399
+Q5SXG7,Vmo1,Vitelline membrane outer layer protein 1 homolog,Mus musculus,24793.1198,29910.80025,27067.644444444446
+Q5UW37,Cxcl17,C-X-C motif chemokine 17,Mus musculus,35539.57475,9560.18,21106.577666666664
+Q5XJV6,Lmtk3,Serine/threonine-protein kinase LMTK3,Mus musculus,1291.08,1284.36,1287.72
+Q5XJY5,Arcn1,Coatomer subunit delta,Mus musculus,148,232.05,190.025
+Q5XKE0,Mybpc2,"Myosin-binding protein C, fast-type",Mus musculus,415,1463.7,764.5666666666667
+Q5YD48,A1cf,APOBEC1 complementation factor,Mus musculus,3556.02,9001.8,6278.91
+Q60590,Orm1,Alpha-1-acid glycoprotein 1,Mus musculus,43056.661199999995,32230.580599999998,37643.620899999994
+Q60604,Scin,Scinderin,Mus musculus,4580.2,NA,4580.2
+Q60605,Myl6,Myosin light polypeptide 6,Mus musculus,81946.761,89590.8594,85768.8102
+Q60631,Grb2,Growth factor receptor-bound protein 2,Mus musculus,5820.3,6460.12,6140.21
+Q60648,Gm2a,Ganglioside GM2 activator,Mus musculus,63003.7602,92886.7804,77945.2703
+Q60668,Hnrnpd,Heterogeneous nuclear ribonucleoprotein D0,Mus musculus,20352.5402,27668.0598,24010.3
+Q60692,Psmb6,Proteasome subunit beta type-6,Mus musculus,2843.7599999999998,1695.4,2269.58
+Q60710,Samhd1,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1,Mus musculus,5738.64,6319.7,6029.17
+Q60737,Csnk2a1,Casein kinase II subunit alpha,Mus musculus,2199.58,2894.84,2547.21
+Q60854,Serpinb6,Serpin B6,Mus musculus,28506.0802,7637.28,18071.6801
+Q60864,Stip1,Stress-induced-phosphoprotein 1,Mus musculus,1631.48,987.4200000000001,1309.45
+Q60900,Elavl3,ELAV-like protein 3,Mus musculus,1861.1,NA,1861.1
+Q60928,Ggt1,Glutathione hydrolase 1 proenzyme,Mus musculus,544.25,977.2249999999999,832.9
+Q60930,Vdac2,Voltage-dependent anion-selective channel protein 2,Mus musculus,4017.88,3892.55,3962.177777777778
+Q60931,Vdac3,Voltage-dependent anion-selective channel protein 3,Mus musculus,173.6,194.66666666666666,189.4
+Q60932,Vdac1,Non-selective voltage-gated ion channel VDAC1,Mus musculus,1455.74,1645.325,1540
+Q60963,Pla2g7,Platelet-activating factor acetylhydrolase,Mus musculus,255449.2248,299349.7278,277399.4763
+Q60967,Papss1,Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1,Mus musculus,95.5,NA,95.5
+Q60972;Q60973,Rbbp4;Rbbp7,Histone-binding protein RBBP4;Histone-binding protein RBBP7,Mus musculus,3529.8199999999997,3529.55,3529.7
+Q60994,Adipoq,Adiponectin,Mus musculus,8825.5,228.7,1948.06
+Q60997,Dmbt1,Deleted in malignant brain tumors 1 protein,Mus musculus,104005.439,85672.58,94839.0095
+Q61001,Lama5,Laminin subunit alpha-5,Mus musculus,138.075,227.22,187.6
+Q61024,Asns,Asparagine synthetase [glutamine-hydrolyzing],Mus musculus,4958.84,8021.76,6490.3
+Q61029;Q61033,Tmpo,"Lamina-associated polypeptide 2, isoforms beta/delta/epsilon/gamma;Lamina-associated polypeptide 2, isoforms alpha/zeta",Mus musculus,4857.08,5693.22,5275.15
+Q61035,Hars1,"Histidine--tRNA ligase, cytoplasmic",Mus musculus,1955.28,1350.3799999999999,1652.83
+Q61081,Cdc37,Hsp90 co-chaperone Cdc37,Mus musculus,2181.375,836.75,1509.0625
+Q61090;Q9JIP6,Fzd7;Fzd2,Frizzled-7;Frizzled-2,Mus musculus,853.975,4430.875,2642.425
+Q61093,Cybb,Cytochrome b-245 heavy chain,Mus musculus,8450.8,8370.1,8410.45
+Q61096,Prtn3,Myeloblastin,Mus musculus,14538.26,35652.7,25095.48
+Q61112,Sdf4,45 kDa calcium-binding protein,Mus musculus,27578.32,29794.8398,28686.5799
+Q61114,Bpifb1,BPI fold-containing family B member 1,Mus musculus,15777995.95,18478005.8,17128000.875
+Q61129,Cfi,Complement factor I,Mus musculus,7942.074750000001,693.7,4317.887375
+Q61147,Cp,Ceruloplasmin,Mus musculus,133419.76320000002,34711.0596,84065.41140000001
+Q61166,Mapre1,Microtubule-associated protein RP/EB family member 1,Mus musculus,1046.1200000000001,1120.54,1083.33
+Q61171,Prdx2,Peroxiredoxin-2,Mus musculus,417234.9,80380.9398,248807.9199
+Q61176,Arg1,Arginase-1,Mus musculus,128869.042,97103.05960000001,112986.0508
+Q61187,Tsg101,Tumor susceptibility gene 101 protein,Mus musculus,1237.76,1209.5,1223.63
+Q61206,Pafah1b2,Platelet-activating factor acetylhydrolase IB subunit alpha2,Mus musculus,13721.880000000001,6247.26,9984.57
+Q61207,Psap,Prosaposin,Mus musculus,719556.725,823800.2498,771678.4874
+Q61210,Arhgef1,Rho guanine nucleotide exchange factor 1,Mus musculus,1846.86,2094.68,1970.77
+Q61233,Lcp1,Plastin-2,Mus musculus,96646.1202,132292.3422,114469.2312
+Q61239,Fnta,Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha,Mus musculus,830.5,NA,830.5
+Q61245,Col11a1,Collagen alpha-1(XI) chain,Mus musculus,77.80000000000001,1170.14,858.0428571428572
+Q61247,Serpinf2,Alpha-2-antiplasmin,Mus musculus,59545.36119999999,9714.24,34629.8006
+Q61268,Apoc4,Apolipoprotein C-IV,Mus musculus,38976.301,NA,38976.301
+Q61292,Lamb2,Laminin subunit beta-2,Mus musculus,803.6,653.96,728.78
+Q61316,Hspa4,Heat shock 70 kDa protein 4,Mus musculus,1426.5200000000002,446.6,936.56
+Q61362,Chi3l1,Chitinase-3-like protein 1,Mus musculus,73854.9808,128094.2186,100974.59969999999
+Q61391,Mme,Neprilysin,Mus musculus,14703.4602,9387.26,12045.3601
+Q61398,Pcolce,Procollagen C-endopeptidase enhancer 1,Mus musculus,20452.7802,19752.980199999998,20102.8802
+Q61400,Ceacam10,Carcinoembryonic antigen-related cell adhesion molecule 10,Mus musculus,2156.96,4023.36,3090.1600000000003
+Q61414,Krt15,"Keratin, type I cytoskeletal 15",Mus musculus,64251.299,73007.6582,68629.4786
+Q61425,Hadh,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Mus musculus,20709.7802,19674.1204,20191.9503
+Q61462,Cyba,Cytochrome b-245 light chain,Mus musculus,11811.5,19810.5598,15811.029900000001
+Q61468,Msln,Mesothelin,Mus musculus,8124.72,10842.26,9483.49
+Q61495,Dsg1a,Desmoglein-1-alpha,Mus musculus,43591.58,37271.6204,40431.6002
+Q61496,Ddx4,ATP-dependent RNA helicase DDX4,Mus musculus,5224.9400000000005,2246.5,3735.7200000000003
+Q61503,Nt5e,5'-nucleotidase,Mus musculus,2509.7999999999997,3787.7599999999998,3148.7799999999997
+Q61508,Ecm1,Extracellular matrix protein 1,Mus musculus,18203.0802,19032.24,18617.6601
+Q61543,Glg1,Golgi apparatus protein 1,Mus musculus,29506.7008,33157.5204,31332.1106
+Q61545,Ewsr1,RNA-binding protein EWS,Mus musculus,2568.48,1832.66,2200.57
+Q61553,Fscn1,Fascin,Mus musculus,1172.65,376.6,907.3000000000001
+Q61581,Igfbp7,Insulin-like growth factor-binding protein 7,Mus musculus,1553.75,517.15,862.6833333333333
+Q61592,Gas6,Growth arrest-specific protein 6,Mus musculus,7320.92,9632.9,8476.91
+Q61598,Gdi2,Rab GDP dissociation inhibitor beta,Mus musculus,36777.4194,28247.3,32512.3597
+Q61599,Arhgdib,Rho GDP-dissociation inhibitor 2,Mus musculus,41620.16,86921.1204,64270.6402
+Q61646,Hp,Haptoglobin,Mus musculus,270942.1532,248691.4406,259816.79690000002
+Q61656,Ddx5,Probable ATP-dependent RNA helicase DDX5,Mus musculus,1653.975,781,1168.9888888888888
+Q61702,Itih1,Inter-alpha-trypsin inhibitor heavy chain H1,Mus musculus,25546.900599999997,2507.7200000000003,14027.3103
+Q61703,Itih2,Inter-alpha-trypsin inhibitor heavy chain H2,Mus musculus,38109.201199999996,5948.76,22028.9806
+Q61704,Itih3,Inter-alpha-trypsin inhibitor heavy chain H3,Mus musculus,12080.599333333334,1455.9333333333334,6768.266333333333
+Q61730,Il1rap,Interleukin-1 receptor accessory protein,Mus musculus,16382.7596,4711.32,10547.0398
+Q61753,Phgdh,D-3-phosphoglycerate dehydrogenase,Mus musculus,8519.460000000001,10098.74,9309.1
+Q61754,Klk1b24,Kallikrein 1-related peptidase b24,Mus musculus,224594.2188,41024.039600000004,132809.1292
+Q61759,Klk1b21,Kallikrein 1-related peptidase b21,Mus musculus,10571.4402,2198.9,9176.016833333333
+Q61765,Krt31,"Keratin, type I cuticular Ha1",Mus musculus,70339.681,38041.0402,54190.3606
+Q61768,Kif5b,Kinesin-1 heavy chain,Mus musculus,705.45,553.65,629.5500000000001
+Q61781,Krt14,"Keratin, type I cytoskeletal 14",Mus musculus,639445.6688,610678.5,625062.0844
+Q61792,Lasp1,LIM and SH3 domain protein 1,Mus musculus,6779.16,17015.239999999998,11897.2
+Q61805,Lbp,Lipopolysaccharide-binding protein,Mus musculus,31283.1404,39381.2,35332.1702
+Q61823,Pdcd4,Programmed cell death protein 4,Mus musculus,1107.0333333333333,409.9,932.75
+Q61835,Fxyd3,FXYD domain-containing ion transport regulator 3,Mus musculus,3560.72,11295.9198,7428.3199
+Q61838,Pzp,Pregnancy zone protein,Mus musculus,553326.9804,49406.581,301366.7807
+Q61865,Mia,Melanoma-derived growth regulatory protein,Mus musculus,5521.94,6126.76,5824.35
+Q61897,Krt33b,"Keratin, type I cuticular Ha3-II",Mus musculus,15112.60025,12002.1,14075.766833333333
+Q61900,Smr3a,Submaxillary gland androgen-regulated protein 3A,Mus musculus,638621305.6,641399321.6,640010313.6
+Q61937,Npm1,Nucleophosmin,Mus musculus,1407.65,539.8,829.0833333333333
+Q61990,Pcbp2,Poly(rC)-binding protein 2,Mus musculus,710.6,NA,710.6
+Q62009,Postn,Periostin,Mus musculus,2395.6000000000004,NA,2395.6000000000004
+Q62048,Pea15,Astrocytic phosphoprotein PEA-15,Mus musculus,5022.15,NA,5022.15
+Q62087,Pon3,Serum paraoxonase/lactonase 3,Mus musculus,16369.4998,11806.22,14087.8599
+Q62093,Srsf2,Serine/arginine-rich splicing factor 2,Mus musculus,9886.58,7532.5599999999995,8709.57
+Q62159;Q9QUI0,Rhoc;Rhoa,Rho-related GTP-binding protein RhoC;Transforming protein RhoA,Mus musculus,46644.301,46885.0204,46764.6607
+Q62165,Dag1,Dystroglycan 1,Mus musculus,28727.4,25716.9,27222.15
+Q62179,Sema4b,Semaphorin-4B,Mus musculus,4722.1,5195.88,4958.99
+Q62181,Sema3c,Semaphorin-3C,Mus musculus,54868.099,66333.0804,60600.5897
+Q62186,Ssr4,Translocon-associated protein subunit delta,Mus musculus,7076.4400000000005,7738.549999999999,7265.614285714286
+Q62188,Dpysl3,Dihydropyrimidinase-related protein 3,Mus musculus,16803.2005,1188.025,8995.61275
+Q62189,Snrpa,U1 small nuclear ribonucleoprotein A,Mus musculus,760.8,709.08,734.9399999999999
+Q62193,Rpa2,Replication protein A 32 kDa subunit,Mus musculus,423,NA,423
+Q62234,Myom1,Myomesin-1,Mus musculus,57.2,133.3,95.25
+Q62261,Sptbn1,"Spectrin beta chain, non-erythrocytic 1",Mus musculus,882.2,964.28,923.24
+Q62266,Sprr1a,Cornifin-A,Mus musculus,975.1499999999999,627.4666666666667,766.54
+Q62348,Tsn,Translin,Mus musculus,5816.0798,1382.2,3599.1399
+Q62351,Tfrc,Transferrin receptor protein 1,Mus musculus,1127.4,160,482.4666666666667
+Q62381,Tll1,Tolloid-like protein 1,Mus musculus,1009,4899.92,3788.2285714285713
+Q62393,Tpd52,Tumor protein D52,Mus musculus,9818.9802,11291.56,10555.2701
+Q62422,Ostf1,Osteoclast-stimulating factor 1,Mus musculus,11167.36,21470.3398,16318.849900000001
+Q62426,Cstb,Cystatin-B,Mus musculus,10101.2802,6908.1,8504.6901
+Q62446,Fkbp3,Peptidyl-prolyl cis-trans isomerase FKBP3,Mus musculus,1468,NA,1468
+Q62465,Vat1,Synaptic vesicle membrane protein VAT-1 homolog,Mus musculus,36201.1206,36255.401,36228.2608
+Q62468,Vil1,Villin-1,Mus musculus,6337,NA,6337
+Q62471,Lcn3,Vomeronasal secretory protein 1,Mus musculus,6320621.55,2469029.975,4394825.7625
+Q62472,Lcn4,Vomeronasal secretory protein 2,Mus musculus,956743.225,442783.1562,699763.1906
+Q62523,Zyx,Zyxin,Mus musculus,4066.98,7030.42,5548.7
+Q63844,Mapk3,Mitogen-activated protein kinase 3,Mus musculus,5720.18,7658.38,6689.28
+Q63870,Col7a1,Collagen alpha-1(VII) chain,Mus musculus,31438.46,40538.6592,35988.5596
+Q63880;Q8VCU1,Ces3a;Ces3b,Carboxylesterase 3A;Carboxylesterase 3B,Mus musculus,146.2,NA,146.2
+Q63918,Cavin2,Caveolae-associated protein 2,Mus musculus,1558.2,NA,1558.2
+Q63932,Map2k2,Dual specificity mitogen-activated protein kinase kinase 2,Mus musculus,591.5,213.75,402.625
+Q64010,Crk,Adapter molecule crk,Mus musculus,1791.65,NA,1791.65
+Q64012,Raly,RNA-binding protein Raly,Mus musculus,435.4,388,423.54999999999995
+Q640M1,Utp14a,U3 small nucleolar RNA-associated protein 14 homolog A,Mus musculus,644.02,1665.24,1154.6299999999999
+Q64105,Spr,Sepiapterin reductase,Mus musculus,12741.650249999999,7366.05,10053.850124999999
+Q64191,Aga,N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase,Mus musculus,17260,21752.32,19506.16
+Q64288,Omp,Olfactory marker protein,Mus musculus,79806.9,13913.7798,46860.3399
+Q64322,Npdc1,Neural proliferation differentiation and control protein 1,Mus musculus,14104.5802,30710.1398,22407.36
+Q64324,Stxbp2,Syntaxin-binding protein 2,Mus musculus,1798.1,1973.5,1885.8000000000002
+Q64331,Myo6,Unconventional myosin-VI,Mus musculus,4881.9,1461.25,2601.4666666666667
+Q64339,Isg15,Ubiquitin-like protein ISG15,Mus musculus,9707.9,1923.6,5815.75
+Q64362,Aktip,AKT-interacting protein,Mus musculus,528,273.9,400.95
+Q64433,Hspe1,"10 kDa heat shock protein, mitochondrial",Mus musculus,9779.840199999999,9758.98,9769.4101
+Q64435,Ugt1a6,UDP-glucuronosyltransferase 1-6,Mus musculus,968.025,590.475,779.25
+Q64436,Atp4a,Potassium-transporting ATPase alpha chain 1,Mus musculus,381.92,696.54,539.23
+Q64437,Adh7,All-trans-retinol dehydrogenase [NAD(+)] ADH7,Mus musculus,25413.3396,20585.2802,22999.3099
+Q64449,Mrc2,C-type mannose receptor 2,Mus musculus,1690,NA,1690
+Q64467,Gapdhs,"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",Mus musculus,1870.125,1695.3,1835.16
+Q64471,Gstt1,Glutathione S-transferase theta-1,Mus musculus,3990.3,NA,3990.3
+Q64514,Tpp2,Tripeptidyl-peptidase 2,Mus musculus,1841.5,951.34,1396.42
+Q64518,Atp2a3,Sarcoplasmic/endoplasmic reticulum calcium ATPase 3,Mus musculus,NA,5946.4,5946.4
+Q64520,Guk1,Guanylate kinase,Mus musculus,6193.4,NA,6193.4
+Q64523;Q6GSS7,H2ac20;Hist2h2aa1,Histone H2A type 2-C;Histone H2A type 2-A,Mus musculus,7883.6,8217.9202,8050.7600999999995
+Q64669,Nqo1,NAD(P)H dehydrogenase [quinone] 1,Mus musculus,7105.533333333334,891.6,5552.05
+Q64674,Srm,Spermidine synthase,Mus musculus,4419.54,7027.9000000000005,5723.72
+Q64726,Azgp1,Zinc-alpha-2-glycoprotein,Mus musculus,134503.5412,62485.56,98494.5506
+Q64727,Vcl,Vinculin,Mus musculus,21722.0006,15521.92,18621.9603
+Q68FD5,Cltc,Clathrin heavy chain 1,Mus musculus,6927.44,7172.12,7049.78
+Q68FH4,Galk2,N-acetylgalactosamine kinase,Mus musculus,919.7,128.85,392.4666666666667
+Q69Z37,Samd9l,Sterile alpha motif domain-containing protein 9-like,Mus musculus,NA,124.6,124.6
+Q6AZB0,Boc,Brother of CDO,Mus musculus,628.45,434.74,520.8333333333334
+Q6DYE8,Enpp3,Ectonucleotide pyrophosphatase/phosphodiesterase family member 3,Mus musculus,4511.36,4168.12,4339.74
+Q6F3F9,Adgrg6,Adhesion G-protein coupled receptor G6,Mus musculus,874.94,894.14,884.54
+Q6GQT9,Nomo1,BOS complex subunit NOMO1,Mus musculus,359.2,625.7,492.45
+Q6GU68,Islr,Immunoglobulin superfamily containing leucine-rich repeat protein,Mus musculus,1837.4,NA,1837.4
+Q6IFX2,Krt42,"Keratin, type I cytoskeletal 42",Mus musculus,45143.08119999999,29999.0196,37571.0504
+Q6IFX4,Krt39,"Keratin, type I cytoskeletal 39",Mus musculus,147.65,850.1500000000001,498.9
+Q6IFZ6,Krt77,"Keratin, type II cytoskeletal 1b",Mus musculus,452214.1158,201412.3436,326813.22969999997
+Q6IFZ9,Krt74,"Keratin, type II cytoskeletal 74",Mus musculus,1875.6799999999998,941.25,1460.3777777777777
+Q6IMF0,Krt87,"Keratin, type II cuticular 87",Mus musculus,115494.06120000001,86724.201,104705.363625
+Q6IRU2,Tpm4,Tropomyosin alpha-4 chain,Mus musculus,3845.64,2720.94,3283.29
+Q6IRU5,Cltb,Clathrin light chain B,Mus musculus,2291.1,NA,2291.1
+Q6JHY2,Muc19,Submandibular gland protein C,Mus musculus,330388.62179999996,10625980.8,5478184.7109
+Q6L8S8,B4galnt3,"Beta-1,4-N-acetylgalactosaminyltransferase 3",Mus musculus,47724.6394,49573.7788,48649.2091
+Q6NXH9,Krt73,"Keratin, type II cytoskeletal 73",Mus musculus,77602.19840000001,57485.52,67543.8592
+Q6NZB0,Dnajc8,DnaJ homolog subfamily C member 8,Mus musculus,NA,93.33333333333333,93.33333333333333
+Q6NZJ6,Eif4g1,Eukaryotic translation initiation factor 4 gamma 1,Mus musculus,293.88,165.43333333333334,245.7125
+Q6P069,Sri,Sorcin,Mus musculus,17262.16,20654.459600000002,18958.3098
+Q6P1B1,Xpnpep1,Xaa-Pro aminopeptidase 1,Mus musculus,2508,1550.8,2316.5600000000004
+Q6P1F6;Q8BG02,Ppp2r2a;Ppp2r2c,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform;Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B gamma isoform,Mus musculus,79,NA,79
+Q6P253,Dmkn,Dermokine,Mus musculus,7348.68,9987.4802,8668.0801
+Q6P2L7,Golm2,Protein GOLM2,Mus musculus,961.22,1160.8,1061.01
+Q6P3D0,Nudt16,U8 snoRNA-decapping enzyme,Mus musculus,1159.9,NA,1159.9
+Q6P5E4,Uggt1,UDP-glucose:glycoprotein glucosyltransferase 1,Mus musculus,22304.0402,22193.2398,22248.64
+Q6P5E6;Q8BMI3;Q8R0H9,Gga2;Gga3;Gga1,ADP-ribosylation factor-binding protein GGA2;ADP-ribosylation factor-binding protein GGA3;ADP-ribosylation factor-binding protein GGA1,Mus musculus,564,422.32,462.8
+Q6P5F9,Xpo1,Exportin-1,Mus musculus,51997.6002,33648.1004,42822.8503
+Q6P8J7,Ckmt2,"Creatine kinase S-type, mitochondrial",Mus musculus,1065.9,NA,1065.9
+Q6P8K8,Cpa4,Carboxypeptidase A4,Mus musculus,10125.8598,9742.8,9934.3299
+Q6P8U6,Pnlip,Pancreatic triacylglycerol lipase,Mus musculus,3009.7,NA,3009.7
+Q6P9R2,Oxsr1,Serine/threonine-protein kinase OSR1,Mus musculus,4325.18,3783.7400000000002,4054.46
+Q6P9S7,Galnt10,Polypeptide N-acetylgalactosaminyltransferase 10,Mus musculus,16025.5002,19668.4196,17846.9599
+Q6PB44,Ptpn23,Tyrosine-protein phosphatase non-receptor type 23,Mus musculus,72.7,NA,72.7
+Q6PD03,Ppp2r5a,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit alpha isoform,Mus musculus,353,767.475,589.8428571428572
+Q6PDI5,Ecpas,Proteasome adapter and scaffold protein ECM29,Mus musculus,174,139.8,154.45714285714286
+Q6PDM2,Srsf1,Serine/arginine-rich splicing factor 1,Mus musculus,1295.9,1064.65,1141.7333333333333
+Q6PDN3,Mylk,"Myosin light chain kinase, smooth muscle",Mus musculus,1602,2232.7999999999997,1917.3999999999999
+Q6PGH2,Jpt2,Jupiter microtubule associated homolog 2,Mus musculus,698.9,NA,698.9
+Q6PHU5,Sort1,Sortilin,Mus musculus,1383.18,1816.8,1599.99
+Q6PZE0,Muc19,Mucin-19,Mus musculus,1768443.2376,2310642.975,2039543.1063
+Q6Q899,Rigi,Antiviral innate immune response receptor RIG-I,Mus musculus,96.4,279.5,248.98333333333335
+Q6RHW0,Krt9,"Keratin, type I cytoskeletal 9",Mus musculus,1432.4333333333334,1711.02,1606.55
+Q6S5C2,Gnptg,N-acetylglucosamine-1-phosphotransferase subunit gamma,Mus musculus,149103.50160000002,115140.0406,132121.7711
+Q6TEK5,Vkorc1l1,Vitamin K epoxide reductase complex subunit 1-like protein 1,Mus musculus,2224.266666666667,2332,2267.36
+Q6UGQ3,Scgb2b2,Secretoglobin family 2B member 2,Mus musculus,2155070.0374,4225434.15,3190252.0937
+Q6URW6,Myh14,Myosin-14,Mus musculus,1022.15,471.38,716.1666666666666
+Q6V4S5,Sdk2,Protein sidekick-2,Mus musculus,NA,291.6333333333333,291.6333333333333
+Q6WVG3,Kctd12,BTB/POZ domain-containing protein KCTD12,Mus musculus,10667.12,9956.1,10311.61
+Q6XQH0,Gal3st2,Galactose-3-O-sulfotransferase 2,Mus musculus,35324.0392,10333.7202,22828.8797
+Q6ZPJ3,Ube2o,(E3-independent) E2 ubiquitin-conjugating enzyme UBE2O,Mus musculus,3731.1,NA,3731.1
+Q6ZQ38,Cand1,Cullin-associated NEDD8-dissociated protein 1,Mus musculus,3074.3599999999997,1967.3,2520.83
+Q6ZQA0,Nbeal2,Neurobeachin-like protein 2,Mus musculus,35.06666666666667,85.8,66.775
+Q6ZQI3,Mlec,Malectin,Mus musculus,2301.48,2069.9666666666667,2214.6625
+Q6ZWM4,Lsm8,U6 snRNA-associated Sm-like protein LSm8,Mus musculus,3463.5,274.76666666666665,1550.2599999999998
+Q6ZWN5,Rps9,Small ribosomal subunit protein uS4,Mus musculus,20196.5396,19412.8798,19804.7097
+Q6ZWQ7,Spcs3,Signal peptidase complex subunit 3,Mus musculus,8365.275,10234.2002,9403.566777777778
+Q6ZWR6,Syne1,Nesprin-1,Mus musculus,156.35999999999999,90.78,123.57000000000001
+Q6ZWU9;Q6ZWY3,Rps27;Rps27l,Small ribosomal subunit protein eS27;Small ribosomal subunit protein eS27-like,Mus musculus,9480.55,5939.450000000001,7710
+Q6ZWV3,Rpl10,Large ribosomal subunit protein uL16,Mus musculus,3003.875,5118.6,3426.82
+Q6ZWV7,Rpl35,Large ribosomal subunit protein uL29,Mus musculus,5775.1,2055.62,2675.5333333333333
+Q6ZWX6,Eif2s1,Eukaryotic translation initiation factor 2 subunit 1,Mus musculus,4029.96,3892.02,3960.9900000000002
+Q717B4,Tdpoz3,TD and POZ domain-containing protein 3,Mus musculus,1653.0249999999999,1645.34,1648.7555555555555
+Q76MZ3,Ppp2r1a,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform,Mus musculus,3575.18,2059.7200000000003,2817.45
+Q78PY7,Snd1,Staphylococcal nuclease domain-containing protein 1,Mus musculus,1393.32,1001.0600000000001,1197.19
+Q78ZA7,Nap1l4,Nucleosome assembly protein 1-like 4,Mus musculus,2542.4,905.7,1996.8333333333335
+Q7M742,Scgb1c1,Secretoglobin family 1C member 1,Mus musculus,38639.699,87024.0406,62831.8698
+Q7M747,Scgb2b24,Secretoglobin family 2B member 24,Mus musculus,82233.761,94663.17760000001,88448.4693
+Q7TMD7,Dsg4,Desmoglein-4,Mus musculus,NA,725.1,725.1
+Q7TMJ8,Pik3ip1,Phosphoinositide-3-kinase-interacting protein 1,Mus musculus,604.45,555.25,588.05
+Q7TMK9,Syncrip,Heterogeneous nuclear ribonucleoprotein Q,Mus musculus,4546.32,1844.76,3195.54
+Q7TMR0,Prcp,Lysosomal Pro-X carboxypeptidase,Mus musculus,4613.76,4518.78,4566.27
+Q7TN29,Smap2,Stromal membrane-associated protein 2,Mus musculus,299.7,705.66,638
+Q7TNG5,Eml2,Echinoderm microtubule-associated protein-like 2,Mus musculus,4407.5,3725.76,4066.63
+Q7TNK8,Adm2,Protein ADM2,Mus musculus,8909.54,6638.38,7773.96
+Q7TPC1,Cdsn,Corneodesmosin,Mus musculus,38236.5188,26182.5804,32209.549600000002
+Q7TPR4,Actn1,Alpha-actinin-1,Mus musculus,49818.038,68368.6194,59093.3287
+Q7TQ48,Srl,Sarcalumenin,Mus musculus,429.25,849.7,569.4
+Q7TQ62,Podn,Podocan,Mus musculus,2467.4,NA,2467.4
+Q7TQI3,Otub1,Ubiquitin thioesterase OTUB1,Mus musculus,10025.24,6908.0599999999995,8466.65
+Q7TSF1,Dsg1b,Desmoglein-1-beta,Mus musculus,1152.4,1638.46,1422.4333333333334
+Q7TSV4,Pgm2,Phosphopentomutase,Mus musculus,2607.76,1375.58,1991.67
+Q7TT41,Moxd2,DBH-like monooxygenase protein 2,Mus musculus,146.5,2334.8,1240.65
+Q7TT45;Q99K70,Rragd;Rragc,Ras-related GTP-binding protein D;Ras-related GTP-binding protein C,Mus musculus,650.5,NA,650.5
+Q80U22,Rusc2,AP-4 complex accessory subunit RUSC2,Mus musculus,1316.06,1462.18,1389.12
+Q80UM7,Mogs,Mannosyl-oligosaccharide glucosidase,Mus musculus,63243.741,78326.5416,70785.1413
+Q80V26,Bpnt2,"Golgi-resident adenosine 3',5'-bisphosphate 3'-phosphatase",Mus musculus,2923,3177.22,3050.11
+Q80V42,Cpm,Carboxypeptidase M,Mus musculus,2781.6,1963.94,2372.77
+Q80V53,Chst14,Carbohydrate sulfotransferase 14,Mus musculus,2649.98,3444.2599999999998,3047.12
+Q80VA0,Galnt7,N-acetylgalactosaminyltransferase 7,Mus musculus,6320.68,10792.7,8556.69
+Q80VQ0,Aldh3b1,Aldehyde dehydrogenase family 3 member B1,Mus musculus,1422.54,1315.6,1375.0111111111112
+Q80W54,Zmpste24,CAAX prenyl protease 1 homolog,Mus musculus,1458,1475.84,1466.92
+Q80WM4,Hapln4,Hyaluronan and proteoglycan link protein 4,Mus musculus,53390.379,43412.3602,48401.3696
+Q80WM7,Prss33,Serine protease 33,Mus musculus,1277.4333333333332,2467.45,1957.442857142857
+Q80X72,Lrrc15,Leucine-rich repeat-containing protein 15,Mus musculus,538.86,1592.1000000000001,933.825
+Q80XI7,Bpifb9a,Vomeromodulin,Mus musculus,25534633.8,13647352.2,19590993
+Q80XN0,Bdh1,"D-beta-hydroxybutyrate dehydrogenase, mitochondrial",Mus musculus,229.55,130.1,196.4
+Q80YC5,F12,Coagulation factor XII,Mus musculus,16500.44,901.72,8701.08
+Q80Z19,Muc2,Mucin-2,Mus musculus,264.2,976.3499999999999,620.275
+Q80ZU7,Bpifb3,BPI fold-containing family B member 3,Mus musculus,34514.0208,474757.9362,254635.9785
+Q812G0,Mgat4a,"Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A",Mus musculus,66308.199,57712.5604,62010.3797
+Q8BFR2,Fstl5,Follistatin-related protein 5,Mus musculus,100.2,638.9,459.3333333333333
+Q8BFR4,Gns,N-acetylglucosamine-6-sulfatase,Mus musculus,15235.16,19462.380400000002,17348.7702
+Q8BFR5,Tufm,"Elongation factor Tu, mitochondrial",Mus musculus,1095.075,1648.2,1371.6374999999998
+Q8BFW7,Lpp,Lipoma-preferred partner homolog,Mus musculus,330.3,NA,330.3
+Q8BFY9,Tnpo1,Transportin-1,Mus musculus,1044.1750000000002,745.5,894.8375000000001
+Q8BFZ3,Actbl2,Beta-actin-like protein 2,Mus musculus,12462.3002,17741.14,15101.7201
+Q8BFZ6,Idi2,Isopentenyl-diphosphate delta-isomerase 2,Mus musculus,6715.85,2311.775,4513.8125
+Q8BG05,Hnrnpa3,Heterogeneous nuclear ribonucleoprotein A3,Mus musculus,2535.26,2271.2,2403.23
+Q8BG32,Psmd11,26S proteasome non-ATPase regulatory subunit 11,Mus musculus,3692.68,3298.06,3495.37
+Q8BG48,Stk17b,Serine/threonine-protein kinase 17B,Mus musculus,251859.85940000002,136634.03819999998,194246.9488
+Q8BGB7,Enoph1,Enolase-phosphatase E1,Mus musculus,1320.3,98.7,913.1
+Q8BGQ7,Aars1,"Alanine--tRNA ligase, cytoplasmic",Mus musculus,785.8499999999999,489.54999999999995,637.6999999999999
+Q8BGT9,Galnt12,Polypeptide N-acetylgalactosaminyltransferase 12,Mus musculus,857.875,339.05,598.4625
+Q8BGZ7,Krt75,"Keratin, type II cytoskeletal 75",Mus musculus,13067.0002,19872.9198,16469.96
+Q8BH02,Tor4a,Torsin-4A,Mus musculus,2979,3629.46,3304.23
+Q8BH24,Tm9sf4,Transmembrane 9 superfamily member 4,Mus musculus,756.6,796.675,774.4111111111112
+Q8BH35,C8b,Complement component C8 beta chain,Mus musculus,34330.2804,34878.950749999996,34574.133888888886
+Q8BH43,Wasf2,Actin-binding protein WASF2,Mus musculus,814.7,930.875,881.0857142857143
+Q8BH58,Tiprl,TIP41-like protein,Mus musculus,4172.1,NA,4172.1
+Q8BH61,F13a1,Coagulation factor XIII A chain,Mus musculus,2440.5,252,1815.2142857142858
+Q8BH64,Ehd2,EH domain-containing protein 2,Mus musculus,2197.3,NA,2197.3
+Q8BH73,Qpctl,Glutaminyl-peptide cyclotransferase-like protein,Mus musculus,6169.94,4062.94,5116.44
+Q8BHB9,Clic6,Chloride intracellular channel protein 6,Mus musculus,253.9,0.2,127.05000000000001
+Q8BHG1,Nrdc,Nardilysin,Mus musculus,1752.96,1234.42,1493.69
+Q8BHG2,Czib,CXXC motif containing zinc binding protein,Mus musculus,1562.8,495.075,708.62
+Q8BHG3;Q8VEK0,Tmem30b;Tmem30a,Cell cycle control protein 50B;Cell cycle control protein 50A,Mus musculus,588.225,352.3,509.5833333333333
+Q8BHN0,Ppm1l,Protein phosphatase 1L,Mus musculus,113878.15939999999,63074.9204,88476.5399
+Q8BHN3,Ganab,Neutral alpha-glucosidase AB,Mus musculus,168554.0782,195666.3812,182110.2297
+Q8BI84,Mia3,Transport and Golgi organization protein 1 homolog,Mus musculus,2166.82,2265.44,2216.13
+Q8BIS8,Ccdc126,Coiled-coil domain-containing protein 126,Mus musculus,3136.7999999999997,1525.3999999999999,2532.525
+Q8BJD1,Itih5,Inter-alpha-trypsin inhibitor heavy chain H5,Mus musculus,266.15,221.15,236.15
+Q8BJR6,Prss27,Serine protease 27,Mus musculus,7808.4800000000005,9316.24,8562.36
+Q8BJS4,Sun2,SUN domain-containing protein 2,Mus musculus,1369.1,1878.4,1560.0874999999999
+Q8BJU0,Sgta,Small glutamine-rich tetratricopeptide repeat-containing protein alpha,Mus musculus,1728.3000000000002,1135.725,1389.6857142857143
+Q8BJY1,Psmd5,26S proteasome non-ATPase regulatory subunit 5,Mus musculus,5390.25,553.55,2165.7833333333338
+Q8BK48,Ces2e,Pyrethroid hydrolase Ces2e,Mus musculus,12070.86,6794.7,9432.78
+Q8BK62,Olfml3,Olfactomedin-like protein 3,Mus musculus,16545.16,5364.24,10954.7
+Q8BK64,Ahsa1,Activator of 90 kDa heat shock protein ATPase homolog 1,Mus musculus,10755.7505,2257.866666666667,5657.0202
+Q8BKG3,Ptk7,Inactive tyrosine-protein kinase 7,Mus musculus,2746.86,6278.54,4512.7
+Q8BKN5,Tubgcp5,Gamma-tubulin complex component 5,Mus musculus,3418.1200000000003,2753.6,3085.86
+Q8BKN6;Q9QZS6,Hs3st3a1;Hs3st3b1,Heparan sulfate glucosamine 3-O-sulfotransferase 3A1;Heparan sulfate glucosamine 3-O-sulfotransferase 3B1,Mus musculus,18347.9604,14656.699999999999,16502.3302
+Q8BKX1,Baiap2,BAR/IMD domain-containing adapter protein 2,Mus musculus,396.3666666666667,261.8,342.54
+Q8BLI0,Adamtsl1,ADAMTS-like protein 1,Mus musculus,6181.76,9512.34,7847.05
+Q8BM72,Hspa13,Heat shock 70 kDa protein 13,Mus musculus,149442.3392,182923.35940000002,166182.8493
+Q8BM88,Ctso,Cathepsin O,Mus musculus,5434.7,5546.66,5490.68
+Q8BMJ2,Lars1,"Leucine--tRNA ligase, cytoplasmic",Mus musculus,380.4,155.3,219.61428571428573
+Q8BMK4,Ckap4,Cytoskeleton-associated protein 4,Mus musculus,190.1,952.6,342.6
+Q8BML9,Qars1,Glutamine--tRNA ligase,Mus musculus,605.6,186.2,395.9
+Q8BMS1,Hadha,"Trifunctional enzyme subunit alpha, mitochondrial",Mus musculus,622.95,1060.3799999999999,865.9666666666666
+Q8BND5,Qsox1,Sulfhydryl oxidase 1,Mus musculus,866605.625,2022931.65,1444768.6375
+Q8BNJ6,Neto2,Neuropilin and tolloid-like protein 2,Mus musculus,2426.98,1095.3799999999999,1761.1799999999998
+Q8BP47,Nars1,"Asparagine--tRNA ligase, cytoplasmic",Mus musculus,1063.3,600.5,831.9
+Q8BT42,Smim5,Small integral membrane protein 5,Mus musculus,2559.9666666666667,5226.8,3893.383333333333
+Q8BT60,Cpne3,Copine-3,Mus musculus,7771.66,10845.1,9308.38
+Q8BTG6,Spring1,SREBP regulating gene protein,Mus musculus,3129.08,3079.6,3104.34
+Q8BTM8,Flna,Filamin-A,Mus musculus,19645.7398,26221.4804,22933.6101
+Q8BTY1,Kyat1,Kynurenine--oxoglutarate transaminase 1,Mus musculus,14712.7002,10311.6598,12512.18
+Q8BTZ7,Gmppb,Mannose-1-phosphate guanyltransferase beta,Mus musculus,3767.5999999999995,3360.46,3541.411111111111
+Q8BU51,Bpifb6,BPI fold-containing family B member 6,Mus musculus,25531.96,50162.0202,37846.9901
+Q8BUK6,Hook3,Protein Hook homolog 3,Mus musculus,688.3,543.9000000000001,616.1
+Q8BUR4,Dock1,Dedicator of cytokinesis protein 1,Mus musculus,32.1,NA,32.1
+Q8BVE3,Atp6v1h,V-type proton ATPase subunit H,Mus musculus,2470.94,2098.2,2284.57
+Q8BVI4,Qdpr,Dihydropteridine reductase,Mus musculus,10806.25,1460.725,4575.9
+Q8BVQ5,Ppme1,Protein phosphatase methylesterase 1,Mus musculus,528.7750000000001,608.16,572.8777777777779
+Q8BVY0,Rsl1d1,Ribosomal L1 domain-containing protein 1,Mus musculus,184.225,330.45,232.96666666666667
+Q8BWG8,Arrb1,Beta-arrestin-1,Mus musculus,248.75,106.425,153.86666666666667
+Q8BWP8,B4gat1,"Beta-1,4-glucuronyltransferase 1",Mus musculus,12658.78,5028.64,8843.71
+Q8BWT1,Acaa2,"3-ketoacyl-CoA thiolase, mitochondrial",Mus musculus,824.05,466.86,625.6111111111111
+Q8BWY3,Etf1,Eukaryotic peptide chain release factor subunit 1,Mus musculus,2694.46,1251.1,2052.9666666666667
+Q8BWZ3,Naa25,"N-alpha-acetyltransferase 25, NatB auxiliary subunit",Mus musculus,522.2,126.375,205.54000000000002
+Q8BX37,Acp7,Acid phosphatase type 7,Mus musculus,660.8,2088.125,1476.4142857142858
+Q8BXA1,Golim4,Golgi integral membrane protein 4,Mus musculus,5246.22,2987.2,4116.71
+Q8BXZ1,Tmx3,Protein disulfide-isomerase TMX3,Mus musculus,238.52,396,308.5111111111111
+Q8BYC6,Taok3,Serine/threonine-protein kinase TAO3,Mus musculus,605.8,403.78000000000003,479.5375
+Q8BYH7,Tbc1d17,TBC1 domain family member 17,Mus musculus,1017.4,NA,1017.4
+Q8BYK4,Rdh12,Retinol dehydrogenase 12,Mus musculus,NA,428.9,428.9
+Q8BYU6,Tor1aip2,Torsin-1A-interacting protein 2,Mus musculus,3236.12,4985.96,4111.04
+Q8BZE1,Cdcp3,Putative DMBT1-like protein,Mus musculus,1435.55,2857,2146.275
+Q8BZQ2,Crispld2,Cysteine-rich secretory protein LCCL domain-containing 2,Mus musculus,1602.94,1584.92,1593.93
+Q8C0C7,Farsa,Phenylalanine--tRNA ligase alpha subunit,Mus musculus,934,682.3666666666667,745.275
+Q8C0E2,Vps26b,Vacuolar protein sorting-associated protein 26B,Mus musculus,519.4,554.6,537
+Q8C0L0,Tmx4,Thioredoxin-related transmembrane protein 4,Mus musculus,900.0333333333333,1111.06,1031.925
+Q8C0R9,Lrrd1,Leucine-rich repeat and death domain-containing protein 1,Mus musculus,2307.6000000000004,NA,2307.6000000000004
+Q8C102,Galnt5,Polypeptide N-acetylgalactosaminyltransferase 5,Mus musculus,136.925,384.3,274.35555555555555
+Q8C166,Cpne1,Copine-1,Mus musculus,NA,131.96666666666667,131.96666666666667
+Q8C1A5,Thop1,Thimet oligopeptidase,Mus musculus,19622.6402,11014.62,15318.6301
+Q8C1E1,Bpifb2,BPI fold-containing family B member 2,Mus musculus,1545030.6376,1577491.575,1561261.1063
+Q8C255,Dpep2,Dipeptidase 2,Mus musculus,428.5,NA,428.5
+Q8C3X2,Ccdc90b,"Coiled-coil domain-containing protein 90B, mitochondrial",Mus musculus,6639.825,10812.2602,8957.844555555555
+Q8C522,Endod1,Endonuclease domain-containing 1 protein,Mus musculus,1809.425,1044.8400000000001,1384.6555555555556
+Q8C5W3,Tbcel,Tubulin-specific chaperone cofactor E-like protein,Mus musculus,1471.1000000000001,NA,1471.1000000000001
+Q8C6C9,Leg1,Protein LEG1 homolog,Mus musculus,40232287.2,32645110.4,36438698.8
+Q8C6G8,Wdr26,WD repeat-containing protein 26,Mus musculus,181.85,111.8,158.5
+Q8C7E7,Stbd1,Starch-binding domain-containing protein 1,Mus musculus,3623.1,NA,3623.1
+Q8C7G5,Apoa5,Apolipoprotein A-V,Mus musculus,399.7,NA,399.7
+Q8C7U7,Galnt6,Polypeptide N-acetylgalactosaminyltransferase 6,Mus musculus,31495.5998,31744.9994,31620.299600000002
+Q8CAA7,Pgm2l1,"Glucose 1,6-bisphosphate synthase",Mus musculus,1136.1,NA,1136.1
+Q8CAY6,Acat2,"Acetyl-CoA acetyltransferase, cytosolic",Mus musculus,228.2,NA,228.2
+Q8CB27,Yod1,Ubiquitin thioesterase OTU1,Mus musculus,226.7,NA,226.7
+Q8CB87,Rab44,Ras-related protein Rab-44,Mus musculus,142.5,187.5,161.78571428571428
+Q8CBW3,Abi1,Abl interactor 1,Mus musculus,1226.28,1809.34,1517.81
+Q8CC86,Naprt,Nicotinate phosphoribosyltransferase,Mus musculus,697.5999999999999,187.4,493.52
+Q8CCH2,Nhlrc3,NHL repeat-containing protein 3,Mus musculus,468.12,289.375,388.6777777777778
+Q8CCJ3,Ufl1,E3 UFM1-protein ligase 1,Mus musculus,499.2,NA,499.2
+Q8CDN6,Txnl1,Thioredoxin-like protein 1,Mus musculus,2599.7,1599.725,2099.7125
+Q8CE08,Acp3,Prostatic acid phosphatase,Mus musculus,4856.02,7895.719999999999,6375.87
+Q8CE72,Cplane1,Ciliogenesis and planar polarity effector 1,Mus musculus,220.5,NA,220.5
+Q8CF02,Fam25a,Protein FAM25A,Mus musculus,23455.18,45116.0996,34285.6398
+Q8CF66,Lamtor4,Ragulator complex protein LAMTOR4,Mus musculus,2150.8,1451.75,1951.0714285714287
+Q8CFX1,H6pd,GDH/6PGL endoplasmic bifunctional protein,Mus musculus,3682.82,2691.8,3187.31
+Q8CG14,C1s1,Complement C1s-1 subcomponent,Mus musculus,3296.0800000000004,346.8,2804.5333333333338
+Q8CG16,C1ra,Complement C1r-A subcomponent,Mus musculus,3691.62,1895.58,2793.6
+Q8CG19,Ltbp1,Latent-transforming growth factor beta-binding protein 1,Mus musculus,17091.6198,14266.3198,15678.969799999999
+Q8CG72,Adprs,ADP-ribosylhydrolase ARH3,Mus musculus,5854.7,569.1666666666666,2683.38
+Q8CG76,Akr7a2,Aflatoxin B1 aldehyde reductase member 2,Mus musculus,2793.5,146.7,1470.1
+Q8CGC7,Eprs1,Bifunctional glutamate/proline--tRNA ligase,Mus musculus,4180.76,4273.72,4227.24
+Q8CGR5,Klk14,Kallikrein-14,Mus musculus,228971.3436,166674.2782,197822.8109
+Q8CHK3,Mboat7,Lysophospholipid acyltransferase 7,Mus musculus,305.96666666666664,771.9,422.45
+Q8CHP8,Pgp,Glycerol-3-phosphate phosphatase,Mus musculus,3523.68,1945.6,3072.7999999999997
+Q8CI51,Pdlim5,PDZ and LIM domain protein 5,Mus musculus,1323.8,102.5,509.6
+Q8CI70,Lrrc20,Leucine-rich repeat-containing protein 20,Mus musculus,2236.225,2416.65,2326.4375
+Q8CI94,Pygb,"Glycogen phosphorylase, brain form",Mus musculus,4540.025,1834.1599999999999,3036.766666666667
+Q8CID3,Fam20a,Pseudokinase FAM20A,Mus musculus,984.7,690.6333333333333,874.425
+Q8CIE0,Serpina11,Serpin A11,Mus musculus,219.7,NA,219.7
+Q8CIE6,Copa,Coatomer subunit alpha,Mus musculus,2506.58,9338.6204,5922.6002
+Q8CIF4,Btd,Biotinidase,Mus musculus,4233.92,3519.12,3876.52
+Q8CIG9,Fbxl8,F-box/LRR-repeat protein 8,Mus musculus,152.9,NA,152.9
+Q8CIH5,Plcg2,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",Mus musculus,211.22,711.5,461.36
+Q8CIN4,Pak2,Serine/threonine-protein kinase PAK 2,Mus musculus,941.4200000000001,667.025,819.4666666666667
+Q8CIT9,Sbsn,Suprabasin,Mus musculus,4534.92,4499.62,4517.27
+Q8CIV3,Liph,Lipase member H,Mus musculus,2297.9,6332.46,4315.18
+Q8CIZ8,Vwf,von Willebrand factor,Mus musculus,338.7,NA,338.7
+Q8CJG0,Ago2,Protein argonaute-2,Mus musculus,462.4,NA,462.4
+Q8JZM8,Muc4,Mucin-4,Mus musculus,144.4,154.07500000000002,148.7
+Q8JZQ9,Eif3b,Eukaryotic translation initiation factor 3 subunit B,Mus musculus,1150.225,778,964.1125
+Q8K010,Oplah,5-oxoprolinase,Mus musculus,731.8,NA,731.8
+Q8K0C5,Zg16,Zymogen granule membrane protein 16,Mus musculus,45415.4002,2886.44,24150.9201
+Q8K0C9,Gmds,"GDP-mannose 4,6 dehydratase",Mus musculus,3952.52,2457.2999999999997,3204.91
+Q8K0E8,Fgb,Fibrinogen beta chain,Mus musculus,194555.3954,68809.70000000001,131682.5477
+Q8K0T0,Rtn1,Reticulon-1,Mus musculus,137.5,NA,137.5
+Q8K0Y2,Krt33a,"Keratin, type I cuticular Ha3-I",Mus musculus,26041,16203.8,22106.12
+Q8K135,Kiaa0319l,Dyslexia-associated protein KIAA0319-like protein,Mus musculus,3751.18,7070.7,5410.9400000000005
+Q8K157,Galm,Galactose mutarotase,Mus musculus,9841.36,6174.2,8007.780000000001
+Q8K182,C8a,Complement component C8 alpha chain,Mus musculus,18800.9505,750.9000000000001,12784.267
+Q8K183,Pdxk,Pyridoxal kinase,Mus musculus,5356.22,1913.725,3826.222222222222
+Q8K1A6,Cc2d1a,Coiled-coil and C2 domain-containing protein 1A,Mus musculus,1462.54,1055.6,1394.7166666666667
+Q8K1B8,Fermt3,Fermitin family homolog 3,Mus musculus,4368.24,5353.74,4860.99
+Q8K1H9,Obp2a,Odorant-binding protein 2a,Mus musculus,46320407,30598011.2,38459209.1
+Q8K1I3,Spp2,Secreted phosphoprotein 24,Mus musculus,2905.5,NA,2905.5
+Q8K1M6,Dnm1l,Dynamin-1-like protein,Mus musculus,543.1,149.9,412.03333333333336
+Q8K209,Adgrg1,Adhesion G-protein coupled receptor G1,Mus musculus,1060.38,1312.08,1186.23
+Q8K274,Fn3krp,Ketosamine-3-kinase,Mus musculus,4556.1,NA,4556.1
+Q8K2B0,P3h4,Endoplasmic reticulum protein SC65,Mus musculus,18621.6598,18650.12,18635.889900000002
+Q8K2C7,Os9,Protein OS-9,Mus musculus,10939.619999999999,11252.64,11096.13
+Q8K2I3,Fmo2,Dimethylaniline monooxygenase [N-oxide-forming] 2,Mus musculus,32156.475,10985.66,20394.911111111112
+Q8K2I4,Manba,Beta-mannosidase,Mus musculus,3971.18,4570.24,4270.71
+Q8K2T1,Nmral1,NmrA-like family domain-containing protein 1,Mus musculus,915.2333333333333,523,758.34
+Q8K353,Cystm1,Cysteine-rich and transmembrane domain-containing protein 1,Mus musculus,3071.975,4708.8,3773.4714285714285
+Q8K354,Cbr3,Carbonyl reductase [NADPH] 3,Mus musculus,3573.3,1562.55,2424.3
+Q8K3H0,Appl1,DCC-interacting protein 13-alpha,Mus musculus,1127.1999999999998,170.5,648.8499999999999
+Q8K3J9,Gprc5c,G-protein coupled receptor family C group 5 member C,Mus musculus,1908.46,1799.5600000000002,1854.01
+Q8K3P0,Sdr9c7,Short-chain dehydrogenase/reductase family 9C member 7,Mus musculus,562.5,533.475,547.9875
+Q8K485,Kctd11,BTB/POZ domain-containing protein KCTD11,Mus musculus,652.9,1386.9666666666667,1203.45
+Q8K4G1,Ltbp4,Latent-transforming growth factor beta-binding protein 4,Mus musculus,209.70000000000002,452.3,344.47777777777776
+Q8K4L4,Pof1b,Protein POF1B,Mus musculus,26135.64,28941.1802,27538.4101
+Q8K4Z3,Naxe,NAD(P)H-hydrate epimerase,Mus musculus,4894.425,3425.68,4078.4555555555553
+Q8K558,Treml1,Trem-like transcript 1 protein,Mus musculus,7864.45,NA,7864.45
+Q8K5B2,Mcfd2,Multiple coagulation factor deficiency protein 2 homolog,Mus musculus,51658.4608,65154.5584,58406.5096
+Q8QZR4,Oaf,Out at first protein homolog,Mus musculus,889.6,NA,889.6
+Q8QZR5,Gpt,Alanine aminotransferase 1,Mus musculus,1399.6,477.85,872.8857142857142
+Q8QZT1,Acat1,"Acetyl-CoA acetyltransferase, mitochondrial",Mus musculus,845,265.55,555.275
+Q8QZY1,Eif3l,Eukaryotic translation initiation factor 3 subunit L,Mus musculus,589.75,332,479.2857142857143
+Q8QZY6,Tspan14,Tetraspanin-14,Mus musculus,2011.6,1517.8666666666668,1826.45
+Q8QZZ7,Tprkb,EKC/KEOPS complex subunit Tprkb,Mus musculus,789,NA,789
+Q8R016,Blmh,Bleomycin hydrolase,Mus musculus,45023.9802,32655.8,38839.8901
+Q8R050,Gspt1,Eukaryotic peptide chain release factor GTP-binding subunit ERF3A,Mus musculus,838.6,390.6,614.6
+Q8R059,Gale,UDP-glucose 4-epimerase,Mus musculus,1279.75,1259.4,1266.1833333333334
+Q8R081,Hnrnpl,Heterogeneous nuclear ribonucleoprotein L,Mus musculus,1180.8,815.7,998.25
+Q8R086,Suox,"Sulfite oxidase, mitochondrial",Mus musculus,570.65,303.525,437.0875
+Q8R0F3,Sumf1,Formylglycine-generating enzyme,Mus musculus,2004.48,1833.5,1928.4888888888888
+Q8R0P4,Aamdc,Mth938 domain-containing protein,Mus musculus,5439.46,2234.94,3837.2
+Q8R0W0,Eppk1,Epiplakin,Mus musculus,3321.88,2285.06,2803.47
+Q8R0Y6,Aldh1l1,Cytosolic 10-formyltetrahydrofolate dehydrogenase,Mus musculus,757,75.4,529.8
+Q8R121,Serpina10,Protein Z-dependent protease inhibitor,Mus musculus,11473.9804,1809.54,6641.7602
+Q8R146,Apeh,Acylamino-acid-releasing enzyme,Mus musculus,4233.4,634.1666666666666,2690.8714285714286
+Q8R180,Ero1a,ERO1-like protein alpha,Mus musculus,1111.06,2543.14,1827.1
+Q8R1F1,Niban2,Protein Niban 2,Mus musculus,1143.625,930.9,1052.4571428571428
+Q8R1F5,Hyi,Putative hydroxypyruvate isomerase,Mus musculus,1476.5,NA,1476.5
+Q8R1G2,Cmbl,Carboxymethylenebutenolidase homolog,Mus musculus,2189.35,578.025,1383.6875
+Q8R1G6,Pdlim2,PDZ and LIM domain protein 2,Mus musculus,567.1,338.40000000000003,384.14
+Q8R1I1,Uqcr10,Cytochrome b-c1 complex subunit 9,Mus musculus,5070.8,4717.4,4913.733333333334
+Q8R1J9,Tor2a,Torsin-2A,Mus musculus,49550.5608,40871.4806,45211.0207
+Q8R1L8,Angptl8,Angiopoietin-like protein 8,Mus musculus,189259.2612,78574.0402,133916.6507
+Q8R1Q0,Stx19,Syntaxin-19,Mus musculus,2368.95,NA,2368.95
+Q8R1U2,Cgref1,Cell growth regulator with EF hand domain protein 1,Mus musculus,4343.82,9346.02,6844.92
+Q8R242,Ctbs,Di-N-acetylchitobiase,Mus musculus,2180.02,2457.22,2318.62
+Q8R2E9,Ero1b,ERO1-like protein beta,Mus musculus,4852.92,3540.84,4196.88
+Q8R2K1,Fuom,Fucose mutarotase,Mus musculus,26541.9,NA,26541.9
+Q8R2Q0,Trim29,Tripartite motif-containing protein 29,Mus musculus,4760.9800000000005,6441.92,5601.45
+Q8R2S8,Cd177,CD177 antigen,Mus musculus,16039.1,24446.8198,20242.9599
+Q8R2Y2,Mcam,Cell surface glycoprotein MUC18,Mus musculus,214.4,NA,214.4
+Q8R2Z0,C1qtnf12,Adipolin,Mus musculus,2671.18,2943.56,2807.37
+Q8R317,Ubqln1,Ubiquilin-1,Mus musculus,1015.5,NA,1015.5
+Q8R366,Igsf8,Immunoglobulin superfamily member 8,Mus musculus,506.5333333333333,959.78,789.8125
+Q8R3B1,Plcd1,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1",Mus musculus,930.9,1197.04,1063.97
+Q8R3V5,Sh3glb2,Endophilin-B2,Mus musculus,2232.3,NA,2232.3
+Q8R429,Atp2a1,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,Mus musculus,1744.8666666666666,5198.1,3471.4833333333336
+Q8R460,Il36g,Interleukin-36 gamma,Mus musculus,6588.233333333334,5610.25,6197.04
+Q8R4G6,Mgat5,"Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase A",Mus musculus,876.66,786.36,831.51
+Q8R4I4,Gtf2a1l,TFIIA-alpha and beta-like factor,Mus musculus,1870.8,NA,1870.8
+Q8R5A3,Apbb1ip,Amyloid beta A4 precursor protein-binding family B member 1-interacting protein,Mus musculus,410.03333333333336,645.36,557.1125000000001
+Q8VBT6,Apobr,Apolipoprotein B receptor,Mus musculus,507.325,1110.8,842.5888888888888
+Q8VBX6,Mpdz,Multiple PDZ domain protein,Mus musculus,8805.460000000001,10106.4,9455.93
+Q8VC28,Akr1c13,Aldo-keto reductase family 1 member C13,Mus musculus,1996.46,5562.9800000000005,3779.7200000000003
+Q8VC88,Gca,Grancalcin,Mus musculus,2804.06,4777.0599999999995,3790.56
+Q8VCA8,Scrn2,Secernin-2,Mus musculus,1279.85,297.6,788.725
+Q8VCD3,Lman1l,Protein ERGIC-53-like,Mus musculus,4865.84,9109.18,6987.51
+Q8VCF1,Cant1,Soluble calcium-activated nucleotidase 1,Mus musculus,19407.7998,12568.24,15988.0199
+Q8VCG4,C8g,Complement component C8 gamma chain,Mus musculus,57075.641,4710.200000000001,30892.9205
+Q8VCI0,Plbd1,Phospholipase B-like 1,Mus musculus,7954.36,12093.08,10023.72
+Q8VCM7,Fgg,Fibrinogen gamma chain,Mus musculus,268884.0376,101088.518,184986.27779999998
+Q8VCR7,Abhd14b,Putative protein-lysine deacylase ABHD14B,Mus musculus,6409.860000000001,6455.5599999999995,6432.71
+Q8VCR9,Ocel1,Occludin/ELL domain-containing protein 1,Mus musculus,458.6,NA,458.6
+Q8VCS0,Pglyrp2,N-acetylmuramoyl-L-alanine amidase,Mus musculus,7141.549999999999,163.1,4815.4000000000005
+Q8VCS3,Fam20b,Glycosaminoglycan xylosylkinase,Mus musculus,1259.96,634.5666666666667,1025.4375
+Q8VCT3,Rnpep,Aminopeptidase B,Mus musculus,2706.16,3114.66,2910.41
+Q8VCT4,Ces1d,Carboxylesterase 1D,Mus musculus,3786.9,2241.8199999999997,3014.36
+Q8VCY6,Utp6,U3 small nucleolar RNA-associated protein 6 homolog,Mus musculus,815.4,562.34,688.87
+Q8VDD5,Myh9,Myosin-9,Mus musculus,28073.12,34424.3802,31248.7501
+Q8VDJ3,Hdlbp,Vigilin,Mus musculus,489.14000000000004,285.3,387.21999999999997
+Q8VDK1,Nit1,Deaminated glutathione amidase,Mus musculus,434,456.76666666666665,443.75714285714287
+Q8VDL4,Adpgk,ADP-dependent glucokinase,Mus musculus,11107.18,16681.1202,13894.1501
+Q8VDM4,Psmd2,26S proteasome non-ATPase regulatory subunit 2,Mus musculus,1463.6599999999999,911.4,1187.53
+Q8VDM6,Hnrnpul1,Heterogeneous nuclear ribonucleoprotein U-like protein 1,Mus musculus,19324.98,16747.48,18036.23
+Q8VDN2,Atp1a1,Sodium/potassium-transporting ATPase subunit alpha-1,Mus musculus,3197.3,1736.28,2466.79
+Q8VDP6,Cdipt,CDP-diacylglycerol--inositol 3-phosphatidyltransferase,Mus musculus,1791.9666666666667,1720.2,1774.025
+Q8VDQ1,Ptgr2,Prostaglandin reductase 2,Mus musculus,2056.0333333333333,1129.4333333333334,1592.7333333333333
+Q8VDQ8,Sirt2,NAD-dependent protein deacetylase sirtuin-2,Mus musculus,341.7,NA,341.7
+Q8VE43,Metrnl,Meteorin-like protein,Mus musculus,811.125,1133.18,990.0444444444445
+Q8VEB4,Pla2g15,Lysosomal phospholipase A and acyltransferase,Mus musculus,6626.96,8693.3,7660.13
+Q8VED5,Krt79,"Keratin, type II cytoskeletal 79",Mus musculus,310706.4362,301680.7376,306193.5869
+Q8VEE1,Lmcd1,LIM and cysteine-rich domains protein 1,Mus musculus,1296.7,NA,1296.7
+Q8VEK3,Hnrnpu,Heterogeneous nuclear ribonucleoprotein U,Mus musculus,2562.52,4192.66,3377.59
+Q8VEM8,Slc25a3,Solute carrier family 25 member 3,Mus musculus,4960.82,3908.74,4434.78
+Q8VEN2,Plet1,Placenta-expressed transcript 1 protein,Mus musculus,330799.28119999997,148138.2174,239468.7493
+Q8VHC3,Selenom,Selenoprotein M,Mus musculus,11710.2,NA,11710.2
+Q8VHD8,Hrnr,Hornerin,Mus musculus,3917.38,2258.6800000000003,3088.03
+Q8VHI3,Pofut2,GDP-fucose protein O-fucosyltransferase 2,Mus musculus,10389.3,12944.64,11666.97
+Q8VHK8,Tmprss11d,Transmembrane protease serine 11D,Mus musculus,4571.68,7815.46,6193.57
+Q8VI36,Pxn,Paxillin,Mus musculus,324.4,489.2,415.9555555555555
+Q8VI75,Ipo4,Importin-4,Mus musculus,595.3,22.4,308.84999999999997
+Q8VIB3,St3gal6,"Type 2 lactosamine alpha-2,3-sialyltransferase",Mus musculus,57580.8998,36749.5398,47165.2198
+Q8VIJ6,Sfpq,"Splicing factor, proline- and glutamine-rich",Mus musculus,1712.02,3032.66,2372.34
+Q91V08,Clec2d,C-type lectin domain family 2 member D,Mus musculus,4635.42,4550.08,4592.75
+Q91V12,Acot7,Cytosolic acyl coenzyme A thioester hydrolase,Mus musculus,1892.78,2892.925,2337.288888888889
+Q91V41,Rab14,Ras-related protein Rab-14,Mus musculus,3530.1,2531.7599999999998,3030.93
+Q91V64,Isoc1,Isochorismatase domain-containing protein 1,Mus musculus,4774.7,2780.7,3777.7
+Q91V76,NA,Ester hydrolase C11orf54 homolog,Mus musculus,276.4,NA,276.4
+Q91V80,Apof,Apolipoprotein F,Mus musculus,45843.8994,53419.1396,49631.5195
+Q91V92,Acly,ATP-citrate synthase,Mus musculus,2964.52,4799.04,3881.7799999999997
+Q91V98,Cd248,Endosialin,Mus musculus,223.8,NA,223.8
+Q91VA1,Slc44a4,Choline transporter-like protein 4,Mus musculus,2778.24,5345.22,4061.73
+Q91VE3,Klk7,Kallikrein-7,Mus musculus,15321.9402,13138.800000000001,14230.3701
+Q91VH6,Memo1,Protein MEMO1,Mus musculus,592.6,259,481.40000000000003
+Q91VI7,Rnh1,Ribonuclease inhibitor,Mus musculus,11094.239599999999,6668.3,8881.2698
+Q91VK4,Itm2c,Integral membrane protein 2C,Mus musculus,6940.7,5898,6419.35
+Q91VM5,Rbmxl1,"RNA binding motif protein, X-linked-like-1",Mus musculus,1744.3,1155.62,1449.96
+Q91VM9,Ppa2,"Inorganic pyrophosphatase 2, mitochondrial",Mus musculus,2101,NA,2101
+Q91VR2,Atp5f1c,"ATP synthase subunit gamma, mitochondrial",Mus musculus,1103.6,993.85,1040.8857142857144
+Q91VS7,Mgst1,Microsomal glutathione S-transferase 1,Mus musculus,502.26666666666665,1558.8,924.88
+Q91VU0,Fam3c,Protein FAM3C,Mus musculus,3388.18,5951.08,4669.63
+Q91VW3,Sh3bgrl3,SH3 domain-binding glutamic acid-rich-like protein 3,Mus musculus,47354.0398,70379.0806,58866.5602
+Q91VZ6,Smap1,Stromal membrane-associated protein 1,Mus musculus,1140.1,NA,1140.1
+Q91W20,Lrrc26,Leucine-rich repeat-containing protein 26,Mus musculus,46776.9608,36554.7596,41665.8602
+Q91W89,Man2c1,Alpha-mannosidase 2C1,Mus musculus,274.7,116.85,229.6
+Q91W90,Txndc5,Thioredoxin domain-containing protein 5,Mus musculus,8068.280000000001,9512.52,8790.4
+Q91WG8,Gne,Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase,Mus musculus,2051.3,3737.96,2988.333333333333
+Q91WP0,Masp2,Mannan-binding lectin serine protease 2,Mus musculus,2945.1000000000004,763,2399.575
+Q91WP6,Serpina3n,Serine protease inhibitor A3N,Mus musculus,15956.4604,7557.26,11756.8602
+Q91WQ3,Yars1,"Tyrosine--tRNA ligase, cytoplasmic",Mus musculus,739.12,506.12,622.62
+Q91WR8,Gpx6,Glutathione peroxidase 6,Mus musculus,237485.9454,408040.9796,322763.4625
+Q91X52,Dcxr,L-xylulose reductase,Mus musculus,4215.9,1408.7,2531.58
+Q91X72,Hpx,Hemopexin,Mus musculus,1046103.7217999999,312349.2872,679226.5045
+Q91XA2,Golm1,Golgi membrane protein 1,Mus musculus,16179.96,21303.660200000002,18741.8101
+Q91XA9,Chia,Acidic mammalian chitinase,Mus musculus,317947760,244340672,281144216
+Q91XF0,Pnpo,Pyridoxine-5'-phosphate oxidase,Mus musculus,1862.3,NA,1862.3
+Q91XL3,Uxs1,UDP-glucuronic acid decarboxylase 1,Mus musculus,17952,16253.1602,17102.5801
+Q91XM9,Dlg2,Disks large homolog 2,Mus musculus,4801.925,2269.675,3535.8
+Q91XV3,Basp1,Brain acid soluble protein 1,Mus musculus,943.05,710.65,826.85
+Q91Y74,St3gal4,"CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 4",Mus musculus,5033,14541.38,9787.189999999999
+Q91YH5,Atl3,Atlastin-3,Mus musculus,593.1666666666666,413.25,521.2
+Q91YI0,Asl,Argininosuccinate lyase,Mus musculus,692.78,779.325,731.2444444444444
+Q91YI4,Arrb2,Beta-arrestin-2,Mus musculus,801.34,1798.22,1299.78
+Q91YN9,Bag2,BAG family molecular chaperone regulator 2,Mus musculus,837.25,288.725,471.5666666666667
+Q91YQ5,Rpn1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,Mus musculus,1044.975,1257.325,1151.15
+Q91YR1,Twf1,Twinfilin-1,Mus musculus,2920.84,2225.6666666666665,2660.15
+Q91YR9,Ptgr1,Prostaglandin reductase 1,Mus musculus,24294.5004,26811.3802,25552.9403
+Q91YT7,Ythdf2,YTH domain-containing family protein 2,Mus musculus,2018.28,2252.04,2135.16
+Q91YW3,Dnajc3,DnaJ homolog subfamily C member 3,Mus musculus,193991.1812,179750.8218,186871.0015
+Q91Z53,Grhpr,Glyoxylate reductase/hydroxypyruvate reductase,Mus musculus,4543.78,3578.9,4061.34
+Q91Z83,Myh7,Myosin-7,Mus musculus,3024.18,8771.6004,5897.8902
+Q91Z98,Chil4,Chitinase-like protein 4,Mus musculus,188872.0608,733222.9092,461047.485
+Q91ZI0,Celsr3,Cadherin EGF LAG seven-pass G-type receptor 3,Mus musculus,14.25,58.3,28.933333333333334
+Q91ZJ5,Ugp2,UTP--glucose-1-phosphate uridylyltransferase,Mus musculus,4854.84,4159.64,4507.24
+Q91ZJ9,Hyal1,Hyaluronidase-1,Mus musculus,23322.5804,26031.88,24677.230199999998
+Q91ZX7,Lrp1,Prolow-density lipoprotein receptor-related protein 1,Mus musculus,36.6,NA,36.6
+Q920A5,Scpep1,Retinoid-inducible serine carboxypeptidase,Mus musculus,354.53999999999996,540.2666666666667,424.1875
+Q920E5,Fdps,Farnesyl pyrophosphate synthase,Mus musculus,4130.86,4747.98,4439.42
+Q920H1,Scgb3a2,Secretoglobin family 3A member 2,Mus musculus,32101.234333333334,20675.2402,24959.987999999998
+Q921F2,Tardbp,TAR DNA-binding protein 43,Mus musculus,456,1075.5666666666666,765.7833333333333
+Q921I1,Tf,Serotransferrin,Mus musculus,3272772.35,939362.0876,2106067.2188
+Q921M7,Cyrib,CYFIP-related Rac1 interactor B,Mus musculus,19155.92,30510.1408,24833.0304
+Q921V5,Mgat2,"Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",Mus musculus,23964.8804,23626.9204,23795.9004
+Q922B2,Dars1,"Aspartate--tRNA ligase, cytoplasmic",Mus musculus,6222.24,6378.48,6300.36
+Q922D8,Mthfd1,"C-1-tetrahydrofolate synthase, cytoplasmic",Mus musculus,5030.839999999999,1759.66,3395.25
+Q922H4,Gmppa,Mannose-1-phosphate guanyltransferase alpha,Mus musculus,555.6,271.90000000000003,385.38
+Q922Q8,Lrrc59,Leucine-rich repeat-containing protein 59,Mus musculus,6810.92475,7043.76,6940.277666666667
+Q922Q9,Chid1,Chitinase domain-containing protein 1,Mus musculus,23014.5802,26837.8996,24926.2399
+Q922R8,Pdia6,Protein disulfide-isomerase A6,Mus musculus,40100.1204,43844.1194,41972.1199
+Q922U2,Krt5,"Keratin, type II cytoskeletal 5",Mus musculus,125984.0984,105985.1,115984.5992
+Q923D2,Blvrb,Flavin reductase (NADPH),Mus musculus,50616.5015,2425.4666666666667,29963.200857142856
+Q923U0,Tom1l1,TOM1-like protein 1,Mus musculus,321.1,NA,321.1
+Q925H7,Krtap19-4,Keratin-associated protein 19-4,Mus musculus,NA,56465.602,56465.602
+Q93092,Taldo1,Transaldolase,Mus musculus,44086.7786,46095.8,45091.289300000004
+Q99020,Hnrnpab,Heterogeneous nuclear ribonucleoprotein A/B,Mus musculus,6494.24,3570,5032.12
+Q99J08,Sec14l2,SEC14-like protein 2,Mus musculus,6066.25,NA,6066.25
+Q99J45,Nrbp1,Nuclear receptor-binding protein,Mus musculus,485.8333333333333,540.56,520.0375
+Q99J77,Nans,Sialic acid synthase,Mus musculus,5334.240000000001,6084.1,5709.17
+Q99JI4,Psmd6,26S proteasome non-ATPase regulatory subunit 6,Mus musculus,2763.62,1792.1000000000001,2277.86
+Q99JI6,Rap1b,Ras-related protein Rap-1b,Mus musculus,33877.9402,27651.0604,30764.5003
+Q99JR5,Tinagl1,Tubulointerstitial nephritis antigen-like,Mus musculus,5747.22,6830.0999999999995,6288.66
+Q99JV5,Stard4,StAR-related lipid transfer protein 4,Mus musculus,66.8,0.3,33.55
+Q99JW2,Acy1,Aminoacylase-1,Mus musculus,1399.4,NA,1399.4
+Q99JW4,Lims1,LIM and senescent cell antigen-like-containing domain protein 1,Mus musculus,335.5,858.0333333333333,727.4
+Q99JW5,Epcam,Epithelial cell adhesion molecule,Mus musculus,478.6,1071.9,775.25
+Q99JX4,Eif3m,Eukaryotic translation initiation factor 3 subunit M,Mus musculus,707.4,215.05,379.1666666666667
+Q99JY9,Actr3,Actin-related protein 3,Mus musculus,30938.68,49359.4602,40149.0701
+Q99K01,Pdxdc1,Pyridoxal-dependent decarboxylase domain-containing protein 1,Mus musculus,1450.8,598.25,1024.525
+Q99K30,Eps8l2,Epidermal growth factor receptor kinase substrate 8-like protein 2,Mus musculus,627.64,696.1,661.87
+Q99K51,Pls3,Plastin-3,Mus musculus,58719.400200000004,67860.0994,63289.749800000005
+Q99K85,Psat1,Phosphoserine aminotransferase,Mus musculus,1278.0333333333333,1363.3666666666668,1320.7
+Q99KB8,Hagh,"Hydroxyacylglutathione hydrolase, mitochondrial",Mus musculus,51444.325,41249.49925,46346.912125
+Q99KC8,Vwa5a,von Willebrand factor A domain-containing protein 5A,Mus musculus,1147.74,395.3666666666667,865.6
+Q99KG5,Lsr,Lipolysis-stimulated lipoprotein receptor,Mus musculus,20839.2798,29769.4392,25304.3595
+Q99KI0,Aco2,"Aconitate hydratase, mitochondrial",Mus musculus,3505.54,2369.52,2937.53
+Q99KJ8,Dctn2,Dynactin subunit 2,Mus musculus,2941.95,1132.5,2338.7999999999997
+Q99KK2,Cmas,N-acylneuraminate cytidylyltransferase,Mus musculus,2071.025,1525.6,1889.2166666666667
+Q99KK7,Dpp3,Dipeptidyl peptidase 3,Mus musculus,2284.4,1831.0749999999998,2082.922222222222
+Q99KP3,Cryl1,Lambda-crystallin homolog,Mus musculus,2483.2,1285.9499999999998,2084.116666666667
+Q99KQ4,Nampt,Nicotinamide phosphoribosyltransferase,Mus musculus,13560.26,9286.2202,11423.240099999999
+Q99KR8,Fuca2,Plasma alpha-L-fucosidase,Mus musculus,80413.6406,68794.8406,74604.2406
+Q99KV1,Dnajb11,DnaJ homolog subfamily B member 11,Mus musculus,43299.8796,37626.3806,40463.1301
+Q99KW9,Itfg1,T-cell immunomodulatory protein,Mus musculus,722.64,1328.85,992.0666666666666
+Q99L13,Hibadh,"3-hydroxyisobutyrate dehydrogenase, mitochondrial",Mus musculus,671.6,415.1333333333333,517.72
+Q99L20,Gstt3,Glutathione S-transferase theta-3,Mus musculus,3634.1,1105.4,2369.75
+Q99L45,Eif2s2,Eukaryotic translation initiation factor 2 subunit 2,Mus musculus,643.225,524.95,584.0875
+Q99L47,St13,Hsc70-interacting protein,Mus musculus,4059.44,2179.38,3119.41
+Q99LB6,Mat2b,Methionine adenosyltransferase 2 subunit beta,Mus musculus,1092,546.5333333333333,858.2285714285714
+Q99LD4,Gps1,COP9 signalosome complex subunit 1,Mus musculus,558.2,131.25,273.56666666666666
+Q99LD8,Ddah2,Putative hydrolase DDAH2,Mus musculus,4284.45,361.3,2976.733333333333
+Q99LE6,Abcf2,ATP-binding cassette sub-family F member 2,Mus musculus,625.6333333333333,542.28,573.5375
+Q99LF4,Rtcb,RNA-splicing ligase RtcB homolog,Mus musculus,1302.6666666666667,449.9,769.6875
+Q99LI8,Hgs,Hepatocyte growth factor-regulated tyrosine kinase substrate,Mus musculus,125.8,20.46666666666667,46.8
+Q99LJ1,Fuca1,Tissue alpha-L-fucosidase,Mus musculus,18836.06,20224.1004,19530.0802
+Q99LX0,Park7,Parkinson disease protein 7 homolog,Mus musculus,20236.5204,12671.020199999999,16453.7703
+Q99M71,Epdr1,Mammalian ependymin-related protein 1,Mus musculus,1208.9499999999998,NA,1208.9499999999998
+Q99M73,Krt84,"Keratin, type II cuticular Hb4",Mus musculus,36733.4194,76913.54000000001,56823.4797
+Q99M74,Krt82,"Keratin, type II cuticular Hb2",Mus musculus,472.16666666666663,1445.15,861.36
+Q99MK8,Grk2,Beta-adrenergic receptor kinase 1,Mus musculus,536.7,1136.44,869.8888888888889
+Q99MN1,Kars1,Lysine--tRNA ligase,Mus musculus,2613.425,1389.06,1933.2222222222222
+Q99NB5,Gsdmc,Gasdermin-C,Mus musculus,354.3333333333333,879.24,682.4
+Q99P58,Rab27b,Ras-related protein Rab-27B,Mus musculus,461.8,259.8,394.4666666666667
+Q99P72,Rtn4,Reticulon-4,Mus musculus,330.26666666666665,127.15,249.02
+Q99P91,Gpnmb,Transmembrane glycoprotein NMB,Mus musculus,1166.0500000000002,401.6,911.2333333333333
+Q99PJ1,Pcdh15,Protocadherin-15,Mus musculus,158.8,148,149.8
+Q99PL5,Rrbp1,Ribosome-binding protein 1,Mus musculus,2521.16,5309.76,3915.46
+Q99PS0,Krt23,"Keratin, type I cytoskeletal 23",Mus musculus,9881.04,8531.72,9206.38
+Q99PT1,Arhgdia,Rho GDP-dissociation inhibitor 1,Mus musculus,150028.6218,106489.3812,128259.0015
+Q99PV0,Prpf8,Pre-mRNA-processing-splicing factor 8,Mus musculus,59.120000000000005,64.225,61.38888888888889
+Q9CPP7,Lipf,Gastric triacylglycerol lipase,Mus musculus,16878190.95,20018841.4,18448516.175
+Q9CPQ1,Cox6c,Cytochrome c oxidase subunit 6C,Mus musculus,15493.84,17082.8598,16288.349900000001
+Q9CPR4,Rpl17,Large ribosomal subunit protein uL22,Mus musculus,2186.05,858.65,1522.3500000000001
+Q9CPT0,Bcl2l14,Apoptosis facilitator Bcl-2-like protein 14,Mus musculus,464.73333333333335,NA,464.73333333333335
+Q9CPT4,Mydgf,Myeloid-derived growth factor,Mus musculus,183675.6204,76270.5398,129973.08009999999
+Q9CPU0,Glo1,Lactoylglutathione lyase,Mus musculus,6330.1,3052.375,4873.333333333334
+Q9CPV4,Glod4,Glyoxalase domain-containing protein 4,Mus musculus,10213.579800000001,5975.46,8094.5199
+Q9CPW4,Arpc5,Actin-related protein 2/3 complex subunit 5,Mus musculus,12075.4,17857.5196,14966.4598
+Q9CPY7,Lap3,Cytosol aminopeptidase,Mus musculus,2914.025,1083.4599999999998,1897.0444444444445
+Q9CQ19,Myl9,Myosin regulatory light polypeptide 9,Mus musculus,1040.9,NA,1040.9
+Q9CQ60,Pgls,6-phosphogluconolactonase,Mus musculus,33320.5594,23922.02,28621.2897
+Q9CQ65,Mtap,S-methyl-5'-thioadenosine phosphorylase,Mus musculus,3151.1,1535.4750000000001,2227.885714285714
+Q9CQ86,Mien1,Migration and invasion enhancer 1,Mus musculus,2821.75,1321.25,1821.4166666666667
+Q9CQ92,Fis1,Mitochondrial fission 1 protein,Mus musculus,2975.2000000000003,1251.9,2400.766666666667
+Q9CQA1,Trappc5,Trafficking protein particle complex subunit 5,Mus musculus,1480.92,1360.1599999999999,1420.54
+Q9CQC6,Bzw1,eIF5-mimic protein 2,Mus musculus,376.56,329.85,355.8
+Q9CQC9,Sar1b,Small COPII coat GTPase SAR1B,Mus musculus,1900.9,1464.5666666666666,1682.7333333333333
+Q9CQD1,Rab5a,Ras-related protein Rab-5A,Mus musculus,1639.8,NA,1639.8
+Q9CQF3,Nudt21,Cleavage and polyadenylation specificity factor subunit 5,Mus musculus,7832.433333333333,7017,7366.471428571429
+Q9CQI3,Gmfb,Glia maturation factor beta,Mus musculus,5041.78,5972,5506.889999999999
+Q9CQI6,Cotl1,Coactosin-like protein,Mus musculus,99568.2016,118336.8594,108952.5305
+Q9CQJ0,Them5,Acyl-coenzyme A thioesterase THEM5,Mus musculus,4465.54,2616.62,3541.08
+Q9CQM5,Txndc17,Thioredoxin domain-containing protein 17,Mus musculus,17225.98,20405.3002,18815.6401
+Q9CQM9,Glrx3,Glutaredoxin-3,Mus musculus,3397.02,3615.05,3493.9222222222224
+Q9CQR6,Ppp6c,Serine/threonine-protein phosphatase 6 catalytic subunit,Mus musculus,1407.1000000000001,602.3333333333334,1004.7166666666667
+Q9CQV3,Serpinb11,Serpin B11,Mus musculus,337605.3248,398841.7564,368223.5406
+Q9CQV8,Ywhab,14-3-3 protein beta/alpha,Mus musculus,2919.4799999999996,2302.16,2610.82
+Q9CQW1,Ykt6,Synaptobrevin homolog YKT6,Mus musculus,1266.875,1020.05,1143.4624999999999
+Q9CQW3,Proz,Vitamin K-dependent protein Z,Mus musculus,3218.8,NA,3218.8
+Q9CQX0,Otub2,Ubiquitin thioesterase OTUB2,Mus musculus,2494.7666666666664,2256.05,2399.28
+Q9CR09,Ufc1,Ubiquitin-fold modifier-conjugating enzyme 1,Mus musculus,2762.775,1628,2384.5166666666664
+Q9CR16,Ppid,Peptidyl-prolyl cis-trans isomerase D,Mus musculus,723.44,1094.625,888.4111111111112
+Q9CR26,Vta1,Vacuolar protein sorting-associated protein VTA1 homolog,Mus musculus,2341.48,2028.92,2185.2
+Q9CR33,Mansc1,MANSC domain-containing protein 1,Mus musculus,10329.56,8972.699999999999,9651.13
+Q9CR51,Atp6v1g1,V-type proton ATPase subunit G 1,Mus musculus,1889.575,387.5,1589.16
+Q9CR57,Rpl14,Large ribosomal subunit protein eL14,Mus musculus,32574.500799999998,32755.3406,32664.9207
+Q9CR67,Tmem33,Transmembrane protein 33,Mus musculus,3533.375,4486,3723.9
+Q9CRA5,Golph3,Golgi phosphoprotein 3,Mus musculus,915.8000000000001,1642.65,1279.225
+Q9CRB3,Urah,5-hydroxyisourate hydrolase,Mus musculus,7011.42,6097.56,6554.49
+Q9CRB6,Tppp3,Tubulin polymerization-promoting protein family member 3,Mus musculus,1959.28,4480.1,3079.6444444444446
+Q9CRC9,Gnpda2,Glucosamine-6-phosphate isomerase 2,Mus musculus,2894.2,NA,2894.2
+Q9CS42;Q9D7G0,Prps2;Prps1,Ribose-phosphate pyrophosphokinase 2;Ribose-phosphate pyrophosphokinase 1,Mus musculus,2710.96,1987.425,2389.3888888888887
+Q9CVB6,Arpc2,Actin-related protein 2/3 complex subunit 2,Mus musculus,18961.0802,22882.8796,20921.9799
+Q9CWF2,Tubb2b,Tubulin beta-2B chain,Mus musculus,26565.06,19834.1798,23199.6199
+Q9CWJ9,Atic,Bifunctional purine biosynthesis protein ATIC,Mus musculus,11748.5755,3445.38,7135.689111111111
+Q9CWK8,Snx2,Sorting nexin-2,Mus musculus,1605.8,463.38,1034.59
+Q9CWL8,Ctnnbl1,Beta-catenin-like protein 1,Mus musculus,1228.7,837.8,1072.34
+Q9CWZ3,Rbm8a,RNA-binding protein 8A,Mus musculus,5442.9,1680.92,2755.7714285714283
+Q9CX00,Ist1,IST1 homolog,Mus musculus,4873.2,1652.76,3262.9800000000005
+Q9CX56,Psmd8,26S proteasome non-ATPase regulatory subunit 8,Mus musculus,4822.45,3674.94,4184.944444444444
+Q9CXI5,Manf,Mesencephalic astrocyte-derived neurotrophic factor,Mus musculus,107183.4986,75697.09999999999,91440.2993
+Q9CXR1,Dhrs7,Dehydrogenase/reductase SDR family member 7,Mus musculus,5431.5,5913.9,5672.7
+Q9CXW3,Cacybp,Calcyclin-binding protein,Mus musculus,3607.5,214.9,1345.7666666666667
+Q9CXW4,Rpl11,Large ribosomal subunit protein uL5,Mus musculus,5881.28,5560.64,5720.96
+Q9CXY6,Ilf2,Interleukin enhancer-binding factor 2,Mus musculus,775.25,1130.0666666666666,988.14
+Q9CY58,Serbp1,SERPINE1 mRNA-binding protein 1,Mus musculus,1790.52,1701.225,1750.8333333333333
+Q9CY64,Blvra,Biliverdin reductase A,Mus musculus,3121.82,965.74,2043.78
+Q9CYA0,Creld2,Protein disulfide isomerase Creld2,Mus musculus,737.1999999999999,1363.575,1015.5888888888888
+Q9CYD3,Crtap,Cartilage-associated protein,Mus musculus,4485.360000000001,3199.02,3842.19
+Q9CYL5,Glipr2,Golgi-associated plant pathogenesis-related protein 1,Mus musculus,852.4,1804.06,1381.1
+Q9CYN9,Atp6ap2,Renin receptor,Mus musculus,74030.3602,81568.30159999999,77799.3309
+Q9CYZ2,Tpd52l2,Tumor protein D54,Mus musculus,3468.48,2366.04,2917.26
+Q9CZ28,Snf8,Vacuolar-sorting protein SNF8,Mus musculus,806.45,958,907.4833333333333
+Q9CZ30,Ola1,Obg-like ATPase 1,Mus musculus,881.6,NA,881.6
+Q9CZ42,Naxd,ATP-dependent (S)-NAD(P)H-hydrate dehydratase,Mus musculus,10875.24,15195.0602,13035.1501
+Q9CZ44,Nsfl1c,NSFL1 cofactor p47,Mus musculus,2948.06,1316.84,2132.45
+Q9CZC8,Scrn1,Secernin-1,Mus musculus,1459,NA,1459
+Q9CZD3,Gars1,Glycine--tRNA ligase,Mus musculus,998.5799999999999,727.74,863.16
+Q9CZM2,Rpl15,Large ribosomal subunit protein eL15,Mus musculus,3776.42,5004.26,4390.34
+Q9CZT5,Vasn,Vasorin,Mus musculus,1819.5,295.1,1057.3
+Q9CZU6,Cs,"Citrate synthase, mitochondrial",Mus musculus,10283.34,10197.42,10240.38
+Q9CZX8,Rps19,Small ribosomal subunit protein eS19,Mus musculus,2281.2749999999996,1638.6,1959.9375
+Q9CZY3,Ube2v1,Ubiquitin-conjugating enzyme E2 variant 1,Mus musculus,5011.36,4368.24,4689.8
+Q9D020,Nt5c3a,Cytosolic 5'-nucleotidase 3A,Mus musculus,637.8666666666667,258.1,542.925
+Q9D0E1,Hnrnpm,Heterogeneous nuclear ribonucleoprotein M,Mus musculus,657.54,1316.9,987.22
+Q9D0F3,Lman1,Protein ERGIC-53,Mus musculus,21072.9798,17300.4598,19186.7198
+Q9D0F9,Pgm1,Phosphoglucomutase-1,Mus musculus,6097.54,3954.1600000000003,5025.85
+Q9D0M5,Dynll2,"Dynein light chain 2, cytoplasmic",Mus musculus,7816.7,NA,7816.7
+Q9D0R2,Tars1,"Threonine--tRNA ligase 1, cytoplasmic",Mus musculus,2529.44,1713.14,2121.29
+Q9D0W5,Ppil1,Peptidyl-prolyl cis-trans isomerase-like 1,Mus musculus,2373.55,583.1,1478.325
+Q9D154,Serpinb1a,Leukocyte elastase inhibitor A,Mus musculus,75424.9798,114157.2596,94791.1197
+Q9D1A2,Cndp2,Cytosolic non-specific dipeptidase,Mus musculus,11043.575,5622.7,8333.1375
+Q9D1D4,Tmed10,Transmembrane emp24 domain-containing protein 10,Mus musculus,1230.18,2266.82,1748.5
+Q9D1E4,Cysrt1,Cysteine-rich tail protein 1,Mus musculus,3178.5666666666666,5607.5599999999995,4696.6875
+Q9D1G1,Rab1b,Ras-related protein Rab-1B,Mus musculus,12826.560000000001,10878.52,11852.54
+Q9D1H9,Mfap4,Microfibril-associated glycoprotein 4,Mus musculus,4279.3,NA,4279.3
+Q9D1J1,Necap2,Adaptin ear-binding coat-associated protein 2,Mus musculus,1124.2,NA,1124.2
+Q9D1Q6,Erp44,Endoplasmic reticulum resident protein 44,Mus musculus,89736.8406,43448.4996,66592.6701
+Q9D1R9,Rpl34,Large ribosomal subunit protein eL34,Mus musculus,4579.68,3321.22,3950.45
+Q9D2J7,Ankef1,Ankyrin repeat and EF-hand domain-containing protein 1,Mus musculus,3159.2599999999998,915.9749999999999,2162.2444444444445
+Q9D2L1,Arsk,Arylsulfatase K,Mus musculus,3881.3799999999997,3707.96,3794.67
+Q9D2Q8,S100a14,Protein S100-A14,Mus musculus,68526.8198,42914.1598,55720.4898
+Q9D2R0,Aacs,Acetoacetyl-CoA synthetase,Mus musculus,982.1,1007,997.6625
+Q9D2V7,Coro7,Coronin-7,Mus musculus,964.22,1241.24,1102.73
+Q9D309,Fam3b,Protein FAM3B,Mus musculus,15778.04,23837.0202,19807.5301
+Q9D358,Acp1,Low molecular weight phosphotyrosine protein phosphatase,Mus musculus,1989.525,2410.42,2223.3555555555554
+Q9D379,Ephx1,Epoxide hydrolase 1,Mus musculus,330.45000000000005,224.95,277.7
+Q9D394,Rufy3,Protein RUFY3,Mus musculus,3649.4,NA,3649.4
+Q9D3H2,Obp1a,Odorant-binding protein 1a,Mus musculus,22515969,34315974.8,28415971.9
+Q9D646,Krt34,"Keratin, type I cuticular Ha4",Mus musculus,59973.65025,71848.3495,63931.88333333333
+Q9D662,Sec23b,Protein transport protein Sec23B,Mus musculus,1448.825,1211.58,1317.0222222222221
+Q9D6N1,Ca13,Carbonic anhydrase 13,Mus musculus,539.4,NA,539.4
+Q9D6P8,Calml3,Calmodulin-like protein 3,Mus musculus,127018.6796,103018.4414,115018.5605
+Q9D6Y7,Msra,Mitochondrial peptide methionine sulfoxide reductase,Mus musculus,6459.52,10687.5998,8573.5599
+Q9D6Y9,Gbe1,"1,4-alpha-glucan-branching enzyme",Mus musculus,1477.7,1182.82,1330.26
+Q9D708,S100a16,Protein S100-A16,Mus musculus,38590.4996,8535.619999999999,23563.0598
+Q9D733,Gp2,Pancreatic secretory granule membrane major glycoprotein GP2,Mus musculus,76336.5,112796.9608,94566.7304
+Q9D7D2,Serpina9,Serpin A9,Mus musculus,5150.8,5012.4800000000005,5081.64
+Q9D7I0,Shisa5,Protein shisa-5,Mus musculus,1782.15,2346.5,2120.76
+Q9D7N9,Apmap,Adipocyte plasma membrane-associated protein,Mus musculus,2890.6000000000004,1056.76,1973.68
+Q9D7P7,Clic3,Chloride intracellular channel protein 3,Mus musculus,1195.75,1805.7,1457.1571428571428
+Q9D7P9,Serpinb12,Serpin B12,Mus musculus,184634.4436,120582.5392,152608.4914
+Q9D7Q0,Lyg1,Lysozyme g-like protein 1,Mus musculus,8186.7,8298.22,8242.46
+Q9D7Q1,Chit1,Chitotriosidase-1,Mus musculus,4781.28,4786.66,4783.97
+Q9D7X3,Dusp3,Dual specificity protein phosphatase 3,Mus musculus,1703.8,NA,1703.8
+Q9D7Z6,Clca1,Calcium-activated chloride channel regulator 1,Mus musculus,2648.266666666667,1312.2333333333333,1980.25
+Q9D7Z7,Lypd5,Ly6/PLAUR domain-containing protein 5,Mus musculus,15592.5002,16129.8398,15861.17
+Q9D819,Ppa1,Inorganic pyrophosphatase,Mus musculus,7572.5,5639.08,6605.79
+Q9D869,Chp2,Calcineurin B homologous protein 2,Mus musculus,3830.2999999999997,3178.5,3550.9571428571426
+Q9D892,Itpa,Inosine triphosphate pyrophosphatase,Mus musculus,1166.25,545.5999999999999,959.3666666666666
+Q9D8E6,Rpl4,Large ribosomal subunit protein uL4,Mus musculus,3659.7,701.6,2180.6499999999996
+Q9D8L5,Ccdc91,Coiled-coil domain-containing protein 91,Mus musculus,706.3,NA,706.3
+Q9D8N0,Eef1g,Elongation factor 1-gamma,Mus musculus,12669.4,12315.980000000001,12492.69
+Q9D8T0,Fam3a,Protein FAM3A,Mus musculus,4004.96,2915.6000000000004,3460.28
+Q9D8U8,Snx5,Sorting nexin-5,Mus musculus,5382.5,NA,5382.5
+Q9D8W5,Psmd12,26S proteasome non-ATPase regulatory subunit 12,Mus musculus,1363.3400000000001,896.5999999999999,1229.9857142857145
+Q9D8X1,Cutc,Copper homeostasis protein cutC homolog,Mus musculus,506.4,NA,506.4
+Q9D8Y0,Efhd2,EF-hand domain-containing protein D2,Mus musculus,9090.460000000001,12166.62,10628.54
+Q9D906,Atg7,Ubiquitin-like modifier-activating enzyme ATG7,Mus musculus,132746.0428,60986.2592,96866.151
+Q9D952,Evpl,Envoplakin,Mus musculus,449.7,417.1,431.07142857142856
+Q9D967,Mdp1,Magnesium-dependent phosphatase 1,Mus musculus,4490.74,3588.62,4039.68
+Q9D9N8,Pradc1,Protease-associated domain-containing protein 1,Mus musculus,53156.6204,49563.3212,51359.970799999996
+Q9D9W0,Spatc1l,Speriolin-like protein,Mus musculus,870.75,NA,870.75
+Q9DAR7,Dcps,m7GpppX diphosphatase,Mus musculus,1786.3,NA,1786.3
+Q9DAS9,Gng12,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-12,Mus musculus,15002.25,10134.8,13379.766666666666
+Q9DAU7,Wfdc2,WAP four-disulfide core domain protein 2,Mus musculus,6720.5599999999995,8190.04,7455.3
+Q9DB05,Napa,Alpha-soluble NSF attachment protein,Mus musculus,2007.18,2246.5,2126.84
+Q9DB20,Atp5po,"ATP synthase subunit O, mitochondrial",Mus musculus,4890.22,2759.16,3824.69
+Q9DB29,Iah1,Isoamyl acetate-hydrolyzing esterase 1 homolog,Mus musculus,4495.5,170.2,2332.85
+Q9DB77,Uqcrc2,"Cytochrome b-c1 complex subunit 2, mitochondrial",Mus musculus,732.62,480.26666666666665,637.9875
+Q9DBB9,Cpn2,Carboxypeptidase N subunit 2,Mus musculus,58207.9976,8656.1798,33432.0887
+Q9DBC7,Prkar1a,cAMP-dependent protein kinase type I-alpha regulatory subunit,Mus musculus,2493.5,1104.38,1798.94
+Q9DBD0,Inhca,Inhibitor of carbonic anhydrase,Mus musculus,55191.97899999999,9567.619999999999,32379.7995
+Q9DBE0,Csad,Cysteine sulfinic acid decarboxylase,Mus musculus,3598.3,275.05,1936.675
+Q9DBF1,Aldh7a1,Alpha-aminoadipic semialdehyde dehydrogenase,Mus musculus,313.29999999999995,249.05,281.175
+Q9DBG3,Ap2b1,AP-2 complex subunit beta,Mus musculus,391.125,283.54999999999995,355.26666666666665
+Q9DBG7,Srpra,Signal recognition particle receptor subunit alpha,Mus musculus,41729.2394,40687.4598,41208.3496
+Q9DBG9,Tax1bp3,Tax1-binding protein 3,Mus musculus,1899.95,NA,1899.95
+Q9DBH5,Lman2,Vesicular integral-membrane protein VIP36,Mus musculus,10467.22,9661.94,10064.58
+Q9DBJ1,Pgam1,Phosphoglycerate mutase 1,Mus musculus,78004.0984,90332.8808,84168.4896
+Q9DBP5,Cmpk1,UMP-CMP kinase,Mus musculus,60946.8796,85687.9586,73317.4191
+Q9DBS1,Tmem43,Transmembrane protein 43,Mus musculus,3714.04,4408.9800000000005,4061.51
+Q9DBS2,Tprg1l,Tumor protein p63-regulated gene 1-like protein,Mus musculus,1227.4,336.9,782.1500000000001
+Q9DBX3,Susd2,Sushi domain-containing protein 2,Mus musculus,415.56,1153.26,784.41
+Q9DBX6,Cyp2s1,Cytochrome P450 2S1,Mus musculus,1277.8,941.825,1109.8125
+Q9DBZ5,Eif3k,Eukaryotic translation initiation factor 3 subunit K,Mus musculus,2005.55,1042.2,1363.3166666666666
+Q9DC50,Crot,Peroxisomal carnitine O-octanoyltransferase,Mus musculus,1567.82,1282.78,1425.3
+Q9DCC4,Pycr3,Pyrroline-5-carboxylate reductase 3,Mus musculus,2725.3,2569.8,2647.55
+Q9DCD0,Pgd,"6-phosphogluconate dehydrogenase, decarboxylating",Mus musculus,98877.4204,136407.2564,117642.33840000001
+Q9DCH4,Eif3f,Eukaryotic translation initiation factor 3 subunit F,Mus musculus,1140.0500000000002,549.4,943.1666666666666
+Q9DCJ9,Npl,N-acetylneuraminate lyase,Mus musculus,706.6,NA,706.6
+Q9DCL9,Paics,Bifunctional phosphoribosylaminoimidazole carboxylase/phosphoribosylaminoimidazole succinocarboxamide synthetase,Mus musculus,610.4,NA,610.4
+Q9DCN2,Cyb5r3,NADH-cytochrome b5 reductase 3,Mus musculus,2878.2,1039.7,1407.3999999999999
+Q9DCV7,Krt7,"Keratin, type II cytoskeletal 7",Mus musculus,2811.86,1607.4666666666667,2360.2125
+Q9DCW4,Etfb,Electron transfer flavoprotein subunit beta,Mus musculus,1791.4500000000003,534.875,1163.1625
+Q9EP79,Vmn1r52,Vomeronasal type-1 receptor 52,Mus musculus,9026.02,11058.32,10042.17
+Q9EP95,Retnla,Resistin-like alpha,Mus musculus,21295.550499999998,15543.566,17844.3598
+Q9EPB4,Pycard,Apoptosis-associated speck-like protein containing a CARD,Mus musculus,6428.9000000000005,7117.92,6773.41
+Q9EPC1,Parva,Alpha-parvin,Mus musculus,2283.3,NA,2283.3
+Q9EPK6,Sil1,Nucleotide exchange factor SIL1,Mus musculus,130038.742,127546.2188,128792.4804
+Q9EPL2,Clstn1,Calsyntenin-1,Mus musculus,11526.74,9867.34,10697.039999999999
+Q9EPL4,Mettl9,Protein-L-histidine N-pros-methyltransferase,Mus musculus,3748.52,5139.22,4443.87
+Q9EPL8,Ipo7,Importin-7,Mus musculus,429.3666666666667,304.7,398.2
+Q9EPQ1,Tlr1,Toll-like receptor 1,Mus musculus,NA,1551.875,1551.875
+Q9EPU0,Upf1,Regulator of nonsense transcripts 1,Mus musculus,48.7,72.1,62.74
+Q9EQ06,Hsd17b11,Estradiol 17-beta-dehydrogenase 11,Mus musculus,197,1134.54,978.2833333333333
+Q9EQ80,Nif3l1,NIF3-like protein 1,Mus musculus,996.5,1057.1,1026.8
+Q9EQF2,Kel,Kell blood group glycoprotein homolog,Mus musculus,77.6,NA,77.6
+Q9EQG7,Enpp5,Ectonucleotide pyrophosphatase/phosphodiesterase family member 5,Mus musculus,392.5,735.1,582.8333333333334
+Q9EQH2,Erap1,Endoplasmic reticulum aminopeptidase 1,Mus musculus,4187.04,3477.04,3832.04
+Q9EQH3,Vps35,Vacuolar protein sorting-associated protein 35,Mus musculus,1868.575,1482.1200000000001,1653.8777777777777
+Q9EQK5,Mvp,Major vault protein,Mus musculus,2035.52,983.04,1509.28
+Q9EQP2,Ehd4,EH domain-containing protein 4,Mus musculus,1253.26,664.85,991.7444444444444
+Q9EQU5,Set,Protein SET,Mus musculus,1387.3666666666666,548.125,907.8
+Q9ER00,Stx12,Syntaxin-12,Mus musculus,474.15,NA,474.15
+Q9ER38,Tor3a,Torsin-3A,Mus musculus,1653.7,2074.96,1864.33
+Q9ER39,Tor1a,Torsin-1A,Mus musculus,7570.66,8219.62,7895.14
+Q9ER41,Tor1b,Torsin-1B,Mus musculus,52289.779800000004,35416.1794,43852.9796
+Q9ER56,Capn12,Calpain-12,Mus musculus,NA,1505.3,1505.3
+Q9ER72,Cars1,"Cysteine--tRNA ligase, cytoplasmic",Mus musculus,3431.08,3242.44,3336.76
+Q9ERD7,Tubb3,Tubulin beta-3 chain,Mus musculus,4189,1063.5,2626.25
+Q9ERD8,Parvg,Gamma-parvin,Mus musculus,796.96,1183.2,990.08
+Q9ERI2,Rab27a,Ras-related protein Rab-27A,Mus musculus,5745.52,7507.08,6626.3
+Q9ERI6,Rdh14,Retinol dehydrogenase 14,Mus musculus,536.35,336.8,496.44
+Q9ERK4,Cse1l,Exportin-2,Mus musculus,1600.8,982.3,1477.1
+Q9ERL7,Gmfg,Glia maturation factor gamma,Mus musculus,5284.4800000000005,7117.16,6200.82
+Q9ERR7,Selenof,Selenoprotein F,Mus musculus,112453.57979999999,206267.7406,159360.66019999998
+Q9ESB3,Hrg,Histidine-rich glycoprotein,Mus musculus,52325.1412,19058.7998,35691.970499999996
+Q9ESD1,Prss8,Prostasin,Mus musculus,19266.58,10210.34,14738.460000000001
+Q9ESE1,Lrba,Lipopolysaccharide-responsive and beige-like anchor protein,Mus musculus,92.15,7.1,63.8
+Q9ESP1,Sdf2l1,Stromal cell-derived factor 2-like protein 1,Mus musculus,1568.225,1239.8,1502.54
+Q9EST1,Gsdma,Gasdermin-A,Mus musculus,17030.38,19917.7994,18474.0897
+Q9EST5,Anp32b,Acidic leucine-rich nuclear phosphoprotein 32 family member B,Mus musculus,1921.48,2718.9,2320.19
+Q9ESY9,Ifi30,Gamma-interferon-inducible lysosomal thiol reductase,Mus musculus,11742.52,16159.4398,13950.9799
+Q9ET01,Pygl,"Glycogen phosphorylase, liver form",Mus musculus,7816.18,13359.4798,10587.8299
+Q9ET22,Dpp7,Dipeptidyl peptidase 2,Mus musculus,42024.1198,41063.3204,41543.7201
+Q9ET30,Tm9sf3,Transmembrane 9 superfamily member 3,Mus musculus,199.14999999999998,299.6666666666667,259.46
+Q9ET66,Pi16,Peptidase inhibitor 16,Mus musculus,4198.766666666666,1187.34,2316.625
+Q9JHC0,Gpx2,Glutathione peroxidase 2,Mus musculus,3436.38,2286.82,2861.6
+Q9JHE3,Asah2,Neutral ceramidase,Mus musculus,6793.96,9901.119999999999,8347.539999999999
+Q9JHF9,Ly96,Lymphocyte antigen 96,Mus musculus,1920.94,2730.18,2325.56
+Q9JHH6,Cpb2,Carboxypeptidase B2,Mus musculus,7201.680399999999,348.4,5243.600285714285
+Q9JHI5,Ivd,"Isovaleryl-CoA dehydrogenase, mitochondrial",Mus musculus,400.06666666666666,280.3,370.125
+Q9JHJ0,Tmod3,Tropomodulin-3,Mus musculus,660.725,1359.9,1010.3125
+Q9JHJ8,Icoslg,ICOS ligand,Mus musculus,4341.4,NA,4341.4
+Q9JHR7,Ide,Insulin-degrading enzyme,Mus musculus,32471.7194,16785.06,24628.3897
+Q9JHU4,Dync1h1,Cytoplasmic dynein 1 heavy chain 1,Mus musculus,976.9599999999999,496.7,736.8299999999999
+Q9JHW2,Nit2,Omega-amidase NIT2,Mus musculus,1777.6333333333337,1391.825,1557.1714285714286
+Q9JHW9,Aldh1a3,Retinaldehyde dehydrogenase 3,Mus musculus,280.24,262.225,272.23333333333335
+Q9JHY3,Wfdc12,WAP four-disulfide core domain protein 12,Mus musculus,6510307.35,2642967.425,4576637.3875
+Q9JI02,Scgb2b20,Secretoglobin family 2B member 20,Mus musculus,1599596.75,378357.7906,988977.2703
+Q9JI11,Stk4,Serine/threonine-protein kinase 4,Mus musculus,249.4,535.2,463.75
+Q9JI67,B3galt5,"Beta-1,3-galactosyltransferase 5",Mus musculus,10385.02,8333.6,9359.31
+Q9JI75,Nqo2,Ribosyldihydronicotinamide dehydrogenase [quinone],Mus musculus,1288.6200000000001,1106.2,1197.41
+Q9JI91,Actn2,Alpha-actinin-2,Mus musculus,4413.1,3069.0666666666666,3837.0857142857144
+Q9JIF7,Copb1,Coatomer subunit beta,Mus musculus,2287.8,2536.36,2412.08
+Q9JII6,Akr1a1,Aldo-keto reductase family 1 member A1,Mus musculus,11009.4404,5114.32,8061.8802
+Q9JJ28,Flii,Protein flightless-1 homolog,Mus musculus,197.14,246.54,221.84
+Q9JJN5,Cpn1,Carboxypeptidase N catalytic chain,Mus musculus,31508.178800000005,3587.7,21037.99925
+Q9JJU8,Sh3bgrl,Adapter Sh3bgrl,Mus musculus,10581.733,1988.65,5671.399857142857
+Q9JJV2,Pfn2,Profilin-2,Mus musculus,6347.3,NA,6347.3
+Q9JK53,Prelp,Prolargin,Mus musculus,116.1,232.86666666666665,203.67499999999998
+Q9JK81,Myg1,MYG1 exonuclease,Mus musculus,1078.525,678.4749999999999,878.5
+Q9JK95,Perp,p53 apoptosis effector related to PMP-22,Mus musculus,2444.5666666666666,570.7666666666667,1507.6666666666665
+Q9JKB1,Uchl3,Ubiquitin carboxyl-terminal hydrolase isozyme L3,Mus musculus,6962.15,2147.525,4554.8375
+Q9JKF1,Iqgap1,Ras GTPase-activating-like protein IQGAP1,Mus musculus,11959.4402,15513.960000000001,13736.7001
+Q9JKF6,Nectin1,Nectin-1,Mus musculus,114.4,106.4,110.4
+Q9JKL5,Tesc,Calcineurin B homologous protein 3,Mus musculus,641.4,NA,641.4
+Q9JKR6,Hyou1,Hypoxia up-regulated protein 1,Mus musculus,61216.5398,66761.8414,63989.1906
+Q9JKS4,Ldb3,LIM domain-binding protein 3,Mus musculus,4182.7,2174.4,3178.55
+Q9JKV7,Extl1,Exostosin-like 1,Mus musculus,214.6,244.1,227.7111111111111
+Q9JKV9,Il20,Interleukin-20,Mus musculus,485.6,38110.8196,27360.75685714286
+Q9JKX6,Nudt5,ADP-sugar pyrophosphatase,Mus musculus,2978.5666666666666,736.3666666666667,1857.4666666666667
+Q9JL16,Isg20,Interferon-stimulated gene 20 kDa protein,Mus musculus,707.4,196.2,451.79999999999995
+Q9JL26,Fmnl1,Formin-like protein 1,Mus musculus,970.92,1247.6,1109.26
+Q9JL35,Hmgn5,High mobility group nucleosome-binding domain-containing protein 5,Mus musculus,323,NA,323
+Q9JLA2,Il36a,Interleukin-36 alpha,Mus musculus,3687,7460.02,5573.51
+Q9JLF6,Tgm1,Protein-glutamine gamma-glutamyltransferase K,Mus musculus,6888.9,6968.34,6928.62
+Q9JLT2,Treh,Trehalase,Mus musculus,1051.8,507.9,961.15
+Q9JLT4,Txnrd2,"Thioredoxin reductase 2, mitochondrial",Mus musculus,2691.4,NA,2691.4
+Q9JLV6,Pnkp,Bifunctional polynucleotide phosphatase/kinase,Mus musculus,2913.7,3344.8,3129.25
+Q9JLY7,Dusp14,Dual specificity protein phosphatase 14,Mus musculus,3048.525,10889.77475,6969.149875000001
+Q9JM71,Klk1b27,Kallikrein 1-related peptidase b27,Mus musculus,5339874.9,665437.6156,3002656.2578
+Q9JM76,Arpc3,Actin-related protein 2/3 complex subunit 3,Mus musculus,40809.9806,45131.1994,42970.59
+Q9JM83,Calm4,Calmodulin-4,Mus musculus,202971.6594,208160.639,205566.1492
+Q9JM84,Cst10,Cystatin 10,Mus musculus,73605205.6,61699769.6,67652487.6
+Q9JMA1,Usp14,Ubiquitin carboxyl-terminal hydrolase 14,Mus musculus,6385.200000000001,762.5999999999999,2636.8
+Q9JMA9,Slc6a14,Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+),Mus musculus,101.1,NA,101.1
+Q9JMD3,Stard10,START domain-containing protein 10,Mus musculus,5430.3998,2042.42,3736.4099
+Q9JMG1,Edf1,Endothelial differentiation-related factor 1,Mus musculus,1540.225,665.62,1054.3333333333333
+Q9JMH3,Neu2,Sialidase-2,Mus musculus,622.5,NA,622.5
+Q9JMH6,Txnrd1,"Thioredoxin reductase 1, cytoplasmic",Mus musculus,2049.68,2001.1,2025.39
+Q9JMH9,Myo18a,Unconventional myosin-XVIIIa,Mus musculus,42.333333333333336,97.7,56.175
+Q9QUH0,Glrx,Glutaredoxin-1,Mus musculus,52890.7204,63936.1398,58413.4301
+Q9QUM9,Psma6,Proteasome subunit alpha type-6,Mus musculus,9006.1,6924.0999999999995,7965.1
+Q9QUR6,Prep,Prolyl endopeptidase,Mus musculus,1407.02,490.5,948.76
+Q9QUT0,Rhag,Ammonium transporter Rh type A,Mus musculus,5165.9,NA,5165.9
+Q9QWL7,Krt17,"Keratin, type I cytoskeletal 17",Mus musculus,26341.7996,48873.7796,37607.789600000004
+Q9QWR8,Naga,Alpha-N-acetylgalactosaminidase,Mus musculus,248637.2156,168505.3,208571.2578
+Q9QXC1,Fetub,Fetuin-B,Mus musculus,241388.2812,178956.7826,210172.5319
+Q9QXG4,Acss2,"Acetyl-coenzyme A synthetase, cytoplasmic",Mus musculus,918.2,218.5,451.73333333333335
+Q9QXS1,Plec,Plectin,Mus musculus,1069.74,1384.72,1227.23
+Q9QXT0,Cnpy2,Protein canopy homolog 2,Mus musculus,2948.02,1983.6200000000001,2465.82
+Q9QY06,Myo9b,Unconventional myosin-IXb,Mus musculus,966.175,564,793.8142857142857
+Q9QY23,Pkp3,Plakophilin-3,Mus musculus,946.12,1673.62,1309.87
+Q9QY73,Tmem59,Transmembrane protein 59,Mus musculus,651.475,2768.96,1827.8555555555556
+Q9QYB5,Add3,Gamma-adducin,Mus musculus,677.6,920.8,816.5714285714286
+Q9QYB8,Add2,Beta-adducin,Mus musculus,706.2,NA,706.2
+Q9QYC0,Add1,Alpha-adducin,Mus musculus,3665.2,1957.2,2716.311111111111
+Q9QYI6,Dnajb9,DnaJ homolog subfamily B member 9,Mus musculus,9166.22,5345.84,7256.03
+Q9QYJ0,Dnaja2,DnaJ homolog subfamily A member 2,Mus musculus,2133.6800000000003,2455.675,2276.788888888889
+Q9QYK5,Hs6st1,Heparan-sulfate 6-O-sulfotransferase 1,Mus musculus,4429.8,3365.88,3897.84
+Q9QYN3,Klk11,Kallikrein-11,Mus musculus,1892.54,1949.6799999999998,1921.11
+Q9QZ06,Tollip,Toll-interacting protein,Mus musculus,6757.3,3307.26,5032.28
+Q9QZ25,Vnn3,Vascular non-inflammatory molecule 3,Mus musculus,21095.38,9213.02,15154.199999999999
+Q9QZ39,St6galnac1,"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1",Mus musculus,1220.7,88.8,1032.05
+Q9QZ47,Tnnt3,"Troponin T, fast skeletal muscle",Mus musculus,8013,NA,8013
+Q9QZE5,Copg1,Coatomer subunit gamma-1,Mus musculus,756.2249999999999,342.76666666666665,579.0285714285715
+Q9QZQ1,Afdn,Afadin,Mus musculus,42.266666666666666,114.60000000000001,71.2
+Q9QZQ8,Macroh2a1,Core histone macro-H2A.1,Mus musculus,11212.08,14400.9,12806.49
+Q9R013,Ctsf,Cathepsin F,Mus musculus,10276.48,9427.08,9851.78
+Q9R062,Gyg1,Glycogenin-1,Mus musculus,6270.12,6379.5,6324.81
+Q9R078,Prkab1,5'-AMP-activated protein kinase subunit beta-1,Mus musculus,631,323.6,477.3
+Q9R097,Spint1,Kunitz-type protease inhibitor 1,Mus musculus,886.26,712.95,809.2333333333333
+Q9R098,Hgfac,Hepatocyte growth factor activator,Mus musculus,12939.6,NA,12939.6
+Q9R0E1,Plod3,Multifunctional procollagen lysine hydroxylase and glycosyltransferase LH3,Mus musculus,35672.2204,31150.8802,33411.5503
+Q9R0E2,Plod1,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",Mus musculus,57595.9204,70661.7602,64128.840299999996
+Q9R0H0,Acox1,Peroxisomal acyl-coenzyme A oxidase 1,Mus musculus,497.05,621.4499999999999,559.25
+Q9R0H5,Krt71,"Keratin, type II cytoskeletal 71",Mus musculus,20931.94,15807.76,18369.85
+Q9R0M0,Celsr2,Cadherin EGF LAG seven-pass G-type receptor 2,Mus musculus,257.94,565.34,411.64
+Q9R0P3,Esd,S-formylglutathione hydrolase,Mus musculus,7067.960000000001,4317.88,5692.92
+Q9R0P5,Dstn,Destrin,Mus musculus,34021.8996,44487.9,39254.8998
+Q9R0P6,Sec11a,Signal peptidase complex catalytic subunit SEC11A,Mus musculus,3496.02,4107.84,3801.93
+Q9R0P9,Uchl1,Ubiquitin carboxyl-terminal hydrolase isozyme L1,Mus musculus,72250.23333333334,NA,72250.23333333334
+Q9R0Q6,Arpc1a,Actin-related protein 2/3 complex subunit 1A,Mus musculus,1179.1,752.74,965.92
+Q9R0Q7,Ptges3,Prostaglandin E synthase 3,Mus musculus,677.1999999999999,NA,677.1999999999999
+Q9R0Y5,Ak1,Adenylate kinase isoenzyme 1,Mus musculus,26710.7196,3871.125,16559.788666666667
+Q9R111,Gda,Guanine deaminase,Mus musculus,15461.14,17279.3,16370.22
+Q9R112,Sqor,"Sulfide:quinone oxidoreductase, mitochondrial",Mus musculus,2605.775,1832.78,2176.3333333333335
+Q9R1A9,Trex2,Three prime repair exonuclease 2,Mus musculus,4166.16,5820.54,4993.3499999999995
+Q9R1B9,Slit2,Slit homolog 2 protein,Mus musculus,1112.52,433.3,810.6444444444444
+Q9R1E6,Enpp2,Autotaxin,Mus musculus,1151.6,NA,1151.6
+Q9R1I1,Chst4,Carbohydrate sulfotransferase 4,Mus musculus,6453.06,8514.12,7483.59
+Q9R1J0,Nsdhl,"Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating",Mus musculus,182.23333333333332,228.14999999999998,200.6
+Q9R1P0,Psma4,Proteasome subunit alpha type-4,Mus musculus,17843.64,8907.88,13375.76
+Q9R1P1,Psmb3,Proteasome subunit beta type-3,Mus musculus,6587.9400000000005,4816.725,5800.733333333334
+Q9R1P3,Psmb2,Proteasome subunit beta type-2,Mus musculus,24722.0402,13278.3002,19000.1702
+Q9R1P4,Psma1,Proteasome subunit alpha type-1,Mus musculus,7521.360000000001,6263.3,6892.33
+Q9R1Q7,Plp2,Proteolipid protein 2,Mus musculus,3486.46,3997.9,3742.18
+Q9R1Q9,Atp6ap1,V-type proton ATPase subunit S1,Mus musculus,85836.1794,100755.4,93295.7897
+Q9R1T2,Sae1,SUMO-activating enzyme subunit 1,Mus musculus,1506.7,161,833.85
+Q9R1Z7,Pts,6-pyruvoyl tetrahydrobiopterin synthase,Mus musculus,6145.5,2028.68,2714.8166666666666
+Q9R226,Khdrbs3,"KH domain-containing, RNA-binding, signal transduction-associated protein 3",Mus musculus,888.2,NA,888.2
+Q9R257,Hebp1,Heme-binding protein 1,Mus musculus,1227.2,NA,1227.2
+Q9R269,Ppl,Periplakin,Mus musculus,1147.06,1197.98,1172.52
+Q9WTI7,Myo1c,Unconventional myosin-Ic,Mus musculus,380.78,220.07999999999998,300.43
+Q9WTL7,Lypla2,Acyl-protein thioesterase 2,Mus musculus,2537.68,1362.75,2015.4888888888888
+Q9WTM5,Ruvbl2,RuvB-like 2,Mus musculus,489.225,625.74,565.0666666666666
+Q9WTX6,Cul1,Cullin-1,Mus musculus,1830.7333333333333,601.825,1128.5
+Q9WTY4,Aqp5,Aquaporin-5,Mus musculus,44246.5602,28700.140199999998,36473.3502
+Q9WTZ2,Mbtps1,Membrane-bound transcription factor site-1 protease,Mus musculus,2814.6,3729.18,3271.89
+Q9WU78,Pdcd6ip,Programmed cell death 6-interacting protein,Mus musculus,8547.94,7326.860000000001,7937.4000000000005
+Q9WUA2,Farsb,Phenylalanine--tRNA ligase beta subunit,Mus musculus,2616.7999999999997,873.74,1527.3875
+Q9WUA3,Pfkp,"ATP-dependent 6-phosphofructokinase, platelet type",Mus musculus,1169.8,590.8000000000001,880.3
+Q9WUB3,Pygm,"Glycogen phosphorylase, muscle form",Mus musculus,11690.8002,8476.92,10083.8601
+Q9WUK2,Eif4h,Eukaryotic translation initiation factor 4H,Mus musculus,683.15,545.2,637.1666666666666
+Q9WUL7,Arl3,ADP-ribosylation factor-like protein 3,Mus musculus,2663.65,766.1500000000001,1714.9
+Q9WUM3,Coro1b,Coronin-1B,Mus musculus,3423.28,2387.3,2905.29
+Q9WUP7,Uchl5,Ubiquitin carboxyl-terminal hydrolase isozyme L5,Mus musculus,3889.25,1375.34,2492.633333333333
+Q9WUU7,Ctsz,Cathepsin Z,Mus musculus,88015.3626,103101.6586,95558.5106
+Q9WUZ9,Entpd5,Ectonucleoside triphosphate diphosphohydrolase 5,Mus musculus,312.72,331.225,320.94444444444446
+Q9WV32,Arpc1b,Actin-related protein 2/3 complex subunit 1B,Mus musculus,10575.06,14247.8602,12411.4601
+Q9WV35,Apobec2,C->U-editing enzyme APOBEC-2,Mus musculus,2859.8,NA,2859.8
+Q9WV54,Asah1,Acid ceramidase,Mus musculus,237519.6594,243446.8782,240483.2688
+Q9WV55,Vapa,Vesicle-associated membrane protein-associated protein A,Mus musculus,8626.2,1671.8500000000001,3989.9666666666667
+Q9WV69,Dmtn,Dematin,Mus musculus,5631.6669999999995,1280.1333333333334,3455.900166666667
+Q9WV85,Nme3,Nucleoside diphosphate kinase 3,Mus musculus,45396.7786,37240.5996,41318.6891
+Q9WVA4,Tagln2,Transgelin-2,Mus musculus,65728.1602,82923.6604,74325.9103
+Q9WVE8,Pacsin2,Protein kinase C and casein kinase substrate in neurons protein 2,Mus musculus,736.72,589.9,663.31
+Q9WVG6,Carm1,Histone-arginine methyltransferase CARM1,Mus musculus,1032.9,540.825,814.2
+Q9WVJ2,Psmd13,26S proteasome non-ATPase regulatory subunit 13,Mus musculus,1794.35,711.2,1433.3
+Q9WVJ3,Cpq,Carboxypeptidase Q,Mus musculus,45503.7,36638.7204,41071.2102
+Q9WVK4,Ehd1,EH domain-containing protein 1,Mus musculus,24534.4602,19123.9196,21829.1899
+Q9WVL7,Cxcl15,C-X-C motif chemokine 15,Mus musculus,1230.9,1005.2,1118.0500000000002
+Q9WVP1,Ap1m2,AP-1 complex subunit mu-2,Mus musculus,1347.3000000000002,353.975,850.6374999999999
+Q9Z0F4,Cib1,Calcium and integrin-binding protein 1,Mus musculus,1281.6666666666667,1594.2,1477
+Q9Z0J0,Npc2,NPC intracellular cholesterol transporter 2,Mus musculus,21503.4798,53907.1796,37705.3297
+Q9Z0K8,Vnn1,Pantetheinase,Mus musculus,11819.4402,30549.8802,21184.6602
+Q9Z0L8,Ggh,Gamma-glutamyl hydrolase,Mus musculus,31721142.8,43339971.2,37530557
+Q9Z0M5,Lipa,Lysosomal acid lipase/cholesteryl ester hydrolase,Mus musculus,79676.81800000001,197936.486,138806.652
+Q9Z0M6,Adgre5,Adhesion G protein-coupled receptor E5,Mus musculus,482.8,611.4,537.9142857142857
+Q9Z0M9,Il18bp,Interleukin-18-binding protein,Mus musculus,10820.4802,13040.1398,11930.31
+Q9Z0N1,Eif2s3x,"Eukaryotic translation initiation factor 2 subunit 3, X-linked",Mus musculus,3322.52,9208.7,5938.6
+Q9Z0P5,Twf2,Twinfilin-2,Mus musculus,3017.34,4582.06,3799.7000000000003
+Q9Z0S1,Bpnt1,"3'(2'),5'-bisphosphate nucleotidase 1",Mus musculus,1206.58,NA,1206.58
+Q9Z0Z4,Heph,Hephaestin,Mus musculus,251.3,NA,251.3
+Q9Z126,Pf4,Platelet factor 4,Mus musculus,34103.898,NA,34103.898
+Q9Z183,Padi4,Protein-arginine deiminase type-4,Mus musculus,5283.24,8804.36,7043.8
+Q9Z185,Padi1,Protein-arginine deiminase type-1,Mus musculus,716.4666666666667,591.9,645.2857142857143
+Q9Z1B7,Mapk13,Mitogen-activated protein kinase 13,Mus musculus,584.6,926.26,755.43
+Q9Z1F9,Uba2,SUMO-activating enzyme subunit 2,Mus musculus,1073.3,68,570.65
+Q9Z1G4,Atp6v0a1,V-type proton ATPase 116 kDa subunit a 1,Mus musculus,376.3333333333333,218.3,297.31666666666666
+Q9Z1N5,Ddx39b,Spliceosome RNA helicase Ddx39b,Mus musculus,9354.4398,7508.339999999999,8431.3899
+Q9Z1Q4,Ly6g6c,Lymphocyte antigen 6 complex locus protein G6c,Mus musculus,31943.9608,14962.8198,23453.3903
+Q9Z1Q5,Clic1,Chloride intracellular channel protein 1,Mus musculus,29348.2798,26858.5598,28103.4198
+Q9Z1Q9,Vars1,Valine--tRNA ligase,Mus musculus,1410.72,1738.48,1574.6
+Q9Z1X4,Ilf3,Interleukin enhancer-binding factor 3,Mus musculus,279.9,176.625,220.8857142857143
+Q9Z1Z0,Uso1,General vesicular transport factor p115,Mus musculus,2055.06,1266.98,1661.02
+Q9Z1Z2,Strap,Serine-threonine kinase receptor-associated protein,Mus musculus,660.3,103.1,381.69999999999993
+Q9Z2K1,Krt16,"Keratin, type I cytoskeletal 16",Mus musculus,696925.1094000001,529460.2,613192.6547
+Q9Z2L6,Minpp1,Multiple inositol polyphosphate phosphatase 1,Mus musculus,22771.18,26668.1598,24719.6699
+Q9Z2L7,Crlf3,Cytokine receptor-like factor 3,Mus musculus,852.1666666666666,534.62,653.7
+Q9Z2M7,Pmm2,Phosphomannomutase 2,Mus musculus,7940.66,9377.3,8658.98
+Q9Z2Q6,Septin5,Septin-5,Mus musculus,2969.6,124.82499999999999,1547.2124999999999
+Q9Z2T6,Krt85,"Keratin, type II cuticular Hb5",Mus musculus,9623.80025,11234.55,10160.716833333334
+Q9Z2U0,Psma7,Proteasome subunit alpha type-7,Mus musculus,40908.3002,31975.199,36441.7496
+Q9Z2U1,Psma5,Proteasome subunit alpha type-5,Mus musculus,5879.72475,1667.8,3539.7665555555554
+Q9Z2W0,Dnpep,Aspartyl aminopeptidase,Mus musculus,8917.479800000001,5318.04,7117.7599
+Q9Z2X1,Hnrnpf,Heterogeneous nuclear ribonucleoprotein F,Mus musculus,2172.8,1579.04,1875.92
+Q9Z2Y8,Plpbp,Pyridoxal phosphate homeostasis protein,Mus musculus,1653.5,NA,1653.5
+Q9Z320,Krt27,"Keratin, type I cytoskeletal 27",Mus musculus,1946.6333333333334,1544.025,1716.5714285714284
+Q9Z331,Krt6b,"Keratin, type II cytoskeletal 6B",Mus musculus,33390.7802,41238.8194,37314.7998
