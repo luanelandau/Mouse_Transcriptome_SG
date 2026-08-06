@@ -1,150 +1,72 @@
-# =============================== #
-#   FULL PIPELINE: Per-gland DESeq2 + Master Sheet Generation
-# =============================== #
+# Human submandibular gland (SM): male versus female DESeq2
 
 setwd("~/Library/CloudStorage/Box-Box/SalivaryGlands_LL/Mouse_Transcriptome_SG/")
 
-# --- Libraries ---
 library(DESeq2)
 library(tidyverse)
-library(readr)
-library(tidyr)
-library(stringr)
-library(purrr)
 
-# --- Load and clean count data (raw integer counts required) ---
+# Load the human raw-count matrix.
 dat <- read.csv("miscelaneous_sheets/gene_expression_matrix_human_RAW_COUNTS.csv")
 
-# Drop metadata and contaminated samples (fix syntax)
-drops <- c(
-  "Chr","Start","End","Strand","Length"
-)
+# Remove featureCounts annotation columns, leaving Geneid and sample counts.
+drops <- c("Chr", "Start", "End", "Strand", "Length")
 dat <- dat[, !(names(dat) %in% drops)]
 
-# Create count matrix
+# Make a count matrix with gene names as row names.
 count_data <- dat[, -1, drop = FALSE]
-rownames(count_data) <- dat[, 1, drop = TRUE]
+rownames(count_data) <- dat[, 1]
 
-# --- Subset to SM-only samples ---
+# Keep only the six human submandibular gland samples.
 sm_cols <- grep("^adult_SM_", colnames(count_data), value = TRUE)
 count_sm <- count_data[, sm_cols, drop = FALSE]
 
-# --- Build metadata (info) only for SM samples ---
+# Describe the sex of each SM sample.
+# Female is the reference level, so positive fold changes mean higher in males.
 info <- tibble(
   ID = colnames(count_sm)
 ) %>%
   mutate(
-    ## Sex: assign manually based on sample ID
     sex = case_when(
       ID %in% c("adult_SM_02", "adult_SM_04", "adult_SM_05") ~ "male",
-      TRUE                                                   ~ "female"
-    )
-  ) %>%
-  mutate(
-    sex = factor(sex, levels = c("female","male"))
+      TRUE ~ "female"
+    ),
+    sex = factor(sex, levels = c("female", "male"))
   )
 
-# quick check
-count_sm[1:5, 1:5]
-info
+# Confirm that metadata rows and count-matrix columns are in the same order.
+stopifnot(all(info$ID == colnames(count_sm)))
 
-# Check alignment
-stopifnot(all(info$ID == colnames(count_data)))
-
-# --- Output folder ---
-#dir.create("deseq2_results_hum", showWarnings = FALSE)
-
-# --- Per-gland DESeq2 with per-gland prefiltering ---
-info_list <- unique(info$sex)
-
-for (g in gland_list) {
-  message("\n========== Gland: ", g, " ==========")
-  info_sub   <- dplyr::filter(info, gland == g)
-  counts_sub <- count_data[, info_sub$ID, drop = FALSE]
-  
-  # Per-gland low-count filter: keep genes with >= 10 total counts within this gland
-  keep <- rowSums(counts_sub) >= 10
-  counts_sub <- counts_sub[keep, , drop = FALSE]
-  
-  # Safety: ensure integers (DESeq2 expects integers)
-  counts_sub[] <- round(as.matrix(counts_sub))
-  
-  # Build DESeq2 object
-  dds_sub <- DESeqDataSetFromMatrix(
-    countData = counts_sub,
-    colData   = droplevels(as.data.frame(info_sub)),
-    design    = ~ strain + sex
-  )
-  
-  # Fit (poscounts helps with many zeros)
-  dds_sub <- DESeq(dds_sub, sfType = "poscounts")
-  
-  # Main-effect contrasts
-  res_strain <- results(dds_sub, contrast = c("strain","C57","CD1"))
-  res_sex    <- results(dds_sub, contrast = c("sex","male","female"))
-  
-  # (Optional but recommended) LFC shrinkage for more stable LFCs
-  # If apeglm is installed; otherwise comment these two lines out.
-  if (requireNamespace("apeglm", quietly = TRUE)) {
-    suppressPackageStartupMessages(library(apeglm))
-    res_strain <- lfcShrink(dds_sub, contrast = c("strain","C57","CD1"), type = "apeglm")
-    res_sex    <- lfcShrink(dds_sub, contrast = c("sex","male","female"), type = "apeglm")
-  }
-  
-  # Save results
-  write.csv(as.data.frame(res_strain),
-            file = file.path("deseq2_hum/", paste0("DESeq2_strain_", g, ".csv")),
-            row.names = TRUE)
-  write.csv(as.data.frame(res_sex),
-            file = file.path("deseq2_hum/", paste0("DESeq2_sex_", g, ".csv")),
-            row.names = TRUE)
-  
-  # Quick summary
-  cat("Strain results summary:\n"); print(summary(res_strain))
-  cat("Sex results summary:\n");    print(summary(res_sex))
-}
-
-# Assumes you already created:
-#   count_sm  <- count_data[, grep("^adult_SM_", colnames(count_data)), drop = FALSE]
-#   info      <- tibble(ID = colnames(count_sm)) %>%
-#                 mutate(sex = if_else(ID %in% c("adult_SM_02","adult_SM_04","adult_SM_05"), "male", "female")) %>%
-#                 mutate(sex = factor(sex, levels = c("female","male")))
-
-library(DESeq2)
-
-# Per-gland (SM) low-count filter: keep genes with >= 10 total counts in SM
+# Keep genes with at least 10 total reads across the six SM samples.
 keep <- rowSums(count_sm) >= 10
 counts_sub <- count_sm[keep, , drop = FALSE]
 
-# Ensure integers
+# DESeq2 requires integer raw counts.
 counts_sub[] <- round(as.matrix(counts_sub))
 
-# Build DESeq2 object (sex-only)
+# Move sample IDs to row names because DESeq2 matches these to count columns.
+info_deseq <- as.data.frame(info) %>%
+  column_to_rownames("ID")
+
+# Construct and fit a sex-only DESeq2 model.
 dds_sm <- DESeqDataSetFromMatrix(
   countData = counts_sub,
-  colData   = as.data.frame(info) %>% tibble::column_to_rownames("ID"),
-  design    = ~ sex
+  colData = info_deseq,
+  design = ~ sex
 )
 
-# Fit (poscounts is good with many zeros)
 dds_sm <- DESeq(dds_sm, sfType = "poscounts")
 
-# Sex contrast (male vs female)
-res_sex <- results(dds_sm, contrast = c("sex","male","female"))
+# Compare males with females.
+res_sex <- results(
+  dds_sm,
+  contrast = c("sex", "male", "female")
+)
 
-# Optional: LFC shrinkage (if apeglm available)
-if (requireNamespace("apeglm", quietly = TRUE)) {
-  suppressPackageStartupMessages(library(apeglm))
-  res_sex <- lfcShrink(dds_sm, contrast = c("sex","male","female"), type = "apeglm")
-}
+# Save the complete DESeq2 results table.
+write.csv(
+  as.data.frame(res_sex),
+  file = "deseq2_hum/DESeq2_sex_SM.csv",
+  row.names = TRUE
+)
 
-# Save results
-dir.create("deseq2_results", showWarnings = FALSE)
-write.csv(as.data.frame(res_sex),
-          file = file.path("deseq2_results_hum", "DESeq2_sex_SM.csv"),
-          row.names = TRUE)
-
-# Quick summary
-cat("Sex results summary (SM):\n")
-print(summary(res_sex))
-
+summary(res_sex)
