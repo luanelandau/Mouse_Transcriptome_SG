@@ -1,0 +1,3 @@
+size==6: observed=1, p_empirical=0.376623
+size>=6: observed=2, p_empirical=0.151848
+n_permutations=1000
