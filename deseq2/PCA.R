@@ -77,6 +77,9 @@ dds_strain2 <- DESeqDataSetFromMatrix(
 # Filter low counts
 dds_strain2 <- dds_strain2[rowSums(counts(dds_strain2)) >= 10, ]
 
+#total number of genes kept
+nrow(dds_strain2)
+
 # Run DESeq
 dds_strain2 <- DESeq(dds_strain2)
 
@@ -148,6 +151,8 @@ dds_salivary <- DESeqDataSetFromMatrix(
 ## Remove genes with fewer than 10 total counts across the
 ## salivary-gland samples
 dds_salivary <- dds_salivary[rowSums(counts(dds_salivary)) >= 10,]
+
+nrow(dds_salivary)
 
 ## Run DESeq2 using only the salivary-gland dataset
 dds_salivary <- DESeq(dds_salivary)

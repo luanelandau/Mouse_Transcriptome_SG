@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /projects/academic/omergokc/Luane/ancestral_sg/salmon/mouse/fastp_cd1/Mous-5A-PANC-Fem.R1.fq.gz, /projects/academic/omergokc/Luane/ancestral_sg/salmon/mouse/fastp_cd1/Mous-5A-PANC-Fem.R2.fq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 23995831,
+    "num_assigned_fragments": 23995831,
+    "num_frags_with_concordant_consistent_mappings": 23484412,
+    "num_frags_with_inconsistent_or_orphan_mappings": 639134,
+    "strand_mapping_bias": 0.5013889212980934,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 11774824,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 11709588,
+    "SF": 280117,
+    "SR": 359017,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

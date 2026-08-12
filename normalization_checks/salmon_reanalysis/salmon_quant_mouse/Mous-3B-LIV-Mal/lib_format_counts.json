@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /projects/academic/omergokc/Luane/ancestral_sg/salmon/mouse/fastp_c57/Mous-3B-LIV-Mal.R1.fq.gz, /projects/academic/omergokc/Luane/ancestral_sg/salmon/mouse/fastp_c57/Mous-3B-LIV-Mal.R2.fq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 22966510,
+    "num_assigned_fragments": 22966510,
+    "num_frags_with_concordant_consistent_mappings": 22612631,
+    "num_frags_with_inconsistent_or_orphan_mappings": 436035,
+    "strand_mapping_bias": 0.5014902069555728,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 11340013,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 11272618,
+    "SF": 191403,
+    "SR": 244632,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

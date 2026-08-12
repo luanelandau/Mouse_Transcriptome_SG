@@ -1,0 +1,13 @@
+{
+    "salmon_version": "1.10.1",
+    "index": "salmon_index",
+    "libType": "A",
+    "mates1": "/projects/academic/omergokc/Luane/ancestral_sg/salmon/mouse/fastp_cd1/Mous-3A-SL-Mal-L.R1.fq.gz",
+    "mates2": "/projects/academic/omergokc/Luane/ancestral_sg/salmon/mouse/fastp_cd1/Mous-3A-SL-Mal-L.R2.fq.gz",
+    "validateMappings": [],
+    "seqBias": [],
+    "gcBias": [],
+    "output": "salmon_quant/Mous-3A-SL-Mal-L",
+    "threads": "12",
+    "auxDir": "aux_info"
+}

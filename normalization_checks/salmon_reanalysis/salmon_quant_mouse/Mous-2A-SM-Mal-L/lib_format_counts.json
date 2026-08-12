@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /projects/academic/omergokc/Luane/ancestral_sg/salmon/mouse/fastp_cd1/Mous-2A-SM-Mal-L.R1.fq.gz, /projects/academic/omergokc/Luane/ancestral_sg/salmon/mouse/fastp_cd1/Mous-2A-SM-Mal-L.R2.fq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 27826163,
+    "num_assigned_fragments": 27826163,
+    "num_frags_with_concordant_consistent_mappings": 27060468,
+    "num_frags_with_inconsistent_or_orphan_mappings": 854342,
+    "strand_mapping_bias": 0.5036505281431201,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 13629019,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 13431449,
+    "SF": 368606,
+    "SR": 485736,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
