@@ -1,4 +1,4 @@
-# TAD analysis
+# Figure 4: TAD analysis
 
 This folder contains files used for TAD analysis. The chromatin accessibility and ChIP-seq datasets were downloaded from ENCODE as already processed bigWig files; full details are provided in the Methods section of the paper.
 
@@ -7,4 +7,9 @@ This folder contains files used for TAD analysis. The chromatin accessibility an
 - RAD21 ChIP-seq, CH12.LX: ENCSR000ERK / ENCFF021SZL
 - H3K4me3 ChIP-seq: ENCSR000CGK / ENCFF012DBS
 
-Analysis files in this directory include `CH12_25kb_select.ini` and `hic_25kb.sh`.
+## Workflows
+
+- `hic_25kb.sh` runs the main 25-kb TAD workflow using `CH12_25kb_select.ini`.
+- `Fig_4c_TADs_sex_differences/` contains the male–female TAD comparison; see its README for the associated shell script and configuration.
+
+These workflows depend on external Hi-C and processed ENCODE tracks described in the paper. Review all input paths and software requirements in the shell and configuration files before running them. Final figure assembly is not performed here.

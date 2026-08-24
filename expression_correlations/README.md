@@ -19,7 +19,7 @@ For each tissue, it:
 1. Reads the human and mouse annotated expression mastersheets.
 2. Retains secreted one-to-one orthologs.
 3. Joins the human and mouse tables using the ortholog assignments.
-4. Filters genes according to `MIN_TPM` and `FILTER_MODE`. #I am not doing this 
+4. Filters genes according to `MIN_TPM` and `FILTER_MODE`.
 5. Calculates the Spearman correlation and a bootstrap 95% confidence interval.
 6. Creates a combined correlation figure with all five tissues using shared axis limits.
 
@@ -75,18 +75,17 @@ Main outputs are:
 
 ```text
 ALL_5_tissues_spearman_bootstrap_comparisons.csv
-ALL_5_tissues_spearman_bootstrap_values.csv
 figures/ALL_5_tissues_spearman_bootstrap_comparisons.png
 ```
 
-The comparisons file contains one row per tissue comparison. The bootstrap-values file contains the results from every bootstrap iteration and is much larger.
+The comparisons file contains one row per tissue comparison.
 
 ## Recommended order
 
 Run the scripts from the project directory:
 
 ```bash
-Rscript "expression_correlations/correlations_secreted_genes_with_CI_TPM>2_stack.R"
+Rscript "expression_correlations/analyze_mouse_human_correlations_by_tissue.R"
 Rscript "expression_correlations/compare_correlations_between_tissues_bootstrap.R"
 ```
 

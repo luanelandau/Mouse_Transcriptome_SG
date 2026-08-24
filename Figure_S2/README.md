@@ -1,10 +1,10 @@
-# Figure S9: Ensembl Orthology Verification
+# Figure S2: Ensembl orthology verification
 
 ## Overview
 
 This directory contains an independent verification of the mouse–human orthology analysis used in the paper. The original analysis used orthology assignments from The Jackson Laboratory; the verification presented here instead uses the Ensembl mouse–human orthology table downloaded from BioMart.
 
-The workflow generates Figure S9, which reproduces the analyses and layout of Figure 1 using Ensembl orthology annotations. Comparing the two results provides a check that the conclusions are robust to the choice of orthology source.
+The workflow generates Figure S2, which reproduces the analyses and layout of Figure 1 using Ensembl orthology annotations. Comparing the two results provides a check that the conclusions are robust to the choice of orthology source.
 
 ## Input orthology data
 
@@ -29,11 +29,11 @@ Run the scripts in the following order:
 
    These scripts follow the same annotation procedure used previously for the Jackson Laboratory orthology data, but substitute the Ensembl-derived orthology table. Genes without an identified ortholog are classified as mouse-specific or human-specific, as appropriate.
 
-3. **Generate the Figure S9 bubble plots**
+3. **Generate the Figure S2 bubble plots**
 
    `Figure1_human_and_mouse_bubbles_ensembl.R` reproduces the Figure 1 bubble-plot analysis using the Ensembl-annotated mastersheets. It shows the top secreted genes in the three mouse and human salivary glands, colored by orthology class.
 
-4. **Generate the Figure S9 bar plots**
+4. **Generate the Figure S2 bar plots**
 
    `Fig1C_barplots_orthology_secreted_genes_human_mouse_ENSEMBLorthology.R` reproduces the Figure 1C bar plots using Ensembl orthology. The plots summarize the percentage of total expression contributed by one-to-one, lineage-specific, and other orthology categories.
 
@@ -45,7 +45,7 @@ Contains the human and mouse expression mastersheets annotated with Ensembl orth
 
 ### `figures/`
 
-Contains the PNG and SVG files used to assemble Figure S9:
+Contains the PNG and SVG files used to assemble Figure S2:
 
 - `bubbles_mouse_top_human_bottom_3glands_ensembl.*` — mouse and human salivary-gland bubble plots.
 - `percent_total_expression_orthology_secreted_combined_horizontal_ensembl.*` — bar plots showing the contribution of each orthology category to total expression.

@@ -1,11 +1,10 @@
-## Calculate TPM and Generate Gene-Expression Mastersheets
+# Calculate TPM and generate gene-expression master sheets
 
-####Update with human script!!!
-
-This workflow uses two R scripts:
+This workflow uses three R scripts:
 
 1. `Calculate_TPM.R` calculates TPM values for each individual featureCounts file.
 2. `generate_mastersheets_RAW_and_TPM.R` combines all individual C57 and CD1 files into raw-count and TPM mastersheets.
+3. `generate_mastersheets_counts_human.R` combines human raw-count and TPM files into human expression matrices.
 
 ### Requirements
 
@@ -76,3 +75,20 @@ miscelaneous_sheets/gene_expression_matrix_C57_CD1_TPMs.csv
 ```
 
 The raw-count matrix contains the original featureCounts values, while the TPM matrix contains the calculated TPM values. Each sample is stored in a separate column.
+
+### Step 3: Generate the human master sheets
+
+After running `Calculate_TPM.R` on the featureCounts files under `readCounts_human/`, run:
+
+```bash
+Rscript TPM/generate_mastersheets_counts_human.R
+```
+
+This script combines the human sample files and writes:
+
+```text
+miscelaneous_sheets/gene_expression_matrix_human_RAW_COUNTS.csv
+miscelaneous_sheets/gene_expression_matrix_human_TPMs.csv
+```
+
+The human annotation workflow is documented in `human_secretome_annotation/README.md`. Review the project-specific paths near the top of each script before running it.

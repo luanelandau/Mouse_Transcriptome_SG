@@ -27,10 +27,19 @@ Run the scripts in the following order:
    Rscript deseq2_sex.R
    ```
 
+6. **Annotate the Salmon TPM master sheets and generate Table S4**
+   ```bash
+   Rscript Table_S4_annotate_salmon_tpm_and_summarize_secreted_genes.R
+   ```
+
+   Annotated tissue master sheets and the secreted-expression summary are written under `salmon_annotated_secretion_orthology/`.
+
 ## Optional normalization check
 
 Check the distribution of Salmon TPM values:
 
 ```bash
-Rscript TPM_distribution_by_species_salmon.R
+Rscript TPM_distribution_by_species_comparison_salmon_hisat.R
 ```
+
+The workflow uses project-specific paths and a `quant_paths.txt` file listing Salmon outputs. Review these inputs before execution. The DESeq2 result tables are written under `deseq2_sex/`, and associated volcano plots under `figures_sex/`.

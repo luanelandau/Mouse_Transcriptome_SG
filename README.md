@@ -58,7 +58,7 @@ Figures 1–4 have dedicated directories (`Figure_1/` through `Figure_4/`); brie
 | **Table S9** | Mouse DESeq2 results for sex and strain in PAR, SM, SL, pancreas, and liver. | `deseq2/deseq2_sex_strain_final.R`; outputs under `deseq2/deseq2_results/` |
 | **Table S10** | Chi-square comparison of the number/proportion of sex-associated DEGs among tissues. | `deseq2/Table_S10_chi_square_DEGs.R`; `deseq2/Table_S10_chi_square_DEGs.csv` |
 | **Table S11** | Human submandibular-gland DESeq2 sex-differential-expression results. | `deseq2_hum/deseq2_hum.R`; `deseq2_hum/DESeq2_sex_SM.csv` |
-| **Table S12** | Cluster analysis results. | Scripts and results under `deseq2_hum/` |
+| **Table S12** | Genomic cluster analysis of sex-associated genes in mouse SM. | `cluster_analysis/`; cluster summaries in `cluster_analysis/clusters_SM.csv` and `cluster_analysis/clusters_SM_summary.csv` |
 | **Table S13** | Mouse sex-differential-expression results from the Salmon normalization check. | `normalization_checks/salmon_reanalysis/deseq2_sex.R`; outputs under `normalization_checks/salmon_reanalysis/deseq2_sex/` |
 | **Table S14** | HOMER promoter-motif results for the `Klk` cluster. | `cluster_analysis/cluster_klk/` |
 | **Table S15** | BLAST results for `Klk` genes in other species. | BLAST command is described in the paper; scripts and results are not stored here. |
@@ -120,14 +120,15 @@ The accompanying chromatin tracks were obtained as processed bigWig files from E
 | [`human_secretome_annotation/`](human_secretome_annotation/) | Human secretome, HPA, and orthology annotation; see [`human_secretome_annotation/README.md`](human_secretome_annotation/README.md) |
 | [`miscelaneous_sheets/`](miscelaneous_sheets/) | Intermediate and final expression master sheets used by downstream analyses |
 | [`deseq2/`](deseq2/) | Differential-expression and PCA analyses |
-| [`deseq2_hum/`](deseq2_hum/) | Human SM sex differential-expression analysis and mouse–human volcano-plot source script |
+| [`deseq2_hum/`](deseq2_hum/) | Human SM sex differential-expression analysis and mouse–human volcano-plot source script; see [`deseq2_hum/README.md`](deseq2_hum/README.md) |
 | [`expression_correlations/`](expression_correlations/) | Cross-species expression-correlation analyses; see [`expression_correlations/README.md`](expression_correlations/README.md) |
 | [`Figure_1/`](Figure_1/) | Figure 1 source-plot scripts, proteomics input, and outputs |
 | [`Figure_2/`](Figure_2/) | Figure 2 sex-bias, proteome/transcriptome integration, and sialyltransferase source plots; see [`Figure_2/README.md`](Figure_2/README.md) |
 | [`Figure_3/`](Figure_3/) | Figure 3 chromosome 7 and `Klk`-expression source plots; see [`Figure_3/README.md`](Figure_3/README.md) |
 | [`Figure_4/`](Figure_4/) | Figure 4 TAD workflows, including the nested male–female comparison; see [`Figure_4/README.md`](Figure_4/README.md) |
 | [`Figure_S2/`](Figure_S2/) | Figure S2 Ensembl-based orthology verification; see [`Figure_S2/README.md`](Figure_S2/README.md) |
-| [`cluster_analysis/`](cluster_analysis/) | SM sex-DEG genomic-clustering permutations and HOMER motif analysis of the `Klk` cluster; see the [`permutation`](cluster_analysis/permutations/README.md) and [`Klk motif`](cluster_analysis/cluster_klk/README.md) READMEs |
+| [`cluster_analysis/`](cluster_analysis/) | SM sex-DEG cluster summaries, permutations, GO enrichment, and HOMER motif analysis; see [`cluster_analysis/README.md`](cluster_analysis/README.md) |
+| [`normalization_checks/`](normalization_checks/) | Expression-threshold checks and Salmon reanalysis; see [`normalization_checks/README.md`](normalization_checks/README.md) |
 
 The directory names `Mouse_secretome_annotaton` and `miscelaneous_sheets` retain their original spellings so that existing script paths continue to work.
 
