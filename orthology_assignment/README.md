@@ -7,7 +7,7 @@ relationships.
 
 * `Human_to_Mouse_Orthologs_HMD_HumanPhenotype.rpt`
   Input human–mouse orthology table obtained from the Mouse Genome 
-Informatics database.
+Informatics database (Jackson Lab).
 
 * `orthology_assignment.R`
   R script that classifies each ortholog pair as:
