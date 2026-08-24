@@ -175,21 +175,3 @@ Cell type
 Mean_TPM
 gland-specific TPM columns
 ```
-
-## HPA version note
-
-The historical master sheets used HPA v24 secretome-function annotations.
-The current HPA v25 Protein Atlas table assigns the same `Secretome location`
-to all genes in this dataset, but updates `Secretome function` for six genes:
-
-| Gene | HPA v24 | HPA v25 |
-|---|---|---|
-| AGER | Other | Receptor |
-| CCN3 | Growth factor | Hormone |
-| FCMR | Immunity | Receptor |
-| GFOD1 | Enzyme | No annotated function |
-| HSP90B1 | Other | Enzyme |
-| RNASE11 | Enzyme | No annotated function |
-
-These differences reflect HPA database updates rather than changes to the
-analysis workflow.
