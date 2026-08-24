@@ -132,17 +132,6 @@ The accompanying chromatin tracks were obtained as processed bigWig files from E
 
 The directory names `Mouse_secretome_annotaton` and `miscelaneous_sheets` retain their original spellings so that existing script paths continue to work.
 
-## Data availability and large files
-
-A path on a computing cluster cannot be linked directly from GitHub for public access: it is only meaningful to users who can access that cluster and filesystem. For a file needed to reproduce the analysis, use one of these approaches:
-
-- Commit it directly when it is modest in size and redistribution is permitted.
-- Use Git LFS for a versioned file that is too large for ordinary Git history.
-- Deposit raw sequencing reads and large processed datasets in an appropriate public repository (for example GEO/SRA, Zenodo, or Figshare), then add the accession or DOI here.
-- Use a GitHub Release for a stable downloadable snapshot that does not need to live in the normal source history.
-
-For long-term reproducibility, a public data-repository accession is preferable to a cluster path. Raw FASTQ files generally belong in a domain repository such as SRA; GitHub should contain the scripts, small inputs, metadata, and links needed to reconstruct the analysis.
-
 ## Reproducing the analyses
 
 Detailed package requirements and commands are documented in the directory-level READMEs. A typical execution order is:
