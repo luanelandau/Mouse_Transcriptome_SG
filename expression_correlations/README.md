@@ -10,7 +10,7 @@ This folder contains scripts and output files used to compare the expression of 
 
 ## Scripts
 
-### `correlations_secreted_genes_with_CI.R`
+### `analyze_mouse_human_correlations_by_tissue.R`
 
 This script builds the unified mouse–human expression tables for each tissue and calculates the mouse–human Spearman correlation.
 
@@ -49,7 +49,7 @@ The unified files contain:
 - `TPM_human`
 - `TPM_mouse`
 
-### `correlation_glands_confidence_interval.R`
+### `compare_correlations_between_tissues_bootstrap.R`
 
 This script compares the mouse–human Spearman correlations among the five tissues.
 
@@ -87,7 +87,7 @@ Run the scripts from the project directory:
 
 ```bash
 Rscript "expression_correlations/correlations_secreted_genes_with_CI_TPM>2_stack.R"
-Rscript "expression_correlations/correlation_glands_confidence_interval.R"
+Rscript "expression_correlations/compare_correlations_between_tissues_bootstrap.R"
 ```
 
 Run the correlation script first because it creates the unified tissue tables used by the tissue-comparison script.

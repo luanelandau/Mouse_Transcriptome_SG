@@ -1,0 +1,5 @@
+ortholog_type,ensembl_genes,jackson_genes,concordant_genes,difference_jackson_minus_ensembl,database_with_more_genes
+one-to-one,17171,16984,16167,-187,Ensembl
+one-to-many,2211,1729,1115,-482,Ensembl
+many-to-many,882,1408,550,526,Jackson
+lineage-specific,21531,21296,20193,-235,Ensembl

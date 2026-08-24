@@ -1,6 +1,6 @@
-"Tissue","TPM_threshold","Expressed_genes","Total_unique_genes","Percent_expressed"
-"PAR",1,12651,41079,30.8
-"SM",1,12040,41079,29.31
-"SL",1,14129,41079,34.39
-"PANC",1,11622,41079,28.29
-"LIV",1,11879,41079,28.92
+Tissue,TPM_threshold,Expressed_genes,Total_unique_genes,Percent_expressed
+PAR,2,10465,41079,25.48
+SM,2,10032,41079,24.42
+SL,2,12381,41079,30.14
+PANC,2,9266,41079,22.56
+LIV,2,10195,41079,24.82

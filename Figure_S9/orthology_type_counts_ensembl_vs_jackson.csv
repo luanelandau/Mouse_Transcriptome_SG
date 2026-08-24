@@ -1,9 +1,0 @@
-dataset,ortholog_type,n_relationships
-Ensembl,one-to-one,17187
-Jackson,one-to-one,16984
-Ensembl,one-to-many (human-to-mouse),0
-Jackson,one-to-many (human-to-mouse),1373
-Ensembl,one-to-many (mouse-to-human),2789
-Jackson,one-to-many (mouse-to-human),871
-Ensembl,many-to-many,5463
-Jackson,many-to-many,10371

@@ -15,6 +15,12 @@ strain, as well as combined master tables.
   Performs PCA using variance-stabilized gene-expression counts. It 
 generates PCA plots for all tissues and for the salivary glands only.
 
+* `Table_S13_chi_square_DEGs.R`
+  Compares the proportions of sex-associated differentially expressed genes
+  among tissues using a chi-square test and BH-adjusted pairwise proportion
+  tests. It saves the table of BH-adjusted pairwise p-values as
+  `Table_S13_chi_square_DEGs.csv`.
+
 ## Output folders
 
 * `deseq2_results/`
@@ -31,5 +37,5 @@ Run the scripts from the main `Mouse_Transcriptome_SG` project directory:
 ```r
 source("deseq2/deseq2_sex_strain_final.R")
 source("deseq2/PCA.R")
+source("deseq2/Table_S13_chi_square_DEGs.R")
 ```
-

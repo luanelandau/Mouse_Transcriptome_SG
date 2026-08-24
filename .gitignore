@@ -1,0 +1,6 @@
+# R workspace and history files
+*.RData
+*.Rhistory
+
+# macOS metadata
+.DS_Store
